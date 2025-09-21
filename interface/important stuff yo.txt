@@ -1,0 +1,1 @@
+basicly this text file assigns all the created characters in <game_directory/history/countries/(country.txt)> an image. So even if a guy has a portrait credited in <game_directory/common/characters/(country.txt)> it doesn't mean that if you create an image listed there it will work. You need to edit the file above this text file you read!
