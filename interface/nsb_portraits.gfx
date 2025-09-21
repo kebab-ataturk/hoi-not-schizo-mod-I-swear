@@ -302,12 +302,12 @@ spriteTypes = {
 	#SOV
 	SpriteType = {
 		name = "GFX_portrait_SOV_tsar_stalin"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_tsar_stalin.dds"
+		texturefile = "gfx/leaders/SOV/junko2.dds"
 	}
 	
 	SpriteType = {
 		name = "GFX_portrait_SOV_aleksey_rykov"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_aleksey_rykov.dds"
+		texturefile = "gfx/leaders/SOV/junko.dds"
 	}
 	
 	SpriteType = {
@@ -327,12 +327,12 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_SOV_nikolay_bukharin"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_nikolay_bukharin.dds"
+		texturefile = "gfx/leaders/SOV/junko.dds"
 	}
 	
 	SpriteType = {
 		name = "GFX_portrait_SOV_vladimir_kirillovich"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_vladimir_kirillovich.dds"
+		texturefile = "gfx/leaders/SOV/sariel.dds"
 	}
 	
 	SpriteType = {
@@ -347,7 +347,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_SOV_patriarch_meletius"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_patriarch_meletius.dds"
+		texturefile = "gfx/leaders/SOV/sariel2.dds"
 	}
 	
 	SpriteType = {
@@ -362,7 +362,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_SOV_white_transitionary_council"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_white_transitionary_council.dds"
+		texturefile = "gfx/leaders/SOV/sariel.dds"
 	}
 	
 

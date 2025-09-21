@@ -2704,7 +2704,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_SOV_grigory_zinovyev"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_grigory_zinovyev.dds"
+		texturefile = "gfx/leaders/SOV/junko.dds"
 	}
 
 	spriteType = {
@@ -2714,7 +2714,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_SOV_ivan_smirnov"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_ivan_smirnov.dds"
+		texturefile = "gfx/leaders/SOV/junko.dds"
 	}
 
 	spriteType = {
@@ -2724,7 +2724,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_SOV_lavrenty_beriya"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_lavrenty_beriya.dds"
+		texturefile = "gfx/leaders/SOV/junko.dds"
 	}
 
 	spriteType = {
@@ -2744,7 +2744,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_SOV_lev_kamenev"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_lev_kamenev.dds"
+		texturefile = "gfx/leaders/SOV/junko.dds"
 	}
 
 	spriteType = {
@@ -2764,7 +2764,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_SOV_supreme_soviet"
-		texturefile = "gfx/leaders/SOV/portrait_SOV_supreme_soviet.dds"
+		texturefile = "gfx/leaders/SOV/junko2.dds"
 	}
 
 	spriteType = {
@@ -5729,7 +5729,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_MEX_leon_trotsky
-		texturefile = "gfx/leaders/SOV/Portrait_Leon_Trotsky.dds"
+		texturefile = "gfx/leaders/SOV/hecatia.dds"
 	}
 
 	spriteType = {
@@ -6464,7 +6464,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SOV_iosif_stalin
-		texturefile = "gfx/leaders/SOV/Portrait_Soviet_Joseph_Stalin.dds"
+		texturefile = "gfx/leaders/SOV/junko.dds"
 	}
 
 	spriteType = {
@@ -6689,17 +6689,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SOV_lev_trotsky
-		texturefile = "gfx/leaders/SOV/Portrait_Leon_Trotsky.dds"
+		texturefile = "gfx/leaders/SOV/hecatia.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SOV_konstantin_rodzayevsky
-		texturefile = "gfx/leaders/SOV/Portrait_Soviet_Konstantin_Rodzaevsky.dds"
+		texturefile = "gfx/leaders/SOV/sariel.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SOV_aleksandr_kerensky
-		texturefile = "gfx/leaders/SOV/Portrait_Soviet_Generic_1.dds"
+		texturefile = "gfx/leaders/SOV/mambo1.dds"
 	}
 
 	spriteType = {
