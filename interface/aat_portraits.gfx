@@ -6,23 +6,23 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_ICE_hermann_jonasson"
-		texturefile = "gfx/leaders/ICE/portrait_ICE_hermann_jonasson.dds"
+		texturefile = "gfx/leaders/ICE/letty.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ICE_gisli_sigurbjornsson"
-		texturefile = "gfx/leaders/ICE/portrait_ICE_gisli_sigurbjornsson.dds"
+		texturefile = "gfx/leaders/ICE/letty.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ICE_brynjolfur_bjarnason"
-		texturefile = "gfx/leaders/ICE/portrait_ICE_brynjolfur_bjarnason.dds"
+		texturefile = "gfx/leaders/ICE/letty.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ICE_sveinn_bjornsson"
-		texturefile = "gfx/leaders/ICE/portrait_ice_sveinn_bjornsson.dds"
+		texturefile = "gfx/leaders/ICE/letty.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ICE_olafur_thors"
-		texturefile = "gfx/leaders/ICE/portrait_ICE_olafur_thors.dds"
+		texturefile = "gfx/leaders/ICE/letty.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ICE_bjorn_sveinsson_bjornsson"
@@ -30,7 +30,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ICE_king_knud"
-		texturefile = "gfx/leaders/ICE/portrait_ICE_king_knud.dds"
+		texturefile = "gfx/leaders/ICE/letty.dds"
 	}
 
 	##########################
@@ -40,7 +40,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_NOR_lev_trotskij"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_Lev_Trotskij.dds"
+		texturefile = "gfx/leaders/SOV/hecatia.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_henry_diesen"
@@ -52,35 +52,35 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_Johan_Nygaardsvold"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_johan_nygaardsvold.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_martin_tranmael"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_martin_tranmael.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_johan_h_andresen"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_johan_h_andresen.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_adam_egede_nissen"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_adam_egede_nissen.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_olav_scheflo"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_olav_scheflo.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_jonas_lie"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_jonas_lie.dds"
+		texturefile = "gfx/leaders/NOR/lunasa2.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_peder_anker_wedel_jarlsberg"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_peder_anker_wedel_jarlsberg.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_king_haakon_vii"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_king_haakon_vii.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_king_haakon_military_small"
@@ -88,11 +88,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_queen_mathilde_i"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_queen_mathilde_i.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_prince_olav"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_prince_olav.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_prince_olaf_military_small"
@@ -100,15 +100,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_vidkun_quisling_1"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_vidkun_quisling_1.dds"
+		texturefile = "gfx/leaders/NOR/lunasa4.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_vidkun_quisling_2"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_vidkun_quisling_2.dds"
+		texturefile = "gfx/leaders/NOR/lunasa3.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_vidkun_quisling_3"
-		texturefile = "gfx/leaders/NOR/portrait_NOR_vidkun_quisling_3.dds"
+		texturefile = "gfx/leaders/NOR/lunasa2.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_NOR_carl_gustav_fleischer"
@@ -184,7 +184,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_JAN_johan_mayen"
-		texturefile = "gfx/leaders/NOR/portrait_JAN_johan_mayen.dds"
+		texturefile = "gfx/leaders/NOR/layla.dds"
 	}
 
 	##########################
@@ -225,7 +225,7 @@ spriteTypes = {
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_king_gustaf_v"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_gustaf_v.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}
 		spriteType = {
 		name = "GFX_portrait_SWE_gustaf_v_patches"
@@ -245,7 +245,7 @@ spriteTypes = {
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_gosta_ehrensvard"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_gosta_ehrensvard.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}
 		spriteType = {
 		name = "GFX_portrait_SWE_helge_stromback"
@@ -257,27 +257,27 @@ spriteTypes = {
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_sven_olav_lindholm"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_sven_olav_lindholm.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_gosta_bagge"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_gosta_bagge.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_ernst_wigforss"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_ernst_wigforss.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_birger_furugard"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_birger_furugard.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_axel_pehrsson_bramstorp"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_axel_pehrsson_bramstorp.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_fallen_riksdag"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_fallen_riksdag.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_erik_af_edholm"
@@ -289,11 +289,11 @@ spriteTypes = {
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_karl_kilbom"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_karl_kilbom.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_nordic_defense_council"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_nordic_defense_council.dds"
+		texturefile = "gfx/leaders/SWE/merlin3.dds"
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_sven_linderot"
@@ -301,7 +301,7 @@ spriteTypes = {
 	}	
 		spriteType = {
 		name = "GFX_portrait_SWE_nils_flyg"
-		texturefile = "gfx/leaders/SWE/portrait_SWE_nils_flyg.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}	
 
 
@@ -375,7 +375,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_cay_lembcke"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_cay_lembcke.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_carl_jacobsen"
@@ -387,7 +387,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_aksel_larsen"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_aksel_larsen.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_aage_vedel"
@@ -399,11 +399,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_werner_best"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_werner_best.dds"
+		texturefile = "gfx/leaders/DEN/lyrica2.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_vilhelm_buhl"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_vilhelm_buhl.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_paul_ramm"
@@ -415,11 +415,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_knud_bach"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_knud_bach.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_knud_kristensen"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_knud_kristensen.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_hjalmar_rechnitzer"
@@ -431,15 +431,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_frits_clausen"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_frits_clausen.dds"
+		texturefile = "gfx/leaders/DEN/lyrica2.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_freedom_council"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_freedom_council.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_frederik_ix"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_frederik_ix.dds"
+		texturefile = "gfx/leaders/DEN/lyrica3.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_frederik_christian_essemann"
@@ -467,7 +467,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_christmas_moller"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_christmas_moller.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_christian_x"

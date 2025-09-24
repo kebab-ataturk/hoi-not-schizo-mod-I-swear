@@ -1350,7 +1350,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_ICE_sveinn_bjornsson"
-		texturefile = "gfx/leaders/ICE/portrait_ice_sveinn_bjornsson.dds"
+		texturefile = "gfx/leaders/ICE/letty.dds"
 	}
 
 	spriteType = {
@@ -1824,7 +1824,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_luxembourg_joseph_bech"
-		texturefile = "gfx/leaders/LUX/portrait_lux_joseph_bech.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 
 	spriteType = {
@@ -3711,22 +3711,22 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Thorvald_Stauning
-		texturefile = "gfx/leaders/DEN/Portrait_Denmark_Thorvald_Stauning.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_DEN_erik_scavenius
-		texturefile = "gfx/leaders/DEN/Portrait_Denmark_erik_scavenius.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Frits_Clausen
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Aksel_Larsen
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 
 	spriteType = {
@@ -5829,7 +5829,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Johan_Nygaardsvold
-		texturefile = "gfx/leaders/NOR/portrait_NOR_johan_nygaardsvold.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 
 	spriteType = {
@@ -5839,17 +5839,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_NOR_adam_egede_nissen
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_4.dds"
+		texturefile = "gfx/leaders/NOR/lunasa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_NOR_peder_anker_wedel_jarlsberg
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/Europe/lunasa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_NOR_vidkun_quisling_1
-		texturefile = "gfx/leaders/NOR/Portrait_Norway_Vidkun_Quisling.dds"
+		texturefile = "gfx/leaders/NOR/lunasa2.dds"
 	}
 	
 	spriteType = {
@@ -6819,7 +6819,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SWE_per_albin_hansson
-		texturefile = "gfx/leaders/SWE/Portrait_Sweden_Per_Albin_Hansson.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}
 
 	spriteType = {
@@ -6834,7 +6834,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SWE_axel_pehrssonbramstorp
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+		texturefile = "gfx/leaders/SWE/merlin.dds"
 	}
 
 	spriteType = {
@@ -8663,19 +8663,19 @@ spriteTypes = {
 	## LUX ##
 	SpriteType = {
 		name = "GFX_portrait_LUX_charlotte_wilhelmine"
-		texturefile = "gfx/leaders/LUX/portrait_LUX_charlotte_wilhelmine.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_LUX_charles_marx"
-		texturefile = "gfx/leaders/Europe/portrait_Europe_Generic_1.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_LUX_pierre_dupong"
-		texturefile = "gfx/leaders/Europe/portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_LUX_damian_kratzenberg"
-		texturefile = "gfx/leaders/Europe/portrait_Europe_Generic_3.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_LUX_emile_speller"

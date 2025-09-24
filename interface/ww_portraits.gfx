@@ -649,15 +649,15 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_LUX_charles_marx"
-		texturefile = "gfx/leaders/LUX/portrait_LUX_charles_marx.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_LUX_pierre_dupong"
-		texturefile = "gfx/leaders/LUX/portrait_LUX_pierre_dupong.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_LUX_damian_kratzenberg"
-		texturefile = "gfx/leaders/LUX/portrait_LUX_damian_kratzenberg.dds"
+		texturefile = "gfx/leaders/LUX/sekibanki.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_LUX_emile_speller"
