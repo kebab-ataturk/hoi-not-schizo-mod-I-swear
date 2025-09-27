@@ -1999,7 +1999,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_fin_carl_mannerheim"
-		texturefile = "gfx/leaders/FIN/portrait_fin_carl_mannerheim.dds"
+		texturefile = "gfx/leaders/FIN/youmu3.dds"
 	}
 
 	spriteType = {
@@ -4184,37 +4184,37 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_FIN_prince_wolfgang_von_hesse
-		texturefile = "gfx/leaders/FIN/portrait_FIN_prince_wolfgang_von_hesse.dds"
+		texturefile = "gfx/leaders/FIN/yuyuko4.dds"
 	}
 
 	#spriteType = { #Old Portrait, updated in AAT
 	#	name = GFX_portrait_FIN_UNUSED_risto_ryti #renamed to "UNUSED" so it doesn't show up in searches
-	#	texturefile = "gfx/leaders/FIN/Portrait_Finland_Risto_Heikki_Ryti.dds"
+	#	texturefile = "gfx/leaders/FIN/yuyuko.dds"
 	#}
 
 	spriteType = {
 		name = GFX_portrait_FIN_aimo_aaltonen
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+		texturefile = "gfx/leaders/FIN/kokoro.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_FIN_vaino_tanner
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/FIN/youmu2.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_FIN_vilho_annala
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+		texturefile = "gfx/leaders/FIN/yuyuko3.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_FIN_kyosti_kallio
-		texturefile = "gfx/leaders/FIN/Portrait_Finland_Kyosti_Kallio.dds"
+		texturefile = "gfx/leaders/FIN/yuyuko.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_FIN_carl_mannerheim
-		texturefile = "gfx/leaders/FIN/portrait_fin_carl_mannerheim.dds"
+		texturefile = "gfx/leaders/FIN/youmu3.dds"
 	}
 	
 	spriteType = {
@@ -4255,7 +4255,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_FIN_juho_kusti_paasikivi"
-		texturefile = "gfx/leaders/FIN/portrait_FIN_juho_kusti_paasikivi.dds"
+		texturefile = "gfx/leaders/FIN/yuyuko.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_FIN_matti_aarnio"
@@ -4271,15 +4271,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_FIN_pehr_evind_svinhufvud"
-		texturefile = "gfx/leaders/FIN/portrait_FIN_pehr_evind_svinhufvud.dds"
+		texturefile = "gfx/leaders/FIN/yuyuko.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_FIN_ragnar_hakola"
-		texturefile = "gfx/leaders/FIN/portrait_FIN_ragnar_hakola.dds"
+		texturefile = "gfx/leaders/FIN/god.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_FIN_risto_ryti"
-		texturefile = "gfx/leaders/FIN/portrait_FIN_risto_ryti.dds"
+		texturefile = "gfx/leaders/FIN/yuyuko.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_FIN_ruben_lagus"
@@ -4369,11 +4369,11 @@ spriteTypes = {
 	###### KARELIA ######
 	spriteType = {
 		name = "GFX_portrait_KAR_ukki_vainamoinen"
-		texturefile = "gfx/leaders/KAR/portrait_KAR_ukki_vainamoinen.dds"
+		texturefile = "gfx/leaders/KAR/youki.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_KAR_jalmari_takkinen"
-		texturefile = "gfx/leaders/KAR/portrait_KAR_jalmari_takkinen.dds"
+		texturefile = "gfx/leaders/KAR/youki.dds"
 	}
 
 
@@ -5544,7 +5544,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Peteris_Irklis
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+		texturefile = "gfx/leaders/KAR/youki.dds"
 	}
 
 	spriteType = {
