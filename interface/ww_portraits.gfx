@@ -221,7 +221,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_cyrille_adoula"
-		texturefile = "gfx/leaders/BEL/portrait_COG_cyrille_adoula.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke9.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_joseph_kasa_vubu"
@@ -285,7 +285,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_RWA_mutara_rudahigwa"
-		texturefile = "gfx/leaders/BEL/portrait_RWA_mutara_rudahigwa.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke2.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_GHA_kwame_nkrumah"
@@ -297,7 +297,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_RWA_yuhi_musinga"
-		texturefile = "gfx/leaders/BEL/portrait_RWA_yuhi_musinga.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke10.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_fredrik_olsen"
@@ -309,7 +309,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRD_mwambutsa_iv"
-		texturefile = "gfx/leaders/BEL/portrait_BRD_mwambutsa_iv.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke7.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_armand_huyghe"
@@ -329,11 +329,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_moe_poaty_III"
-		texturefile = "gfx/leaders/BEL/portrait_COG_moe_poaty_III.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke4.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_mbop_mabiinc_mambeky"
-		texturefile = "gfx/leaders/BEL/portrait_COG_mbop_mabiinc_mambeky.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke5.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BEL_henri_de_man"
