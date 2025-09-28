@@ -225,7 +225,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_joseph_kasa_vubu"
-		texturefile = "gfx/leaders/BEL/portrait_COG_joseph_kasa_vubu.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke3.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_justin_kokolo"
@@ -237,11 +237,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_pedro_vii_alfonso"
-		texturefile = "gfx/leaders/BEL/portrait_COG_pedro_vii_alfonso.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke12.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_pierre_ryckmans"
-		texturefile = "gfx/leaders/BEL/portrait_COG_pierre_ryckmans.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_KAT_moise_tshombe"
