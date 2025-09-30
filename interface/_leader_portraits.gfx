@@ -520,7 +520,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_SAF_james_hertzog"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_3.dds"
+		texturefile = "gfx/leaders/SAF/Okina.dds"
 	}
 
 	spriteType = {
@@ -1905,7 +1905,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_egy_faud_i"
-		texturefile = "gfx/leaders/EGY/Portrait_EGY_faud_i.dds"
+		texturefile = "gfx/leaders/EGY/Nareko.dds"
 	}
 
 	spriteType = {
