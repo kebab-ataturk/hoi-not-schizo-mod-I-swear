@@ -288,15 +288,15 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_ETH_haile_selassie_field_marshal_uk"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_haile_selassie_field_marshal_uk.dds"
+		texturefile = "gfx/leaders/ETH/Medicine6.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_haile_selassie_field_marshal"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_haile_selassie_field_marshal.dds"
+		texturefile = "gfx/leaders/ETH/Medicine6.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_hailu_tekle_haymanot"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_hailu_tekle_hayamot.dds"
+		texturefile = "gfx/leaders/ETH/Medicine2.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_beyene_merid"
@@ -308,7 +308,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_amha_selassie"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_amha_selassie.dds"
+		texturefile = "gfx/leaders/ETH/Medicine.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_abebe_aregai"
@@ -316,7 +316,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_abba_jofir"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_abba_jofir.dds"
+		texturefile = "gfx/leaders/ETH/Medicine7.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_seyoum_mengesha"
@@ -332,7 +332,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_ras_imru_haile_selassie"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_imru_haile_selassie.dds"
+		texturefile = "gfx/leaders/ETH/Su.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_alemework_beyene"
@@ -364,7 +364,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_haile_selassie_victorious"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_haile_selassie_victorious.dds"
+		texturefile = "gfx/leaders/ETH/Medicine6.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_shawaragad_gadle"
@@ -376,11 +376,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_haile_selassie_gugsa"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_haile_selassie_gugsa.dds"
+		texturefile = "gfx/leaders/ETH/Medicine4.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_haile_selassie_field_marshal_victorious"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_haile_selassie_field_marshal_victorious.dds"
+		texturefile = "gfx/leaders/ETH/Medicine6.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_desta_damtew"
@@ -400,7 +400,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_haile_selassie"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_haile_selassie.dds"
+		texturefile = "gfx/leaders/ETH/Medicine6.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_generic_naval_female_3"
@@ -412,7 +412,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_anarchist_council"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_anarchist_council.dds"
+		texturefile = "gfx/leaders/ETH/Su5.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AFA_mohamed_yayyo"
@@ -420,7 +420,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_military_communists"
-		texturefile = "gfx/leaders/ETH/portrait_ETH_military_communists.dds"
+		texturefile = "gfx/leaders/ETH/Su5.dds"
 	}
 
 }

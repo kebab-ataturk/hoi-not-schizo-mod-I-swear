@@ -4146,7 +4146,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = GFX_portrait_ETH_haile_selassie
-		texturefile = "gfx/leaders/ETH/Portrait_Ethiopia_Haile_Selassie.dds"
+		texturefile = "gfx/leaders/ETH/Medicine6.dds"
 	}
 
 	spriteType = {
