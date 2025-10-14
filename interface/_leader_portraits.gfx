@@ -59,6 +59,26 @@ spriteTypes = {
 		name = "GFX_portrait_GER_wilhelm_ritter_von_thoma_small"
 		texturefile = "gfx/interface/ideas/idea_GER_wilhelm_ritter_von_thoma.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Germany_F"
+		texturefile = "gfx/leaders/GER/Toyohime_Generic.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Germany_N"
+		texturefile = "gfx/leaders/GER/Sakuya_Generic.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Germany_C"
+		texturefile = "gfx/leaders/GER/Zanmu_Generic.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Germany_D"
+		texturefile = "gfx/leaders/GER/Marisa_Generic.dds"
+	}
 
 	#### USA
 
