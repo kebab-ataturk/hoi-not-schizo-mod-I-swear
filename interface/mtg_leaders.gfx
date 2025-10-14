@@ -270,11 +270,11 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_ger_wilhelm_ii"
-		texturefile = "gfx/leaders/GER/portrait_ger_wilhelm_ii.dds"
+		texturefile = "gfx/leaders/GER/Sakuya_Wilhelm2.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ger_wilhelm_iii"
-		texturefile = "gfx/leaders/GER/portrait_ger_wilhelm_iii.dds"
+		texturefile = "gfx/leaders/GER/Sakuya_Wilhelm3.dds"
 	}
 	
 	##########################

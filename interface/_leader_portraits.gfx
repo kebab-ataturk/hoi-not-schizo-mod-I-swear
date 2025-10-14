@@ -4554,12 +4554,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_GER_konrad_adenauer
-		texturefile = "gfx/leaders/GER/Portrait_Germany_Konrad_Adenauer.dds"
+		texturefile = "gfx/leaders/GER/Marisa_Adenauer.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_GER_wilhelm_pieck
-		texturefile = "gfx/leaders/GER/Portrait_Germany_Wilhelm_Pieck.dds"
+		texturefile = "gfx/leaders/GER/Zanmu_Wilhelm_Pieck.dds"
 	}
 
 	spriteType = {
@@ -8529,7 +8529,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_joseph_goebbels"
-		texturefile = "gfx/leaders/GER/portrait_GER_joseph_goebbels.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Goebbels.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_konstantin_von_neurath"
@@ -8573,19 +8573,19 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_albert_speer"
-		texturefile = "gfx/leaders/GER/portrait_GER_albert_speer.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Speer.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_fritz_todt"
-		texturefile = "gfx/leaders/GER/portrait_GER_fritz_todt.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Fritz_Todt.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_adolf_hitler"
-		texturefile = "gfx/leaders/GER/portrait_GER_adolf_hitler.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Hitler.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_eva_braun"
-		texturefile = "gfx/leaders/GER/portrait_GER_eva_braun.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Eva_Braun.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_hermann_ehrhardt"
@@ -8593,11 +8593,11 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_rudolf_hess"
-		texturefile = "gfx/leaders/GER/portrait_GER_rudolf_hess.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Hess.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_wilhelm_iv"
-		texturefile = "gfx/leaders/GER/portrait_GER_wilhelm_iv.dds"
+		texturefile = "gfx/leaders/GER/Sakuya_Wilhelm4.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_josef_grohe"
@@ -8605,7 +8605,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_martin_bormann"
-		texturefile = "gfx/leaders/GER/portrait_GER_martin_bormann.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Bormann.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_hans_frank"
@@ -8617,11 +8617,11 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_hermann_goring"
-		texturefile = "gfx/leaders/GER/portrait_GER_hermann_goring.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Goring.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_GER_heinrich_himmler"
-		texturefile = "gfx/leaders/GER/portrait_GER_heinrich_himmler.dds"
+		texturefile = "gfx/leaders/GER/Toyohime_Himmler.dds"
 	}	
 	SpriteType = {
 		name = "GFX_portrait_GER_hans_krebs"
