@@ -427,6 +427,30 @@ ENG = {
 			"GFX_Portrait_Britain_Generic_navy_3"
 		}
 	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_England_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_England_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_England_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_England_N" 
+			}
+		}
+	}
+
 }
 
 AST = {

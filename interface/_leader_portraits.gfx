@@ -3826,27 +3826,27 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_ENG_stanley_baldwin
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Stanley_Baldwin.dds"
+		texturefile = "gfx/leaders/ENG/Yukari_Baldwin.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_ENG_oswald_mosley
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Oswald_Mosley.dds"
+		texturefile = "gfx/leaders/ENG/Eirin_Mosley.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_ENG_harry_pollitt
-		texturefile = "gfx/leaders/ENG/portrait_eng_harry_pollitt.dds"
+		texturefile = "gfx/leaders/ENG/Yukari_Pollitt.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_ENG_neville_chamberlain
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Neville_Chamberlain.dds"
+		texturefile = "gfx/leaders/ENG/Yukari_Chamberlain.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_ENG_horatio_dundas
-		texturefile = "gfx/leaders/Europe/portrait_europe_generic_6.dds"
+		texturefile = "gfx/leaders/Europe/Maribel_Generic.dds"
 	}
 
 	spriteType = {
@@ -7664,12 +7664,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Edward_VIII
-		texturefile = gfx/leaders/ENG/Portrait_Britain_Edward_VIII.dds
+		texturefile = gfx/leaders/ENG/Maribel_VIII.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Rajani_Palme_Dutt
-		texturefile = gfx/leaders/ENG/Portrait_Britain_Palme_Dutt.dds
+		texturefile = gfx/leaders/ENG/Yukari_Dutt.dds
 	}
 
 	spriteType = {
@@ -7689,12 +7689,34 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Winston_Churchill
-		texturefile = gfx/leaders/ENG/Portrait_Britain_Winston_Churchill.dds
+		texturefile = gfx/leaders/ENG/Yukari_Churchill.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Lord_Edward_Halifax
-		texturefile = gfx/leaders/ENG/Portrait_Britain_Edward_Halifax.dds
+		texturefile = gfx/leaders/ENG/Yukari_Halifax.dds
+	}
+	
+	### ENG Generics
+	
+	spriteType = {
+		name = GFX_Portrait_England_C
+		texturefile = gfx/leaders/ENG/Yukari_Generic2.dds
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_England_D
+		texturefile = gfx/leaders/ENG/Yukari_Generic.dds
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_England_F
+		texturefile = gfx/leaders/ENG/Eirin_Generic.dds
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_England_N
+		texturefile = gfx/leaders/ENG/Maribel_Generic.dds
 	}
 
 	spriteType = {
@@ -7719,17 +7741,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Fallen_Government
-		texturefile = gfx/leaders/ENG/portrait_eng_fallen_government.dds
+		texturefile = gfx/leaders/ENG/Gap_Government.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Harry_Pollitt
-		texturefile = gfx/leaders/ENG/portrait_eng_harry_pollitt.dds
+		texturefile = gfx/leaders/ENG/Yukari_Pollitt.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_George_VI
-		texturefile = gfx/leaders/PAL/Portrait_Britain_George_VI.dds
+		texturefile = gfx/leaders/PAL/Maribel_VI.dds
 	}
 
 	spriteType = {
