@@ -514,6 +514,28 @@ FRA = {
 			"GFX_Portrait_France_Generic_navy_3"
 		}
 	}
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_France_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_France_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_France_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_France_N" 
+			}
+		}
+	}
 }
 
 ITA = {

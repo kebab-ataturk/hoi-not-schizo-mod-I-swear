@@ -1418,7 +1418,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_fra_maurice_thorez"
-		texturefile = "gfx/leaders/FRA/portrait_fra_maurice_thorez.dds"
+		texturefile = "gfx/leaders/FRA/Hisami_Maurice_Thorez.dds"
 	}
 
 	spriteType = {
@@ -1428,7 +1428,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_fra_leon_blum"
-		texturefile = "gfx/leaders/FRA/portrait_fra_leon_blum.dds"
+		texturefile = "gfx/leaders/FRA/Reimu_Leon_Blum.dds"
 	}
 
 	spriteType = {
@@ -1438,7 +1438,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_fra_pierre_laval"
-		texturefile = "gfx/leaders/FRA/portrait_fra_pierre_laval.dds"
+		texturefile = "gfx/leaders/FRA/Reimu_Pierre_Laval.dds"
 	}
 
 	spriteType = {
@@ -1448,12 +1448,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_fra_rene_nicod"
-		texturefile = "gfx/leaders/FRA/Portrait_France_Generic_1.dds"
+		texturefile = "gfx/leaders/FRA/portrait_fra_rene_nicod.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_fra_rene_nicod_small"
-		texturefile = "gfx/interface/ideas/idea_FRA_generic_1.dds"
+		texturefile = "gfx/interface/ideas/idea_fra_rene_nicod.dds"
 	}
 
 
@@ -4399,7 +4399,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_FRA_edouard_daladier
-		texturefile = "gfx/leaders/FRA/Portrait_France_Edouard_Daladier.dds"
+		texturefile = "gfx/leaders/FRA/Reimu_Daladier.dds"
 	}
 
 	spriteType = {
@@ -4414,7 +4414,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_FRA_philippe_petain
-		texturefile = "gfx/leaders/FRA/Portrait_France_Philippe_Petain.dds"
+		texturefile = "gfx/leaders/FRA/Yorihime_Petain.dds"
 	}
 
 	spriteType = {
@@ -4464,7 +4464,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_FRA_charles_de_gaulle
-		texturefile = "gfx/leaders/FRA/Portrait_France_Charles_De_Gaulle.dds"
+		texturefile = "gfx/leaders/FRA/Reimu_De_Gaulle.dds"
 	}
 
 	spriteType = {
@@ -4554,7 +4554,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_FRA_charles_maurras_small
-		texturefile = "gfx/interface/ideas/idea_europe_generic_4.dds"
+		texturefile = "gfx/interface/ideas/portrait_FRA_charles_maurras_small.dds"
 	}
 
 	spriteType = {
@@ -4569,7 +4569,27 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_FRA_paul_reynaud
-		texturefile = "gfx/leaders/FRA/Portrait_France_Paul_Reynaud.dds"
+		texturefile = "gfx/leaders/FRA/Reimu_Reynaud.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_France_C
+		texturefile = "gfx/leaders/FRA/Hisami_Generic.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_France_D
+		texturefile = "gfx/leaders/FRA/Reimu_Generic.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_France_N
+		texturefile = "gfx/leaders/FRA/Reimu98_Generic.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_France_F
+		texturefile = "gfx/leaders/FRA/Yorihime_Generic.dds"
 	}
 
 	spriteType = {
