@@ -516,11 +516,30 @@ spriteTypes = {
 	}
 
 
+	##NMB
+	spriteType = {
+		name = GFX_Portrait_Namibia_C
+		texturefile = "gfx/leaders/NMB/Mai_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Namibia_D
+		texturefile = "gfx/leaders/NMB/Mai_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Namibia_F
+		texturefile = "gfx/leaders/NMB/Mai_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Namibia_N
+		texturefile = "gfx/leaders/NMB/Mai_GenericN.dds"
+	}
+	
+
 	###SAF
 
 	spriteType = {
-		name = "GFX_SAF_moses_kotane"
-		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+		name = GFX_SAF_moses_kotane
+		texturefile = "gfx/leaders/SAF/Satono_Kotane.dds"
 	}
 
 	spriteType = {
@@ -529,8 +548,8 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = "GFX_SAF_daniel_malan"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_2.dds"
+		name = GFX_SAF_daniel_malan
+		texturefile = "gfx/leaders/SAF/Okina_Malan.dds"
 	}
 
 	spriteType = {
@@ -540,7 +559,24 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_SAF_james_hertzog"
-		texturefile = "gfx/leaders/SAF/Okina.dds"
+		texturefile = "gfx/leaders/SAF/Okina_Hertzog.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_South_Africa_C"
+		texturefile = "gfx/leaders/SAF/Satono_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_South_Africa_D"
+		texturefile = "gfx/leaders/SAF/Okina_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_South_Africa_F"
+		texturefile = "gfx/leaders/SAF/Okina_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_South_Africa_N"
+		texturefile = "gfx/leaders/SAF/Satono_GenericN.dds"
 	}
 
 	spriteType = {
@@ -1925,21 +1961,59 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_egy_faud_i"
-		texturefile = "gfx/leaders/EGY/Nareko.dds"
+		texturefile = "gfx/leaders/EGY/Nareko_Faud.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Egypt_C"
+		texturefile = "gfx/leaders/EGY/Nareko_Generic3.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Egypt_D"
+		texturefile = "gfx/leaders/EGY/Nareko_Generic1.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Egypt_F"
+		texturefile = "gfx/leaders/EGY/Nareko_Generic2.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Egypt_N"
+		texturefile = "gfx/leaders/EGY/Nareko_Generic4.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_egy_faud_i_small"
 		texturefile = "gfx/interface/ideas/idea_EGY_faud_i.dds"
 	}
+	
 	spriteType = {
 		name = "GFX_portrait_lib_edwin_barclay"
-		texturefile = "gfx/leaders/LIB/Portrait_LIB_edwin_barclay.dds"
+		texturefile = "gfx/leaders/LIB/Cirno_Barclay.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_lib_edwin_barclay_small"
 		texturefile = "gfx/interface/ideas/idea_LIB_edwin_barclay.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Liberia_C"
+		texturefile = "gfx/leaders/LIB/Cirno_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Liberia_D"
+		texturefile = "gfx/leaders/LIB/Cirno_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Liberia_F"
+		texturefile = "gfx/leaders/LIB/Cirno_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Liberia_N"
+		texturefile = "gfx/leaders/LIB/Cirno_GenericN.dds"
 	}
 
 	##### WTT #####
@@ -4166,17 +4240,34 @@ spriteTypes = {
 	
 	spriteType = {
 		name = GFX_portrait_ETH_haile_selassie
-		texturefile = "gfx/leaders/ETH/Medicine6.dds"
+		texturefile = "gfx/leaders/ETH/Medicine_Emp_Selassie.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Ethiopia_C
+		texturefile = "gfx/leaders/ETH/Su_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Ethiopia_D
+		texturefile = "gfx/leaders/ETH/Medicine_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Ethiopia_F
+		texturefile = "gfx/leaders/ETH/Medicine_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Ethiopia_N
+		texturefile = "gfx/leaders/ETH/Medicine_GenericN.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_ETH_fitawrari_yeebio_woldai
-		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_land_3.dds"
+		texturefile = "gfx/leaders/ETH/Medicine_GenericF.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_ETH_seyoum_mengesha
-		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_land_3.dds"
+		texturefile = "gfx/leaders/ETH/Medicine_GenericF.dds"
 	}
 
 	spriteType = {
@@ -4186,12 +4277,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_ETH_amare_makonnen
-		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_1.dds"
+		texturefile = "gfx/leaders/ETH/Su_GenericC.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_ETH_haile_mariam
-		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+		texturefile = "gfx/leaders/ETH/Medicine_GenericF.dds"
 	}
 
 	#######################
@@ -6374,12 +6465,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SAF_pixley_ka_isaka_seme
-		texturefile = "gfx/leaders/Africa/Portrait_Africa_Generic_3.dds"
+		texturefile = "gfx/leaders/SAF/Satono_Seme.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SAF_jan_smuts
-		texturefile = "gfx/leaders/SAF/Portrait_SouthAfrica_Jan_Smuts.dds"
+		texturefile = "gfx/leaders/SAF/Okina_Smuts.dds"
 	}
 
 	spriteType = {
@@ -7956,17 +8047,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Muhammad_Naguib
-		texturefile = gfx/leaders/SAU/Portrait_Arabia_Generic_democratic1.dds
+		texturefile = "gfx/leaders/EGY/Nareko_Generic1.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Ahmed_Husayn
-		texturefile = gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds
+		texturefile = "gfx/leaders/EGY/Nareko_Generic2.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Hosni_al_Arabi
-		texturefile = gfx/leaders/SAU/Portrait_Arabia_Generic_navy_3.dds
+		texturefile = "gfx/leaders/EGY/Nareko_Generic3.dds"
 	}
 
 	spriteType = {

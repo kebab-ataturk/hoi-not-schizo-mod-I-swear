@@ -101,7 +101,7 @@ characters = {
 			name = ETH_haile_selassie_gugsa
 			portraits = {
 				civilian = {
-					large = GFX_Portrait_Africa_Generic_3
+					large = GFX_portrait_ETH_haile_selassie_gugsa
 				}
 			}
 			country_leader = {
@@ -223,7 +223,7 @@ characters = {
 			name = ETH_alemework_beyene
 			portraits = {
 				civilian = {
-					large = GFX_Portrait_Africa_Generic_1
+					large = GFX_portrait_ETH_alemework_beyene
 				}
 			}
 
@@ -380,10 +380,10 @@ characters = {
 			name = ETH_ras_imru_haile_selassie
 			portraits={
 				civilian = {
-					large = GFX_Portrait_Arabia_Generic_3
+					large = GFX_portrait_ETH_ras_imru_haile_selassie
 				}
 				army={
-					small=GFX_idea_generic_political_advisor_arab_1
+					small=GFX_portrait_ETH_ras_imru_haile_selassie
 				}
 			}
 			country_leader = {

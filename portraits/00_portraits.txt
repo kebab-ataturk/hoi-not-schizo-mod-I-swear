@@ -683,6 +683,29 @@ SAF = {
 			"GFX_Portrait_Britain_Generic_navy_3"
 		}
 	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_South_Africa_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_South_Africa_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_South_Africa_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_South_Africa_N" 
+			}
+		}
+	}
 }
 
 SAF_COM = {
@@ -1217,3 +1240,134 @@ KAR = {
 		}
 	}
 }
+
+EGY = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Egypt_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Egypt_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Egypt_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Egypt_N" 
+			}
+		}
+	}
+
+}
+
+COG = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Congo_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Congo_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Congo_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Congo_N" 
+			}
+		}
+	}
+
+}
+
+LIB = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Liberia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Liberia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Liberia_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Liberia_N" 
+			}
+		}
+	}
+
+}
+
+ETH = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Ethiopia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Ethiopia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Ethiopia_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Ethiopia_N" 
+			}
+		}
+	}
+
+}
+
+NMB = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Namibia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Namibia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Namibia_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Namibia_N" 
+			}
+		}
+	}
+
+}
+

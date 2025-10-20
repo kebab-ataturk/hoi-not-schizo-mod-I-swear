@@ -221,11 +221,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_cyrille_adoula"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke9.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_Adoula.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_joseph_kasa_vubu"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke3.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_Vubu.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_justin_kokolo"
@@ -237,11 +237,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_pedro_vii_alfonso"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke12.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_VII_Alfonso.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_pierre_ryckmans"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_Ryckmans.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_KAT_moise_tshombe"
@@ -285,7 +285,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_RWA_mutara_rudahigwa"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke2.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_Rudahigwa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_GHA_kwame_nkrumah"
@@ -297,7 +297,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_RWA_yuhi_musinga"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke10.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_Musinga.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_fredrik_olsen"
@@ -309,7 +309,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRD_mwambutsa_iv"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke7.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_IV.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_armand_huyghe"
@@ -329,16 +329,37 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_moe_poaty_III"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke4.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_PoatyIII.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_COG_mbop_mabiinc_mambeky"
-		texturefile = "gfx/leaders/BEL/COG/Rinnosuke5.dds"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_Mabiinc_Mambeky.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BEL_henri_de_man"
 		texturefile = "gfx/leaders/BEL/kagerou.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Congo_C"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_GenericC.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Congo_D"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_GenericD.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Congo_F"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_GenericF.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Congo_N"
+		texturefile = "gfx/leaders/BEL/COG/Rinnosuke_GenericN.dds"
+	}
+	
 
 
 
