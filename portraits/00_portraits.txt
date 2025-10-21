@@ -493,6 +493,30 @@ CAN = {
 			"GFX_Portrait_Britain_Generic_navy_3"
 		}
 	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Canada_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Canada_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Canada_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Canada_N" 
+			}
+		}
+	}
+
 }
 
 NZL = {

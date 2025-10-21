@@ -538,7 +538,7 @@ spriteTypes = {
 	###SAF
 
 	spriteType = {
-		name = GFX_SAF_moses_kotane
+		name = "GFX_SAF_moses_kotane"
 		texturefile = "gfx/leaders/SAF/Satono_Kotane.dds"
 	}
 
@@ -548,7 +548,7 @@ spriteTypes = {
 	}
 
 	spriteType = {
-		name = GFX_SAF_daniel_malan
+		name = "GFX_SAF_daniel_malan"
 		texturefile = "gfx/leaders/SAF/Okina_Malan.dds"
 	}
 
@@ -3550,17 +3550,37 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_CAN_mackenzie_king
-		texturefile = "gfx/leaders/CAN/Portrait_Canada_Mackenzie_King.dds"
+		texturefile = "gfx/leaders/CAN/Kasen_King.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_CAN_tim_buck
-		texturefile = "gfx/leaders/CAN/Portrait_Canada_Tim_Buck.dds"
+		texturefile = "gfx/leaders/CAN/Kasen_Buck.dds"
+	}
+	
+	spriteType = {
+		name = GFX_portrait_CAN_j_s_woodsworth
+		texturefile = "gfx/leaders/CAN/Kasen_Woodsworth.dds"
 	}
 
 	spriteType = {
-		name = GFX_portrait_CAN_j_s_woodsworth
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds"
+		name = "GFX_Portrait_Canada_C"
+		texturefile = "gfx/leaders/CAN/Kasen_GenericC.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Canada_D"
+		texturefile = "gfx/leaders/CAN/Kasen_GenericD.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Canada_F"
+		texturefile = "gfx/leaders/CAN/Kasen_GenericF.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Canada_N"
+		texturefile = "gfx/leaders/CAN/Kasen_GenericN.dds"
 	}
 
 	spriteType = {

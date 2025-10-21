@@ -5,17 +5,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_eng_wallis_simpson"
-		texturefile = "gfx/leaders/ENG/portrait_eng_wallis_simpson.dds"
+		texturefile = "gfx/leaders/ENG/Renko_Simpson.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_eng_elizabeth_ii"
-		texturefile = "gfx/leaders/ENG/portrait_eng_elizabeth_ii.dds"
+		texturefile = "gfx/leaders/ENG/Maribel_II.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_eng_fallen_government"
-		texturefile = "gfx/leaders/ENG/portrait_eng_fallen_government.dds"
+		texturefile = "gfx/leaders/ENG/Gap_Government.dds"
 	}	
 	
 	### USA ###
