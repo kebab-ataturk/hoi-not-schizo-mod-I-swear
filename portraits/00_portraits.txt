@@ -686,6 +686,29 @@ USA = {
 			"GFX_Portrait_USA_Generic_navy_3"
 		}
 	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_USA_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_USA_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_USA_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_USA_N" 
+			}
+		}
+	}
 }
 
 SAF = {
@@ -942,6 +965,29 @@ MEX = {
 			"GFX_Portrait_South_America_Generic_navy_1"
 			"GFX_Portrait_South_America_Generic_navy_2"
 			"GFX_Portrait_South_America_Generic_navy_3"
+		}
+	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Mexico_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Mexico_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Mexico_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Mexico_N" 
+			}
 		}
 	}	
 }

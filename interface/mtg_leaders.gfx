@@ -27,7 +27,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_USA_charles_lindbergh"
-		texturefile = "gfx/leaders/USA/portrait_USA_charles_lindbergh.dds"
+		texturefile = "gfx/leaders/USA/Sagume_Lindbergh.dds"
 	}
 
 	spriteType = {
@@ -39,12 +39,12 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_calles_civil"
-		texturefile = "gfx/leaders/MEX/portrait_mex_calles_civil.dds"
+		texturefile = "gfx/leaders/MEX/Yuiman_Calles.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_calles_military"
-		texturefile = "gfx/leaders/MEX/portrait_mex_calles_military.dds"
+		texturefile = "gfx/leaders/MEX/Yuiman_Calles.dds"
 	}
 	
 	spriteType = {
@@ -74,7 +74,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_vicente_lombardo"
-		texturefile = "gfx/leaders/MEX/portrait_mex_vicente_lombardo.dds"
+		texturefile = "gfx/leaders/MEX/Rikako_Lombardo.dds"
 	}
 	
 	spriteType = {
@@ -84,7 +84,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_saturnino_cedillo"
-		texturefile = "gfx/leaders/MEX/portrait_mex_saturnino_cedillo.dds"
+		texturefile = "gfx/leaders/MEX/Yuiman_Cedillo.dds"
 	}
 	
 	spriteType = {
@@ -94,17 +94,17 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_avila_civil"
-		texturefile = "gfx/leaders/MEX/portrait_mex_avila_civil.dds"
+		texturefile = "gfx/leaders/MEX/Yumemi_Avila.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_avila_military"
-		texturefile = "gfx/leaders/MEX/portrait_mex_avila_military.dds"
+		texturefile = "gfx/leaders/MEX/Yumemi_Avila.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_francisco_mugica"
-		texturefile = "gfx/leaders/MEX/portrait_mex_francisco_mugica.dds"
+		texturefile = "gfx/leaders/MEX/Yumemi_Mugica.dds"
 	}
 	
 	spriteType = {
@@ -124,27 +124,27 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_Portrait_MEX_Adolfo_de_la_Huerta"
-		texturefile = "gfx/leaders/MEX/Portrait_MEX_Adolfo_de_la_Huerta.dds"
+		texturefile = "gfx/leaders/MEX/Yumemi_Huerta.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_Portrait_MEX_Dionisio_Encina"
-		texturefile = "gfx/leaders/MEX/Portrait_MEX_Dionisio_Encina.dds"
+		texturefile = "gfx/leaders/MEX/Rikako_Encina.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_Salvador_Abascal"
-		texturefile = "gfx/leaders/MEX/Portrait_MEX_Salvador_Abascal.dds"
+		texturefile = "gfx/leaders/MEX/Yumemi_Abascal.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_hernan_laborde"
-		texturefile = "gfx/leaders/MEX/Portrait_MEX_Hernan_Laborde.dds"
+		texturefile = "gfx/leaders/MEX/Rikako_Laborde.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_jesus_degollado_guizar"
-		texturefile = "gfx/leaders/MEX/portrait_MEX_Jesus_Degollado_Guizar.dds"
+		texturefile = "gfx/leaders/MEX/Yumemi_Guizar.dds"
 	}
 	
 	spriteType = {
@@ -154,7 +154,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_MEX_Luis_Maria_Martinez"
-		texturefile = "gfx/leaders/MEX/portrait_MEX_Luis_Maria_Martinez.dds"
+		texturefile = "gfx/leaders/MEX/Yumemi_Martinez.dds"
 	}	
 	
 	### HOL
