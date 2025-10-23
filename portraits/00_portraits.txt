@@ -1441,3 +1441,107 @@ NMB = {
 
 }
 
+CHL = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Chile_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Chile_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Chile_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Chile_N" 
+			}
+		}
+	}
+
+}
+
+ARG = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Argentina_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Argentina_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Argentina_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Argentina_N" 
+			}
+		}
+	}
+
+}
+
+URG = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Uruguay_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Uruguay_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Uruguay_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Uruguay_N" 
+			}
+		}
+	}
+
+}
+
+BRA = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Brazil_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Brazil_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Brazil_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Brazil_N" 
+			}
+		}
+	}
+
+}
+

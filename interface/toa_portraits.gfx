@@ -10,19 +10,19 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_ARG_antonio_soto"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_antonio_soto.dds"
+		texturefile = "gfx/leaders/ARG/Louise_Soto.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_augustin_pedro_justo"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_augustin_pedro_justo.dds"
+		texturefile = "gfx/leaders/ARG/Chimata_Justo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_edelmiro_julian_farrell"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_edelmiro_julian_farrell.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_Farrell.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_enrique_mosca"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_enrique_mosca.dds"
+		texturefile = "gfx/leaders/ARG/Chimata_Mosca.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_fanny_schoonheyt"
@@ -30,35 +30,35 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_marcelo_t_de_alvear"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_marcelo_t_de_alvear.dds"
+		texturefile = "gfx/leaders/ARG/Chimata_de_Alvear.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_nimio_de_anquin"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_nimio_de_anquin.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_de_Anquin.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_pedro_pablo_ramirez_fascist"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_pedro_pablo_ramirez_fascist.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_Ramirez.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_pedro_pablo_ramirez_unaligned"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_pedro_pablo_ramirez_unaligned.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_Ramirez.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_ramon_castillo"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_ramon_castillo.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_Castillo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_roberto_maria_ortiz"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_roberto_maria_ortiz.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_Maria_Ortiz.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_rodolfo_ghioldi"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_rodolfo_ghioldi.dds"
+		texturefile = "gfx/leaders/ARG/Louise_Ghioldi"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_rodolfo_ghioldi_soviet"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_rodolfo_ghioldi_soviet.dds"
+		texturefile = "gfx/leaders/ARG/Louise_Ghioldi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_alberto_gilbert"
@@ -110,7 +110,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ARG_fanny_edelman_02"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_fanny_edelman_02.dds"
+		texturefile = "gfx/leaders/ARG/Louise_Edelman.dds"
 	}
 
 	
@@ -167,7 +167,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_BRA_silvio_de_noronha"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_silvio_de_noronha.dds"
+		texturefile = "gfx/leaders/BRA/Utsuho_de_Noronha.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_alvaro_de_castro"
@@ -175,7 +175,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_ansio_teixeira"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_ansio_teixeira.dds"
+		texturefile = "gfx/leaders/BRA/Satori_Teixeira.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_apolinio_de_carvalho"
@@ -183,7 +183,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_armando_sales_oliveria"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_armando_sales_oliveria.dds"
+		texturefile = "gfx/leaders/BRA/Satori_Oliveria.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_augusto_fragoso"
@@ -203,11 +203,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_eurico_dutra"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_eurico_dutra.dds"
+		texturefile = "gfx/leaders/BRA/Koishi_Dutra.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_getulio_vargas"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_getulio_vargas.dds"
+		texturefile = "gfx/leaders/BRA/Koishi_Vargas.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_gois_monterio"
@@ -231,11 +231,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_lindolfo_collor"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_lindolfo_collor.dds"
+		texturefile = "gfx/leaders/BRA/Satori_Collor.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_luis_carlos_prestes"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_luis_carlos_prestes.dds"
+		texturefile = "gfx/leaders/BRA/Rin_Prestes.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_miguel_reale"
@@ -243,7 +243,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_minervino_de_oliveira"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_minervino_de_oliveira.dds"
+		texturefile = "gfx/leaders/BRA/Satori_Minervino_de_Oliveira.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_olga_benario_prestes-export"
@@ -255,15 +255,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_pedro_de_alcantara"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_pedro_de_alcantara.dds"
+		texturefile = "gfx/leaders/BRA/Utsuho_de_Alcantara.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_pedro_henrique"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_pedro_henrique.dds"
+		texturefile = "gfx/leaders/BRA/Utsuho_Henrique.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_plinio_salgado"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_plinio_salgado.dds"
+		texturefile = "gfx/leaders/BRA/Koishi_Salgado.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_washington_luis"
@@ -283,7 +283,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_lampiao"
-		texturefile = "gfx/leaders/BRA/portrait_BRA_lampiao.dds"
+		texturefile = "gfx/leaders/BRA/Rin_Lampiao.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRA_mascarenhas_de_morais_2"
@@ -314,7 +314,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_CHL_antoine_iii"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_antoine_iii.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_III.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_augusto_pinochet"
@@ -322,79 +322,79 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_carlos_contreras_labarca"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_carlos_contreras_labarca.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Labarca.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_carlos_ibanez"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_carlos_ibanez.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_Ibanez.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_carlos_ibanez_army"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_carlos_ibanez_army.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_Ibanez.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_carlos_ibanez_king"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_carlos_ibanez_king.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_Ibanez.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_carlos_keller_reuf"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_carlos_keller_reuf.dds"
+		texturefile = "gfx/leaders/CHL/Alice98_Reuf.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_eduardo_cruz_coke"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_eduardo_cruz_coke.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Coke.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_elias_lafertte_gavino"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_elias_lafertte_gavino.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Gavino.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_esteban_romero_sandoval"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_esteban_romero_sandoval.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_Sandoval.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_fernando_alessandri"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_fernando_alessandri.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Fernando_Alessandri.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_gabriel_gonzales_videla"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_gabriel_gonzales_videla.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Videla.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_gustavo_ross_santa_maria"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_gustavo_ross_santa_maria.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Santa_Maria.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_jorge_gonzalez_von_marees"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_jorge_gonzalez_von_marees.dds"
+		texturefile = "gfx/leaders/CHL/Alice98_Von_Marees.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_jorge_gonzalez_von_marees_army"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_jorge_gonzalez_von_marees_army.dds"
+		texturefile = "gfx/leaders/CHL/Alice98_Von_Marees.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_juan_antonio_rios"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_juan_antonio_rios.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Rios.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_juan_gomez_millas"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_juan_gomez_millas.dds"
+		texturefile = "gfx/leaders/CHL/Alice98_Millas.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_manuel_hidalgo_plaza"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_manuel_hidalgo_plaza.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Plaza.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_manuel_manquilef"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_manuel_manquilef.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_Manquilef.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_marmaduke_grove_leader"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_marmaduke_grove_leader.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Leader.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_pedro_aguirre_cerda"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_pedro_aguirre_cerda.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Cerda.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_quintin_lame"
@@ -406,7 +406,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_venancio_huenchual"
-		texturefile = "gfx/leaders/CHL/portrait_CHL_venancio_huenchual.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_Huenchual.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHL_alfredo_portales_mourgues"

@@ -675,12 +675,29 @@ spriteTypes = {
 
 	spriteType = { #EASTER EGG
 		name = "GFX_portrait_south_america_generic_leader_1"
-		texturefile = "gfx/leaders/ARG/portrait_south_america_generic_leader_1.dds"
+		texturefile = "gfx/leaders/ARG/Toyohime_Hitler.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_argentina_victorio_codovilla"
-		texturefile = "gfx/leaders/ARG/portrait_ARG_victorio_codovilla.dds"
+		texturefile = "gfx/leaders/ARG/Louise_Codovilla.dds"
 	}
+	spriteType = {
+		name = "GFX_Portrait_Argentina_C"
+		texturefile = "gfx/leaders/ARG/Louise_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Argentina_D"
+		texturefile = "gfx/leaders/ARG/Chimata_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Argentina_F"
+		texturefile = "gfx/leaders/ARG/Shinki_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Argentina_N"
+		texturefile = "gfx/leaders/ARG/Shinki_GenericN.dds"
+	}
+	
 
 	###USA
 
@@ -1736,13 +1753,31 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_Portrait_chile_arturo_alessandri"
-		texturefile = "gfx/leaders/CHL/portrait_chl_arturo_alessandri.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Arturo_Alessandri.dds"
 	}
 
 	spriteType = {
 		name = "GFX_Portrait_chile_arturo_alessandri_small"
 		texturefile = "gfx/interface/ideas/idea_CHL_arturo_alessandri.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Chile_C"
+		texturefile = "gfx/leaders/CHL/Hatate_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Chile_D"
+		texturefile = "gfx/leaders/CHL/Hatate_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Chile_F"
+		texturefile = "gfx/leaders/CHL/Alice98_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Chile_N"
+		texturefile = "gfx/leaders/CHL/Megumu_GenericN.dds"
+	}
+	
 	spriteType = {
 		name = "GFX_Portrait_kyuichi_tokuda"
 		texturefile = "gfx/leaders/JAP/portrait_jap_kyuichi_tokuda.dds"
@@ -1954,9 +1989,25 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_uruguay_portrait_gabriel_terra"
-		texturefile = "gfx/leaders/URG/portrait_urg_gabriel_terra.dds"
+		texturefile = "gfx/leaders/URG/Yumeko_Terra.dds"
 	}
-
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_C"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_D"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_F"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_N"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericN.dds"
+	}
+	
 	spriteType = {
 		name = "GFX_portrait_uruguay_portrait_gabriel_terra_small"
 		texturefile = "gfx/interface/ideas/idea_URG_gabriel_terra.dds"
@@ -3180,27 +3231,27 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Agustin_Pedro_Justo
-		texturefile = "gfx/leaders/ARG/Portrait_Argentina_Agustin_Pedro_Justo.dds"
+		texturefile = "gfx/leaders/ARG/Chimata_Justo.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Nimo_de_Anquin
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_de_Anquin.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Marcelo_T_de_Alvear
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_3.dds"
+		texturefile = "gfx/leaders/ARG/Chimata_de_Alvear.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Fanny_Edelman
-		texturefile = "gfx/leaders/ARG/Portrait_Argentina_Fanny_Edelman.dds"
+		texturefile = "gfx/leaders/ARG/Louise_Edelman.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Roberto_Maria_Ortiz
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		texturefile = "gfx/leaders/ARG/Shinki_Maria_Ortiz.dds"
 	}
 
 	spriteType = {
@@ -3410,32 +3461,48 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_BRA_getulio_vargas
-		texturefile = "gfx/leaders/BRA/Portrait_Brazil_Getulio_Vargas.dds"
+		texturefile = "gfx/leaders/BRA/Koishi_Vargas.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_BRA_arlindo_veiga_dos_santos
-		texturefile = "gfx/leaders/BRA/portrait_bra_arlindo_veiga_dos_santos.dds"
+		texturefile = "gfx/leaders/BRA/Utsuho_Dos_Santos.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_BRA_plinio_salgado
-		texturefile = "gfx/leaders/BRA/Portrait_Brazil_Plinio_Salgado.dds"
+		texturefile = "gfx/leaders/BRA/Koishi_Salgado.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_BRA_luis_carlos_prestes
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+		texturefile = "gfx/leaders/BRA/Rin_Prestes.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_BRA_armando_sales
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		texturefile = "gfx/leaders/BRA/Satori_Oliveria.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_BRA_eurico_gaspar_dutra
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_1.dds"
+		texturefile = "gfx/leaders/BRA/Koishi_Dutra.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Brazil_C"
+		texturefile = "gfx/leaders/BRA/Rin_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Brazil_D"
+		texturefile = "gfx/leaders/BRA/Satori_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Brazil_F"
+		texturefile = "gfx/leaders/BRA/Koishi_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Brazil_N"
+		texturefile = "gfx/leaders/BRA/Utsuho_GenericN.dds"
 	}
 
 	spriteType = {
@@ -3670,12 +3737,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Jorge_Gonzalez_von_Marees
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_5.dds"
+		texturefile = "gfx/leaders/CHL/Alice98_Von_Marees.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Carlos_Contreras_Labarca
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
+		texturefile = "gfx/leaders/CHL/Hatate_Labarca.dds"
 	}
 
 	spriteType = {
@@ -3695,7 +3762,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Domingo_Blanco
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/CHL/Megumu_Blanco.dds"
 	}
 
 	spriteType = {
@@ -7255,12 +7322,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Venancio_Flores
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/URG/Yumeko_Flores.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Bernardo_Gonzalez
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/URG/Yumeko_Gonzalez.dds"
 	}
 
 	spriteType = {
@@ -7877,12 +7944,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Prince_Pedro_Henrique
-		texturefile = gfx/leaders/BRA/portrait_bra_prince_pedro_hernique_de_orleans_e_braganza.dds
+		texturefile = gfx/leaders/BRA/Utsuho_Henrique.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Plinio_Salgado
-		texturefile = gfx/leaders/BRA/Portrait_Brazil_Plinio_Salgado.dds
+		texturefile = gfx/leaders/BRA/Koishi_Salgado.dds
 	}
 
 	spriteType = {
