@@ -1498,21 +1498,29 @@ URG = {
 		communism = {
 			male = { 
 				"GFX_Portrait_Uruguay_C"
+				"GFX_Portrait_Uruguay_C2"
+				"GFX_Portrait_Uruguay_C3"
 			}
 		}
 		democratic = {
 			male = { 
 				"GFX_Portrait_Uruguay_D"
+				"GFX_Portrait_Uruguay_D2"
+				"GFX_Portrait_Uruguay_D3"
 			}
 		}
 		fascism = {
 			male = { 
 				"GFX_Portrait_Uruguay_F" 
+				"GFX_Portrait_Uruguay_F2"
+				"GFX_Portrait_Uruguay_F3"
 			}
 		}
 		neutrality = {
 			male = { 
 				"GFX_Portrait_Uruguay_N" 
+				"GFX_Portrait_Uruguay_N2"
+				"GFX_Portrait_Uruguay_N3"
 			}
 		}
 	}
@@ -1545,3 +1553,391 @@ BRA = {
 
 }
 
+HAI = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Haiti_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Haiti_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Haiti_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Haiti_N" 
+			}
+		}
+	}
+
+}
+
+CUB = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Cuba"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Cuba"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Cuba"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Cuba" 
+			}
+		}
+	}
+
+}
+
+DOM = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Dominica_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Dominica_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Dominica_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Dominica_N" 
+			}
+		}
+	}
+
+}
+
+GUA = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Guatemala_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Guatemala_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Guatemala_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Guatemala_N" 
+			}
+		}
+	}
+
+}
+
+ELS = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Salvador_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Salvador_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Salvador_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Salvador_N" 
+			}
+		}
+	}
+}
+
+HON = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Honduras_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Honduras_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Honduras_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Honduras_N" 
+			}
+		}
+	}
+}
+
+NIC = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Nicaragua_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Nicaragua_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Nicaragua_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Nicaragua_N" 
+			}
+		}
+	}
+}
+
+COS = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Costa_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Costa_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Costa_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Costa_N" 
+			}
+		}
+	}
+}
+
+PAN = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Panama_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Panama_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Panama_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Panama_N" 
+			}
+		}
+	}
+}
+
+COL = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Colombia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Colombia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Colombia_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Colombia_N" 
+			}
+		}
+	}
+}
+
+VEN = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Venezuela_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Venezuela_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Venezuela_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Venezuela_N" 
+			}
+		}
+	}
+}
+
+ECU = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Ecuador_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Ecuador_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Ecuador_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Ecuador_N" 
+			}
+		}
+	}
+}
+
+PRU = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Peru_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Peru_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Peru_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Peru_N" 
+			}
+		}
+	}
+}
+
+BOL = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Bolivia_C"
+				"GFX_Portrait_Bolivia_C2"
+				"GFX_Portrait_Bolivia_C3"
+				"GFX_Portrait_Bolivia_C4"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Bolivia_D"
+				"GFX_Portrait_Bolivia_D2"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Bolivia_F"
+				"GFX_Portrait_Bolivia_F2"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Bolivia_N" 
+				"GFX_Portrait_Bolivia_N2" 
+			}
+		}
+	}
+}
+
+PAR = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Paraguay_C"
+				"GFX_Portrait_Paraguay_C2"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Paraguay_D"
+				"GFX_Portrait_Paraguay_D2"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Paraguay_F"
+				"GFX_Portrait_Paraguay_F2"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Paraguay_N" 
+				"GFX_Portrait_Paraguay_N2" 
+			}
+		}
+	}
+}

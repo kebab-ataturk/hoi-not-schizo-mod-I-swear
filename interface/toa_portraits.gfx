@@ -527,15 +527,15 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_BOL_david_toro"
-		texturefile = "gfx/leaders/MISC/portrait_BOL_david_toro.dds"
+		texturefile = "gfx/leaders/BOL/Yatsuhashi_Ruilova.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BOL_jose_luis_tejada_sorzano"
-		texturefile = "gfx/leaders/MISC/portrait_BOL_jose_luis_tejada_sorzano.dds"
+		texturefile = "gfx/leaders/BOL/Parsee_Sorzano.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BOL_oscar_unzaga_de_la_vega"
-		texturefile = "gfx/leaders/MISC/portrait_BOL_oscar_unzaga_de_la_vega.dds"
+		texturefile = "gfx/leaders/BOL/Yatsuhashi_De_La_Vega.dds"
 	}
 		spriteType = {
 		name = "GFX_portrait_BOL_carlos_blanco_galindo"
@@ -563,35 +563,35 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PAR_eusebio_ayala"
-		texturefile = "gfx/leaders/MISC/portrait_PAR_eusebio_ayala.dds"
+		texturefile = "gfx/leaders/PAR/Yamame_Ayala.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PAR_higinio_morinigo"
-		texturefile = "gfx/leaders/MISC/portrait_PAR_higino_morinigo.dds"
+		texturefile = "gfx/leaders/PAR/Sara_Morinigo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PAR_jose_felix_estigarribia"
-		texturefile = "gfx/leaders/MISC/portrait_PAR_jose_felix_estigarribia.dds"
+		texturefile = "gfx/leaders/PAR/Sara_Estigarribia.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PAR_juan_natalicio_gonzalez"
-		texturefile = "gfx/leaders/MISC/portrait_PAR_juan_natalicio_gonzalez.dds"
+		texturefile = "gfx/leaders/PAR/Sara_Gonzalez.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_URG_alfredo_baldomir_ferrari"
-		texturefile = "gfx/leaders/MISC/portrait_URG_alfredo_baldomir_ferrari.dds"
+		texturefile = "gfx/leaders/URG/Kisume_Ferrari.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_URG_arnulf_fuhrmann"
-		texturefile = "gfx/leaders/MISC/portrait_URG_arnulf_fuhrmann.dds"
+		texturefile = "gfx/leaders/URG/Yumeko_Fuhrmann.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_URG_eugenio_gomez"
-		texturefile = "gfx/leaders/MISC/portrait_URG_eugenio_gomez.dds"
+		texturefile = "gfx/leaders/URG/Kisume_Gomez.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_URG_luis_alberto_herrera"
-		texturefile = "gfx/leaders/MISC/portrait_URG_luis_alberto_herrera.dds"
+		texturefile = "gfx/leaders/URG/Yumeko_Herrera.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_RAP_juan_tepano"

@@ -1724,7 +1724,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_columbia_alfonso_lopez"
-		texturefile = "gfx/leaders/COL/portrait_col_alfonso_lopez_pumarejo.dds"
+		texturefile = "gfx/leaders/COL/Joon_Pumarejo.dds"
 	}
 
 	spriteType = {
@@ -1734,7 +1734,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_paraguay_rafael_franco"
-		texturefile = "gfx/leaders/PAR/portrait_par_rafael_franco.dds"
+		texturefile = "gfx/leaders/PAR/Yamame_Franco.dds"
 	}
 
 	spriteType = {
@@ -1744,7 +1744,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_peru_oscar_benavides"
-		texturefile = "gfx/leaders/PRU/portrait_per_oscar_benavides.dds"
+		texturefile = "gfx/leaders/PRU/Benben_Benavides.dds"
 	}
 
 	spriteType = {
@@ -1798,7 +1798,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_Portrait_ecuador_federico_paez"
-		texturefile = "gfx/leaders/ECU/portrait_ecu_federico_paez.dds"
+		texturefile = "gfx/leaders/ECU/Raiko_Paez.dds"
 	}
 
 	spriteType = {
@@ -1854,7 +1854,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_dominca_rafael_trujillo"
-		texturefile = "gfx/leaders/DOM/portrait_dom_rafael_trujillo.dds"
+		texturefile = "gfx/leaders/DOM/Mai_Trujillo.dds"
 	}
 
 	spriteType = {
@@ -1872,7 +1872,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_haiti_stenio_vincent"
-		texturefile = "gfx/leaders/HAI/portrait_hai_stenio_vincent.dds"
+		texturefile = "gfx/leaders/HAI/Yuki_Vincent.dds"
 	}
 
 	spriteType = {
@@ -1881,7 +1881,12 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_cuba_jose_barnet"
-		texturefile = "gfx/leaders/CUB/portrait_cub_jose_barnet.dds"
+		texturefile = "gfx/leaders/CUB/Mimi.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Cuba"
+		texturefile = "gfx/leaders/CUB/Mimi.dds"
 	}
 
 	spriteType = {
@@ -1890,7 +1895,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_panama_harmodio_arias_madrid"
-		texturefile = "gfx/leaders/PAN/portrait_pan_harmodio_arias_madrid.dds"
+		texturefile = "gfx/leaders/PAN/Rin_Madrid.dds"
 	}
 
 	spriteType = {
@@ -1926,7 +1931,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_el_salvador_maximiliano_hernandez_martinez"
-		texturefile = "gfx/leaders/ELS/portrait_els_maximiliano_hernandez_martinez.dds"
+		texturefile = "gfx/leaders/ELS/Kikuri_Martinez.dds"
 	}
 
 	spriteType = {
@@ -1944,7 +1949,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_costa_rica_ricardo_jiminez_oreamuno"
-		texturefile = "gfx/leaders/COS/portrait_cos_ricardo_jiminez_oreamuno.dds"
+		texturefile = "gfx/leaders/COS/Kana_Oreamuno.dds"
 	}
 
 	spriteType = {
@@ -1953,7 +1958,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_guatemala_jorge_ubico"
-		texturefile = "gfx/leaders/GUA/portrait_gua_jorge_ubico.dds"
+		texturefile = "gfx/leaders/GUA/Chiyuri_Ubico.dds"
 	}
 
 	spriteType = {
@@ -1962,7 +1967,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_honduras_portrait_tiburcio_carias_andino"
-		texturefile = "gfx/leaders/HON/portrait_hon_tiburcio_carias_andino.dds"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_Andino.dds"
 	}
 
 	spriteType = {
@@ -1980,7 +1985,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_nicaragua_portrait_anastasio_somoza_garcia"
-		texturefile = "gfx/leaders/NIC/portrait_nic_anastasio_somoza_garcia.dds"
+		texturefile = "gfx/leaders/NIC/Ellen_Garcia.dds"
 	}
 
 	spriteType = {
@@ -1993,20 +1998,53 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_Portrait_Uruguay_C"
-		texturefile = "gfx/leaders/URG/Yumeko_GenericC.dds"
+		texturefile = "gfx/leaders/URG/Kisume_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_C2"
+		texturefile = "gfx/leaders/URG/Kisume_GenericC2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_C3"
+		texturefile = "gfx/leaders/URG/Kisume_GenericC3.dds"
 	}
 	spriteType = {
 		name = "GFX_Portrait_Uruguay_D"
-		texturefile = "gfx/leaders/URG/Yumeko_GenericD.dds"
+		texturefile = "gfx/leaders/URG/Kisume_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_D2"
+		texturefile = "gfx/leaders/URG/Kisume_GenericD2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_D3"
+		texturefile = "gfx/leaders/URG/Kisume_GenericD3.dds"
 	}
 	spriteType = {
 		name = "GFX_Portrait_Uruguay_F"
 		texturefile = "gfx/leaders/URG/Yumeko_GenericF.dds"
 	}
 	spriteType = {
+		name = "GFX_Portrait_Uruguay_F2"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericF2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_F3"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericF3.dds"
+	}
+	spriteType = {
 		name = "GFX_Portrait_Uruguay_N"
 		texturefile = "gfx/leaders/URG/Yumeko_GenericN.dds"
 	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_N2"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericN2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Uruguay_N3"
+		texturefile = "gfx/leaders/URG/Yumeko_GenericN3.dds"
+	}
+	
 	
 	spriteType = {
 		name = "GFX_portrait_uruguay_portrait_gabriel_terra_small"
@@ -3441,22 +3479,63 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Jose_Luis_Tejada_Sorzano
-		texturefile = "gfx/leaders/BOL/Portrait_Bolivia_Jose_Luis_Tejada_Sorzano.dds"
+		texturefile = "gfx/leaders/BOL/Parsee_Sorzano.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Oscar_Unzaga_de_la_Vega
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_3.dds"
+		texturefile = "gfx/leaders/BOL/Yatsuhashi_De_La_Vega.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jorge_Blanco
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/BOL/Parsee_Blanco.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Severino_Ruiz-Tagle
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/BOL/Parsee_Ruiztagle.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_C"
+		texturefile = "gfx/leaders/BOL/Parsee_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_C2"
+		texturefile = "gfx/leaders/BOL/Parsee_GenericC2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_C3"
+		texturefile = "gfx/leaders/BOL/Parsee_GenericC3.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_C4"
+		texturefile = "gfx/leaders/BOL/Parsee_GenericC4.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_D"
+		texturefile = "gfx/leaders/BOL/Parsee_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_D2"
+		texturefile = "gfx/leaders/BOL/Parsee_GenericD2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_F"
+		texturefile = "gfx/leaders/BOL/Yatsuhashi_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_F2"
+		texturefile = "gfx/leaders/BOL/Yatsuhashi_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_N"
+		texturefile = "gfx/leaders/BOL/Yatsuhashi_GenericN.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bolivia_N2"
+		texturefile = "gfx/leaders/BOL/Yatsuhashi_GenericN2.dds"
 	}
 
 	spriteType = {
@@ -3782,12 +3861,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Mariano_Ospina_Perez
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
+		texturefile = "gfx/leaders/COL/Joon_Perez.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Eduardo_Santo
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_5.dds"
+		texturefile = "gfx/leaders/COL/Joon_Santos.dds"
 	}
 
 	spriteType = {
@@ -3802,32 +3881,66 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_David_de_Vidal
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/COL/Joon_Vidal.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Isidoro_Sotomayor
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/COL/Joon_Sotomayor.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Colombia_C"
+		texturefile = "gfx/leaders/COL/Joon_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Colombia_D"
+		texturefile = "gfx/leaders/COL/Joon_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Colombia_F"
+		texturefile = "gfx/leaders/COL/Joon_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Colombia_N"
+		texturefile = "gfx/leaders/COL/Joon_GenericN.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jose_Maria_Barahona
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/COS/Kana_Barahona.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Lisandro_Barillas
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/COS/Kana_Barillas.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jorge_Peralta
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/COS/Kana_Peralta.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Leon_Cortes_Castro
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_navy_3.dds"
+		texturefile = "gfx/leaders/COS/Kana_Castro.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Costa_C"
+		texturefile = "gfx/leaders/COS/Kana_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Costa_D"
+		texturefile = "gfx/leaders/COS/Kana_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Costa_F"
+		texturefile = "gfx/leaders/COS/Kana_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Costa_N"
+		texturefile = "gfx/leaders/COS/Kana_GenericN.dds"
 	}
 
 	spriteType = {
@@ -3837,22 +3950,22 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Guillermo_Cabral
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/CUB/Mimi.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Wenceslao_Carmona
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/CUB/Mimi.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Gregorio_Morales
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = texturefile = "gfx/leaders/CUB/Mimi.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Federico_Laredo_Bru
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		texturefile = "gfx/leaders/CUB/Mimi.dds"
 	}
 
 	spriteType = {
@@ -3947,57 +4060,108 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Jacinto_Gonzales
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/DOM/Mai_Gonzales.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Fernando_Bayo
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/DOM/Mai_Bayo.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Horacio_Cabral
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/DOM/Mai_Cabral.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jacinto_Peynado
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/DOM/Mai_Peynado.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Dominica_C"
+		texturefile = "gfx/leaders/DOM/Mai_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Dominica_D"
+		texturefile = "gfx/leaders/DOM/Mai_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Dominica_F"
+		texturefile = "gfx/leaders/DOM/Mai_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Dominica_N"
+		texturefile = "gfx/leaders/DOM/Mai_GenericN.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Juan_Toro
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+		texturefile = "gfx/leaders/ECU/Raiko_Toro.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Andres_Guilarte
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/ECU/Raiko_Guilarte.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jose_La_Mar
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/ECU/Raiko_La_Mar.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Aurelio_Mosquera
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		texturefile = "gfx/leaders/ECU/Raiko_Mosquera.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Ecuador_C"
+		texturefile = "gfx/leaders/ECU/Raiko_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Ecuador_D"
+		texturefile = "gfx/leaders/ECU/Raiko_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Ecuador_F"
+		texturefile = "gfx/leaders/ECU/Raiko_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Ecuador_N"
+		texturefile = "gfx/leaders/ECU/Raiko_GenericN.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Victoriano_Ubico
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/ELS/Kikuri_Victoriano_Ubico.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Benito_Ubico
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/ELS/Kikuri_Benito_Ubico.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Bartolome_Vasconcelos
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/ELS/Kikuri_Vasconcelos.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Salvador_C"
+		texturefile = "gfx/leaders/ELS/Kikuri_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Salvador_D"
+		texturefile = "gfx/leaders/ELS/Kikuri_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Salvador_F"
+		texturefile = "gfx/leaders/ELS/Kikuri_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Salvador_N"
+		texturefile = "gfx/leaders/ELS/Kikuri_GenericN.dds"
 	}
 
 	spriteType = {
@@ -5177,18 +5341,36 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Justo_Arbenz
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/GUA/Chiyuri_Justo_Arbenz.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Maximo_Arbenz
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/GUA/Chiyuri_Maximo_Arbenz.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Diego_Barahona
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/GUA/Chiyuri_Barahona.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Guatemala_C"
+		texturefile = "gfx/leaders/GUA/Chiyuri_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Guatemala_D"
+		texturefile = "gfx/leaders/GUA/Chiyuri_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Guatemala_F"
+		texturefile = "gfx/leaders/GUA/Chiyuri_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Guatemala_N"
+		texturefile = "gfx/leaders/GUA/Chiyuri_GenericN.dds"
+	}
+
 
 	spriteType = {
 		name = GFX_portrait_GXC_li_zongren
@@ -5227,32 +5409,66 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Jacques_Roumain
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+		texturefile = "gfx/leaders/HAI/Yuki_Roumain.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Vilbrum_Soulouque
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/HAI/Yuki_Vilbrum_Soulouque.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jacques_Soulouque
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/HAI/Yuki_Jacques_Soulouque.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Haiti_C"
+		texturefile = "gfx/leaders/HAI/Yuki_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Haiti_D"
+		texturefile = "gfx/leaders/HAI/Yuki_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Haiti_F"
+		texturefile = "gfx/leaders/HAI/Yuki_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Haiti_N"
+		texturefile = "gfx/leaders/HAI/Yuki_GenericN.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Lorenzo_Ferrera
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_Ferrera.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Pedro_Figueroa
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_Figueroa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Lisandro_Machado
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_Machado.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Honduras_C"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Honduras_D"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Honduras_F"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Honduras_N"
+		texturefile = "gfx/leaders/HON/Yuugenmagen_GenericN.dds"
 	}
 
 	spriteType = {
@@ -6067,17 +6283,34 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Juan_Bautista_Sacasa
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
+		texturefile = "gfx/leaders/NIC/Ellen_Sacasa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Francisco_Leiva
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/NIC/Ellen_Francisco_Leiva.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jose_Francisco_Leiva
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/NIC/Ellen_Jose_Francisco_Leiva.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Nicaragua_C"
+		texturefile = "gfx/leaders/NIC/Ellen_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Nicaragua_D"
+		texturefile = "gfx/leaders/NIC/Ellen_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Nicaragua_F"
+		texturefile = "gfx/leaders/NIC/Ellen_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Nicaragua_N"
+		texturefile = "gfx/leaders/NIC/Ellen_GenericN.dds"
 	}
 
 	spriteType = {
@@ -6262,48 +6495,98 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Bartolome_Sinibaldi
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/PAN/Rin_Sinibaldi.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Tiburcio_Andino
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/PAN/Rin_Tiburcio_Andino.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Aniceto_Andino
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/PAN/Rin_Aniceto_Andino.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Juan_Demostenes_Arosemena
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_navy_1.dds"
+		texturefile = "gfx/leaders/PAN/Rin_Arosemena.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_July_Portocarrero
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_4.dds"
+		texturefile = "gfx/leaders/PAN/Rin_Portocarrero.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Panama_C"
+		texturefile = "gfx/leaders/PAN/Rin_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Panama_D"
+		texturefile = "gfx/leaders/PAN/Rin_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Panama_F"
+		texturefile = "gfx/leaders/PAN/Rin_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Panama_N"
+		texturefile = "gfx/leaders/PAN/Rin_GenericN.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Emilio_Melgarejo
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		texturefile = "gfx/leaders/PAR/Yamame_Melgarejo.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Francisco_Daza
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/PAR/Sara_Daza.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Manuel_de_la_Cruz
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/PAR/Sara_De_La_Cruz.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Higinio_Morinigo
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/PAR/Sara_Morinigo.dds"
 	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_C"
+		texturefile = "gfx/leaders/PAR/Yamame_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_C2"
+		texturefile = "gfx/leaders/PAR/Yamame_GenericC2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_D"
+		texturefile = "gfx/leaders/PAR/Yamame_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_D2"
+		texturefile = "gfx/leaders/PAR/Yamame_GenericD2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_F"
+		texturefile = "gfx/leaders/PAR/Sara_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_F2"
+		texturefile = "gfx/leaders/PAR/Sara_GenericF2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_N"
+		texturefile = "gfx/leaders/PAR/Sara_GenericN.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Paraguay_N2"
+		texturefile = "gfx/leaders/PAR/Sara_GenericN2.dds"
+	}
+
 
 	spriteType = {
 		name = GFX_portrait_Reza_Shah_Pahlavi
@@ -6522,22 +6805,39 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Sebastian_Lynch
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_7.dds"
+		texturefile = "gfx/leaders/PRU/Benben_Sebastian_Lynch.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Hilarion_Lynch
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/PRU/Benben_Hilarion_Lynch.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Santiago_Ruiz-Tagle
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_8.dds"
+		texturefile = "gfx/leaders/PRU/Benben_Ruiz_Tagle.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Manuel_Prado_Ugarteche
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		texturefile = "gfx/leaders/PRU/Benben_Ugarteche.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Peru_C"
+		texturefile = "gfx/leaders/PRU/Benben_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Peru_D"
+		texturefile = "gfx/leaders/PRU/Benben_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Peru_F"
+		texturefile = "gfx/leaders/PRU/Benben_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Peru_N"
+		texturefile = "gfx/leaders/PRU/Benben_GenericN.dds"
 	}
 
 	spriteType = {
@@ -7332,12 +7632,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Juan_Manuel_Aguirre
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/URG/Yumeko_Aguirre.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Alfredo_Baldomir_Ferrari
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_2.dds"
+		texturefile = "gfx/leaders/URG/Kisume_Ferrari.dds"
 	}
 
 	spriteType = {
@@ -7637,22 +7937,39 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Eleazar_Lopez_Contreras
-		texturefile = "gfx/leaders/VEN/Portrait_Venezuela_Elezar_Lopez_Contreras.dds"
+		texturefile = "gfx/leaders/VEN/Shion_Contreras.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Juan_Bautista_Fuenmayor
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_1.dds"
+		texturefile = "gfx/leaders/VEN/Shion_Fuenmayor.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Luis_Figueroa
-		texturefile = "gfx/leaders/South America/portrait_south_america_generic_9.dds"
+		texturefile = "gfx/leaders/VEN/Shion_Figueroa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Patricio_Franco
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_3.dds"
+		texturefile = "gfx/leaders/VEN/Shion_Franco.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Venezuela_C"
+		texturefile = "gfx/leaders/VEN/Shion_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Venezuela_D"
+		texturefile = "gfx/leaders/VEN/Shion_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Venezuela_F"
+		texturefile = "gfx/leaders/VEN/Shion_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Venezuela_N"
+		texturefile = "gfx/leaders/VEN/Shion_GenericN.dds"
 	}
 
 	spriteType = {
