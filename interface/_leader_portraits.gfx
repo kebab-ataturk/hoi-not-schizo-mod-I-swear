@@ -1644,7 +1644,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_lithuania_antanas_smetona"
-		texturefile = "gfx/leaders/LIT/portrait_lit_antanas_smetona.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk.dds"
 	}
 
 	spriteType = {
@@ -1684,7 +1684,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_latvia_karlis_ulmanis"
-		texturefile = "gfx/leaders/LAT/portrait_lat_karlis_ulmanis.dds"
+		texturefile = "gfx/leaders/LAT/lunachild.dds"
 	}
 
 	spriteType = {
@@ -1694,7 +1694,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_lat_vilis_lacis"
-		texturefile = "gfx/leaders/LAT/portrait_lat_vilis_lacis.dds"
+		texturefile = "gfx/leaders/LAT/lunachild3.dds"
 	}
 
 	spriteType = {
@@ -1704,7 +1704,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_lat_fricis_menders"
-		texturefile = "gfx/leaders/LAT/portrait_lat_fricis_menders.dds"
+		texturefile = "gfx/leaders/LAT/lunachild2.dds"
 	}
 
 	spriteType = {
@@ -1714,7 +1714,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_estonia_konstantin_pats"
-		texturefile = "gfx/leaders/EST/portrait_est_konstantin_pats.dds"
+		texturefile = "gfx/leaders/EST/starsaphire.dds"
 	}
 
 	spriteType = {
@@ -6028,7 +6028,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_LIT_petras_schatz
-		texturefile = "gfx/leaders/Europe/portrait_europe_generic_5.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk2.dds"
 	}
 
 	spriteType = {

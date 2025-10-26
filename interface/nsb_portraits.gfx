@@ -14,7 +14,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_EST_andres_larka"
-		texturefile = "gfx/leaders/EST/portrait_EST_andres_larka.dds"
+		texturefile = "gfx/leaders/EST/starsaphire3.dds"
 	}
 	
 	SpriteType = {
@@ -24,7 +24,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_EST_artur_sirk"
-		texturefile = "gfx/leaders/EST/portrait_EST_artur_sirk.dds"
+		texturefile = "gfx/leaders/EST/starsaphire3.dds"
 	}
 	
 	SpriteType = {
@@ -39,12 +39,12 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_EST_jaan_anvelt"
-		texturefile = "gfx/leaders/EST/portrait_EST_jaan_anvelt.dds"
+		texturefile = "gfx/leaders/EST/starsaphir3.dds"
 	}
 	
 	SpriteType = {
 		name = "GFX_portrait_EST_jaan_tonisson"
-		texturefile = "gfx/leaders/EST/portrait_EST_jaan_tonisson.dds"
+		texturefile = "gfx/leaders/EST/starsaphire2.dds"
 	}
 	
 	SpriteType = {
@@ -59,7 +59,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_EST_johannes_kabin"
-		texturefile = "gfx/leaders/EST/portrait_EST_johannes_kabin.dds"
+		texturefile = "gfx/leaders/EST/starsaphire4.dds"
 	}
 	
 	SpriteType = {
@@ -81,7 +81,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LAT_alberts_kviesis"
-		texturefile = "gfx/leaders/LAT/portrait_LAT_alberts_kviesis.dds"
+		texturefile = "gfx/leaders/LAT/lunachild2.dds"
 	}	
 	
 	SpriteType = {
@@ -91,7 +91,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LAT_augusts_kirhensteins"
-		texturefile = "gfx/leaders/LAT/portrait_LAT_augusts_kirhensteins.dds"
+		texturefile = "gfx/leaders/LAT/lunachild4.dds"
 	}	
 	
 	SpriteType = {
@@ -101,7 +101,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LAT_gustavs_celmins"
-		texturefile = "gfx/leaders/LAT/portrait_LAT_gustavs_celmins.dds"
+		texturefile = "gfx/leaders/LAT/lunachild3.dds"
 	}
 
 	SpriteType = {
@@ -111,7 +111,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LAT_janis_balodis"
-		texturefile = "gfx/leaders/LAT/portrait_LAT_janis_balodis.dds"
+		texturefile = "gfx/leaders/LAT/lunachild.dds"
 	}	
 	
 	SpriteType = {
@@ -148,12 +148,12 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LIT_antanas_snieskus"
-		texturefile = "gfx/leaders/LIT/portrait_LIT_antanas_snieskus.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk4.dds"
 	}	
 	
 	SpriteType = {
 		name = "GFX_portrait_LIT_augustinas_voldemaras"
-		texturefile = "gfx/leaders/LIT/portrait_LIT_augustinas_voldemaras.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk3.dds"
 	}	
 	
 	SpriteType = {
@@ -168,17 +168,17 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LIT_karl_gero_von_urach"
-		texturefile = "gfx/leaders/LIT/portrait_LIT_karl_gero_von_urach.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk2.dds"
 	}	
 	
 	SpriteType = {
 		name = "GFX_portrait_LIT_karl_gero_von_urach_father"
-		texturefile = "gfx/leaders/LIT/portrait_LIT_karl_gero_von_urach_father.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk2.dds"
 	}	
 	
 	SpriteType = {
 		name = "GFX_portrait_LIT_kazys_grinius"
-		texturefile = "gfx/leaders/LIT/portrait_LIT_kazys_grinius.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk2.dds"
 	}	
 	
 	SpriteType = {
@@ -198,7 +198,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LIT_stasys_rastikis"
-		texturefile = "gfx/leaders/LIT/portrait_LIT_stasys_rastikis.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk.dds"
 	}	
 	
 	SpriteType = {
@@ -208,7 +208,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_LIT_zigmas_angarietis"
-		texturefile = "gfx/leaders/LIT/portrait_LIT_zigmas_angarietis.dds"
+		texturefile = "gfx/leaders/LIT/sunnymilk3.dds"
 	}	
 
 	#POL
