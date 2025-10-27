@@ -1987,3 +1987,128 @@ PAR = {
 		}
 	}
 }
+
+PAL = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Palestine_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Palestine_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Palestine_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Palestine_N" 
+			}
+		}
+	}
+}
+
+ISR = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Palestine_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Palestine_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Palestine_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Palestine_N" 
+			}
+		}
+	}
+}
+
+JOR = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Jordan_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Jordan_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Jordan_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Jordan_N" 
+			}
+		}
+	}
+}
+
+LEB = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Lebanon_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Lebanon_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Lebanon_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Lebanon_N" 
+			}
+		}
+	}
+}
+
+SYR = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Syria_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Syria_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Syria_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Syria_N" 
+			}
+		}
+	}
+}

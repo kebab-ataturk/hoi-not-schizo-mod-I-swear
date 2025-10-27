@@ -146,7 +146,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_LEB_abdallah_beyhum"
-		texturefile = "gfx/leaders/IRQ/portrait_LEB_abdallah_beyhum.dds"
+		texturefile = "gfx/leaders/LEB/Genji_Beyhum.dds"
 	}
 
 
@@ -509,27 +509,27 @@ spriteType = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ISR_david_ben_gurion"
-		texturefile = "gfx/leaders/MISC/portrait_ISR_david_ben_gurion.dds"
+		texturefile = "gfx/leaders/PAL/Catfish_Gurion.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JOR_abdullah_bin_al_hussein"
-		texturefile = "gfx/leaders/MISC/portrait_JOR_abdullah_bin_al_hussein.dds"
+		texturefile = "gfx/leaders/JOR/Eternity_Hussein.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PAL_amin_al_husseini"
-		texturefile = "gfx/leaders/MISC/portrait_PAL_amin_al_husseini.dds"
+		texturefile = "gfx/leaders/PAL/Catfish_Husseini.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PAL_harold_macmichael"
-		texturefile = "gfx/leaders/MISC/portrait_PAL_harold_macmichael.dds"
+		texturefile = "gfx/leaders/PAL/Catfish_Macmichae.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SYR_hashim_al_atassi"
-		texturefile = "gfx/leaders/MISC/portrait_SYR_hashim_al_atassi.dds"
+		texturefile = "gfx/leaders/SYR/Ruukoto_Atassi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SYR_mehemed_ali_abed"
-		texturefile = "gfx/leaders/MISC/portrait_SYR_mehemed_ali_abed.dds"
+		texturefile = "gfx/leaders/SYR/Ruukoto_Abed.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_TAJ_alim_khan"
