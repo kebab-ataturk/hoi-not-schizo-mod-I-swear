@@ -307,7 +307,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_AST_Eric Campbell"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_land_5.dds"
+		texturefile = "gfx/leaders/AST/Ran_Campbell.dds"
 	}
 
 	spriteType = {
@@ -317,7 +317,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_AST_richard_dixon"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_2.dds"
+		texturefile = "gfx/leaders/AST/Ran_Dixon.dds"
 	}
 
 	spriteType = {
@@ -327,7 +327,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_AST_earle_page"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_1.dds"
+		texturefile = "gfx/leaders/AST/Ran_Page.dds"
 	}
 
 	spriteType = {
@@ -421,7 +421,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_NZL_elsie_farrelly"
-		texturefile = "gfx/leaders/NZL/Portrait_New_Zealand_Elsie_Farrelly.dds"
+		texturefile = "gfx/leaders/NZL/Chen_Farrelly.dds"
 	}
 
 	spriteType = {
@@ -431,7 +431,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_NZL_sidney_holland"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_1.dds"
+		texturefile = "gfx/leaders/NZL/Chen_Holland.dds"
 	}
 
 	spriteType = {
@@ -441,7 +441,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_NZL_michael_joseph_savage"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_2.dds"
+		texturefile = "gfx/leaders/NZL/Chen_Savage.dds"
 	}
 
 	spriteType = {
@@ -451,7 +451,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_NZL_john_ormond"
-		texturefile = "gfx/leaders/ENG/Portrait_Britain_Generic_3.dds"
+		texturefile = "gfx/leaders/NZL/Chen_Ormond.dds"
 	}
 
 	spriteType = {
@@ -507,6 +507,24 @@ spriteTypes = {
 		name = "GFX_NZL_william_stevens_small"
 		texturefile = "gfx/interface/ideas/idea_ENG_generic_land_3.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Kiwi_C"
+		texturefile = "gfx/leaders/NZL/Chen_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Kiwi_D"
+		texturefile = "gfx/leaders/NZL/Chen_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Kiwi_F"
+		texturefile = "gfx/leaders/NZL/Chen_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Kiwi_N"
+		texturefile = "gfx/leaders/NZL/Chen_GenericN.dds"
+	}
+
 
 	## NO GTD AFRICA 
 
@@ -3324,12 +3342,33 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_AST_john_curtin
-		texturefile = "gfx/leaders/AST/Portrait_Australia_John_Curtin.dds"
+		texturefile = "gfx/leaders/AST/Ran_Curtin.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_AST_rod_hull
-		texturefile = "gfx/leaders/AST/Portrait_Australia_Rod_Hull.dds"
+		texturefile = "gfx/leaders/AST/Ran_Hull.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Australia_C"
+		texturefile = "gfx/leaders/AST/Ran_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Australia_D"
+		texturefile = "gfx/leaders/AST/Ran_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Australia_F"
+		texturefile = "gfx/leaders/AST/Ran_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Australia_N"
+		texturefile = "gfx/leaders/AST/Ran_GenericN.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Australia_N2"
+		texturefile = "gfx/leaders/AST/Ran_GenericN2dds"
 	}
 
 	spriteType = {
@@ -6450,7 +6489,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_NZL_peter_fraser
-		texturefile = "gfx/leaders/NZL/Portrait_NewZealand_Peter_Fraser.dds"
+		texturefile = "gfx/leaders/NZL/Chen_Fraser.dds"
 	}
 
 	spriteType = {

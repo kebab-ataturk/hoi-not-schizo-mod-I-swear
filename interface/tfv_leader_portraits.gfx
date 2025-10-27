@@ -82,17 +82,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_AST_earle_page"
-		textureFile = "gfx//leaders//AST//Portrait_Australia_Earle_Page.dds"
+		textureFile = "gfx/leaders/AST/Ran_Page.dds"
 	}	
 	
 	spriteType = {
 		name = "GFX_AST_richard_dixon"
-		textureFile = "gfx//leaders//AST//Portrait_Australia_Richard_Dixon.dds"
+		textureFile = "gfx/leaders/AST/Ran_Dixon.dds"
 	}	
 	
 	spriteType = {
 		name = "GFX_AST_eric_campbell"
-		textureFile = "gfx//leaders//AST//Portrait_Australia_Eric_Campbell.dds"
+		textureFile = "gfx/leaders/AST/Ran_Campbell.dds"
 	}
 	
 	spriteType = {
@@ -137,22 +137,22 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_NZL_elsie_farrelly"
-		textureFile = "gfx//leaders//NZL//Portrait_New_Zealand_Elsie_Farrelly.dds"
+		textureFile = "gfx/leaders/NZL/Chen_Farrelly.dds"
 	}		
 	
 	spriteType = {
 		name = "GFX_NZL_sidney_holland"
-		textureFile = "gfx//leaders//NZL//Portrait_New_Zeeland_Sidney_Holland.dds"
+		textureFile = "gfx/leaders/NZL/Chen_Holland.dds"
 	}	
 	
 	spriteType = {
 		name = "GFX_NZL_michael_joseph_savage"
-		textureFile = "gfx//leaders//NZL//Portrait_New_Zeeland_Michael_Joseph_Savage.dds"
+		textureFile = "gfx/leaders/NZL/Chen_Savage.dds"
 	}	
 	
 	spriteType = {
 		name = "GFX_NZL_john_ormond"
-		textureFile = "gfx//leaders//NZL//Portrait_New_Zeeland_John_Ormond.dds"
+		textureFile = "gfx/leaders/NZL/Chen_Ormond.dds"
 	}	
 	
 	spriteType = {
