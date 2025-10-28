@@ -90,11 +90,11 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_IRQ_abd_al_ilah"
-		texturefile = "gfx/leaders/IRQ/portrait_IRQ_abd_al_ilah.dds"
+		texturefile = "gfx/leaders/IRQ/Tenshi_Ilah.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_ahmed_barzani"
-		texturefile = "gfx/leaders/IRQ/portrait_IRQ_ahmed_barzani.dds"
+		texturefile = "gfx/leaders/IRQ/Tenshi_Ahmed_Barzani.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_bakr_sidqi"
@@ -106,7 +106,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_hikmat_suleiman"
-		texturefile = "gfx/leaders/IRQ/portrait_IRQ_hikmat_suleiman.dds"
+		texturefile = "gfx/leaders/IRQ/Tenshi_Suleiman.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_hussein_fawzi"
@@ -118,11 +118,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_mustafa_barzani"
-		texturefile = "gfx/leaders/IRQ/portrait_IRQ_mustafa_barzani.dds"
+		texturefile = "gfx/leaders/IRQ/Tenshi_Mustafa_Barzani.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_nuri_as_said"
-		texturefile = "gfx/leaders/IRQ/portrait_IRQ_nuri_as_said.dds"
+		texturefile = "gfx/leaders/IRQ/Tenshi_Said.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_salah_al_din_al_sabbagh"
@@ -134,15 +134,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_yasin_al_hashimi"
-		texturefile = "gfx/leaders/IRQ/portrait_IRQ_yasin_al_hashimi.dds"
+		texturefile = "gfx/leaders/IRQ/Tenshi_Hashimi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_yusuf_salman_yusuf"
-		texturefile = "gfx/leaders/IRQ/portrait_IRQ_yusuf_salman_yusuf.dds"
+		texturefile = "gfx/leaders/IRQ/Tenshi_Yusuf.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_KUW_ahmad_al_sabah"
-		texturefile = "gfx/leaders/IRQ/portrait_KUW_ahmad_al_sabah.dds"
+		texturefile = "gfx/leaders/KUW/Iku_Sabah.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_LEB_abdallah_beyhum"

@@ -2112,3 +2112,153 @@ SYR = {
 		}
 	}
 }
+
+AFA = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Aussa_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Aussa_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Aussa_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Aussa_N" 
+			}
+		}
+	}
+}
+
+YEM = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Yemen_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Yemen_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Yemen_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Yemen_N" 
+			}
+		}
+	}
+}
+
+OMA = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Oman_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Oman_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Oman_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Oman_N" 
+			}
+		}
+	}
+}
+
+SAU = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Saudi_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Saudi_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Saudi_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Saudi_N" 
+			}
+		}
+	}
+}
+
+KUW = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Kuwait_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Kuwait_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Kuwait_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Kuwait_N" 
+			}
+		}
+	}
+}
+
+IRQ = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Iraq_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Iraq_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Iraq_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Iraq_N" 
+			}
+		}
+	}
+}

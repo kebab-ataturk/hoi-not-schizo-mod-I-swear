@@ -416,7 +416,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AFA_mohamed_yayyo"
-		texturefile = "gfx/leaders/AFA/portrait_AFA_mohamed_yayyo.dds"
+		texturefile = "gfx/leaders/AFA/Lily_Yayyo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ETH_military_communists"
