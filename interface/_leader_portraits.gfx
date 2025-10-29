@@ -9574,12 +9574,28 @@ spriteTypes = {
 	## SIL ##
 	SpriteType = {
 		name = "GFX_portrait_SIL_alexander_hochberg"
-		texturefile = "gfx/leaders/SIL/portrait_SIL_alexander_hochberg.dds"
+		texturefile = "gfx/leaders/SIL/momoyo2.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_SIL_Jozef_iniszkiewicz"
-		texturefile = "gfx/leaders/SIL/portrait_SIL_Józef_iniszkiewicz.dds"
+		texturefile = "gfx/leaders/SIL/momoyo.dds"
 	}	
+	spriteType = {
+		name = "GFX_Portrait_SIL_C"
+		texturefile = "gfx/leaders/SIL/momoyo.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_SIL_D"
+		texturefile = "gfx/leaders/SIL/momoyo2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_SIL_F"
+		texturefile = "gfx/leaders/SIL/momoyo.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_SIL_N"
+		texturefile = "gfx/leaders/SIL/momoyo2.dds"
+
 
 	## THU ##
 	SpriteType = {

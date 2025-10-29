@@ -2336,3 +2336,27 @@ BAN = {
 		}
 	}
 }
+
+SIL = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_SIL_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_SIL_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_SIL_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_SIL_N" 
+			}
+		}
+	}
