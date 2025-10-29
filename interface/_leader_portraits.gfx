@@ -767,7 +767,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_RAJ_veer_savarkar"
-		texturefile = "gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic.dds"
+		texturefile = "gfx/leaders/RAJ/Byakuren_Savarkar.dds"
 	}
 
 	spriteType = {
@@ -777,7 +777,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_RAJ_pattabhi_sitaramayya"
-		texturefile = "gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic_2.dds"
+		texturefile = "gfx/leaders/RAJ/Byakuren_Sitaramayya.dds"
 	}
 
 	spriteType = {
@@ -787,7 +787,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_RAJ_krishna_pillai"
-		texturefile = "gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic.dds"
+		texturefile = "gfx/leaders/RAJ/Urumi_Pillai.dds"
 	}
 
 	spriteType = {
@@ -797,7 +797,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_RAJ_subhas_chandra_bose"
-		texturefile = "gfx/leaders/RAJ/Portrait_The_Raj_Political_Leader_Generic.dds"
+		texturefile = "gfx/leaders/RAJ/Byakuren_Bose.dds"
 	}
 
 	spriteType = {
@@ -884,7 +884,60 @@ spriteTypes = {
 		name = "GFX_RAJ_douglas_gracey_small"
 		texturefile = "gfx/interface/ideas/idea_ENG_generic_land_3.dds"
 	}
+	spriteType = {
+		name = "GFX_Portrait_Raj_Generic_C"
+		texturefile = "gfx/leaders/RAJ/Urumi_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Raj_Generic_D"
+		texturefile = "gfx/leaders/RAJ/Byakuren_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Raj_Generic_F"
+		texturefile = "gfx/leaders/RAJ/Byakuren_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Raj_Generic_N"
+		texturefile = "gfx/leaders/RAJ/Urumi_GenericN.dds"
+	}
+	
+	#Pakistan
+	
+	spriteType = {
+		name = "GFX_Portrait_Pakistan_C"
+		texturefile = "gfx/leaders/RAJ/Nue_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Pakistan_D"
+		texturefile = "gfx/leaders/RAJ/Nue_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Pakistan_F"
+		texturefile = "gfx/leaders/RAJ/Nue_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Pakistan_N"
+		texturefile = "gfx/leaders/RAJ/Nue_GenericN.dds"
+	}
 
+	#Bangladesh
+	
+	spriteType = {
+		name = "GFX_Portrait_Bangladesh_C"
+		texturefile = "gfx/leaders/RAJ/Kyouko_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bangladesh_D"
+		texturefile = "gfx/leaders/RAJ/Kyouko_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bangladesh_F"
+		texturefile = "gfx/leaders/RAJ/Kyouko_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Bangladesh_N"
+		texturefile = "gfx/leaders/RAJ/Kyouko_GenericN.dds"
+	}
 
 	#Romania
 
@@ -3217,23 +3270,40 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Mohammed_Zahir_Shah
-		texturefile = "gfx/leaders/AFG/Portrait_Afghanistan_Mohammed_Zahir_Shah.dds"
+		texturefile = "gfx/leaders/AFG/Nemuno_Shah.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Akram_Sattari
-		texturefile = "gfx/leaders/SAU/Portrait_Arabia_Generic_2.dds"
+		texturefile = "gfx/leaders/AFG/Nemuno_Sattari.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Yaqub_Khan
-		texturefile = "gfx/leaders/SAU/Portrait_Arabia_Generic_1.dds"
+		texturefile = "gfx/leaders/AFG/Nemuno_Yaqub_Khan.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Mihrdil_Shahnawaz
-		texturefile = "gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
+		texturefile = "gfx/leaders/AFG/Nemuno_Shahnawaz.dds"
 	}
+	spriteType = {
+		name = "GFX_Portrait_Afghanistan_C"
+		texturefile = "gfx/leaders/AFG/Nemuno_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Afghanistan_D"
+		texturefile = "gfx/leaders/AFG/Nemuno_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Afghanistan_F"
+		texturefile = "gfx/leaders/AFG/Nemuno_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Afghanistan_N"
+		texturefile = "gfx/leaders/AFG/Nemuno_GenericN.dds"
+	}
+	
 
 	spriteType = {
 		name = GFX_portrait_Sardar_Shah_Wali_Khan
@@ -6680,12 +6750,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Reza_Shah_Pahlavi
-		texturefile = "gfx/leaders/PER/Portrait_Iran_Reza_Shah_Pahlavi.dds"
+		texturefile = "gfx/leaders/PER/Eika_Reza_Pahlavi.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Soleyman_Mirza_Eskandari
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_1.dds"
+		texturefile = "gfx/leaders/PER/Yuuma_Soleiman_Eskandari.dds"
 	}
 
 	spriteType = {
@@ -6720,12 +6790,29 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Dalir_Pesyan
-		texturefile = "gfx/leaders/SAU/Portrait_Arabia_Generic_2.dds"
+		texturefile = "gfx/leaders/PER/Eika_Pesyan.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Sohrab_Tahmasebi
-		texturefile = "gfx/leaders/SAU/Portrait_Arabia_Generic_3.dds"
+		texturefile = "gfx/leaders/PER/Yuuma_Tahmasebi.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Persia_C
+		texturefile = "gfx/leaders/PER/Yuuma_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Persia_D
+		texturefile = "gfx/leaders/PER/Eika_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Persia_F
+		texturefile = "gfx/leaders/PER/Yuuma_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Persia_N
+		texturefile = "gfx/leaders/PER/Eika_GenericN.dds"
 	}
 
 	spriteType = {
@@ -6932,7 +7019,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_RAJ_lord_linlithgow
-		texturefile = "gfx/leaders/RAJ/Portrait_British_Raj_Lord_Linlithgow.dds"
+		texturefile = "gfx/leaders/RAJ/Byakuren_Linlithgow.dds"
 	}
 
 	spriteType = {

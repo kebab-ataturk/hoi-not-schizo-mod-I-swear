@@ -198,17 +198,17 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_RAJ_veer_savarkar"
-		textureFile = "gfx//leaders//RAJ//Portrait_The_Raj_Veer_Savarkar.dds"
+		textureFile = "gfx/leaders/RAJ/Byakuren_Savarkar.dds"
 	}	
 	
 	spriteType = {
 		name = "GFX_RAJ_pattabhi_sitaramayya"
-		textureFile = "gfx//leaders//RAJ//Portrait_The_Raj_Pattabhi_Sitaramayya.dds"
+		textureFile = "gfx/leaders/RAJ/Byakuren_Sitaramayya.dds"
 	}	
 	
 	spriteType = {
 		name = "GFX_RAJ_krishna_pillai"
-		textureFile = "gfx//leaders//RAJ//Portrait_The_Raj_Krishna_Pillai.dds"
+		textureFile = "gfx/leaders/RAJ/Urumi_Pillai.dds"
 	}	
 	
 #	spriteType = {
@@ -233,7 +233,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_RAJ_subhas_chandra_bose"
-		textureFile = "gfx//leaders//RAJ//Portrait_The_Raj_Subhas_Chandra_Bose.dds"
+		textureFile = "gfx/leaders/RAJ/Byakuren_Bose.dds"
 	}		
 	
 	spriteType = {
