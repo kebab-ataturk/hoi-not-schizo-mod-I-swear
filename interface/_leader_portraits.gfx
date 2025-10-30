@@ -1975,7 +1975,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_indonesia_at_van_starkenborgh"
-		texturefile = "gfx/leaders/INS/portrait_ins_at_van_starkenborgh.dds"
+		texturefile = "gfx/leaders/INS/Aunn_Starkenborgh.dds"
 	}
 
 	spriteType = {
@@ -1984,7 +1984,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_malaya_shenton_thomas"
-		texturefile = "gfx/leaders/MAL/portrait_mal_shenton_thomas.dds"
+		texturefile = "gfx/leaders/MAL/Shou_Thomas.dds"
 	}
 
 	spriteType = {
@@ -5599,23 +5599,40 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_INS_sukarno
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+		texturefile = "gfx/leaders/INS/Aunn_Sukarno.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_INS_amir_sjarifuddin_harahap
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+		texturefile = "gfx/leaders/INS/Aunn_Harahap.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_INS_suharto
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_fascism.dds"
+		texturefile = "gfx/leaders/INS/Aunn_Suharto.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_INS_sutan_sjahrir
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
+		texturefile = "gfx/leaders/INS/Aunn_Sjahrir.dds"
 	}
+	spriteType = {
+		name = GFX_Portrait_Indonesia_C
+		texturefile = "gfx/leaders/INS/Aunn_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Indonesia_D
+		texturefile = "gfx/leaders/INS/Aunn_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Indonesia_F
+		texturefile = "gfx/leaders/INS/Aunn_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Indonesia_N
+		texturefile = "gfx/leaders/INS/Aunn_GenericN.dds"
+	}
+	
 
 	spriteType = {
 		name = GFX_portrait_Eamon_de_Valera
@@ -6211,22 +6228,39 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Onn_Jaafar
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
+		texturefile = "gfx/leaders/MAL/Shou_Jaafar.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Lai_Teck
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+		texturefile = "gfx/leaders/MAL/Shou_Teck.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Ibrahim_Hj_Yaacob
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_fascism.dds"
+		texturefile = "gfx/leaders/MAL/Shou_Yaacob.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Winston_Tyron
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/MAL/Shou_Tyron.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Malaysia_C
+		texturefile = "gfx/leaders/MAL/Shou_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Malaysia_D
+		texturefile = "gfx/leaders/MAL/Shou_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Malaysia_F
+		texturefile = "gfx/leaders/MAL/Shou_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Malaysia_N
+		texturefile = "gfx/leaders/MAL/Shou_GenericN.dds"
 	}
 
 	spriteType = {
@@ -7145,27 +7179,44 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Phraya_Phahon
-		texturefile = "gfx/leaders/SIA/Portrait_Siam_Phraya_Phahon.dds"
+		texturefile = "gfx/leaders/SIA/Seiga_Phahon.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Nangklao_Chichalerm
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/SIA/Seiga_Chichalerm.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Chao_Phonphayuhasena
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+		texturefile = "gfx/leaders/SIA/Seiga_Phonphayuhasena.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Nangklao_Suriyawongse
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/SIA/Seiga_Suriyawongse.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Plaek_Phibunsongkhram
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/SIA/Seiga_Phibunsongkhram.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Siam_C
+		texturefile = "gfx/leaders/SIA/Seiga_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Siam_D
+		texturefile = "gfx/leaders/SIA/Seiga_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Siam_F
+		texturefile = "gfx/leaders/SIA/Seiga_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Siam_N
+		texturefile = "gfx/leaders/SIA/Seiga_GenericN.dds"
 	}
 
 	spriteType = {
@@ -9595,7 +9646,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_Portrait_SIL_N"
 		texturefile = "gfx/leaders/SIL/momoyo2.dds"
-
+	}
 
 	## THU ##
 	SpriteType = {
@@ -9713,7 +9764,7 @@ spriteTypes = {
 		texturefile = "gfx/leaders/LEB/Genji_GenericN.dds"
 	}
 	
-	#KUW
+	## KUW ##
 	spriteType = {
 		name = GFX_Portrait_Kuwait_C
 		texturefile = "gfx/leaders/KUW/Iku_GenericC.dds"
@@ -9729,5 +9780,23 @@ spriteTypes = {
 	spriteType = {
 		name = GFX_Portrait_Kuwait_N
 		texturefile = "gfx/leaders/KUW/Iku_GenericN.dds"
+	}
+	
+	## BRM ##
+	spriteType = {
+		name = GFX_Portrait_Burma_C
+		texturefile = "gfx/leaders/BRM/Nazrin_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Burma_D
+		texturefile = "gfx/leaders/BRM/Nazrin_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Burma_F
+		texturefile = "gfx/leaders/BRM/Nazrin_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Burma_N
+		texturefile = "gfx/leaders/BRM/Nazrin_GenericN.dds"
 	}
 }

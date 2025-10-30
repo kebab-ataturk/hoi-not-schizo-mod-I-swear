@@ -1,23 +1,23 @@
 spriteTypes = {
 	spriteType = {
 		name = "GFX_portrait_BRM_archibald_cochrane"
-		texturefile = "gfx/leaders/MISC/portrait_BRM_archibald_cochrane.dds"
+		texturefile = "gfx/leaders/BRM/Nazrin_Cochrane.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRM_ba_maw"
-		texturefile = "gfx/leaders/MISC/portrait_BRM_ba_maw.dds"
+		texturefile = "gfx/leaders/BRM/Nazrin_Maw.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRM_myat_phaya_lat"
-		texturefile = "gfx/leaders/MISC/portrait_BRM_myat_phaya_lat.dds"
+		texturefile = "gfx/leaders/BRM/Nazrin_Lat.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRM_ne_win"
-		texturefile = "gfx/leaders/MISC/portrait_BRM_ne_win.dds"
+		texturefile = "gfx/leaders/BRM/Nazrin_Win.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_BRM_u_nu"
-		texturefile = "gfx/leaders/MISC/portrait_BRM_u_nu.dds"
+		texturefile = "gfx/leaders/BRM/Nazrin_Nu.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ISR_david_ben_gurion"

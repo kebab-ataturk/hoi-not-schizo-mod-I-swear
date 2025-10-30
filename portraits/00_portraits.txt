@@ -822,6 +822,30 @@ SAF_COM = {
 			"GFX_Portrait_Britain_Generic_navy_3"
 		}
 	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_South_Africa_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_South_Africa_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_South_Africa_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_South_Africa_N" 
+			}
+		}
+	}
+
 }
 
 RAJ_UK = {
@@ -888,6 +912,56 @@ MAL_UK = {
 			"GFX_Portrait_Britain_Generic_navy_3"
 		}
 	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Malaysia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Malaysia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Malaysia_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Malaysia_N" 
+			}
+		}
+	}
+
+}
+
+MAL = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Malaysia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Malaysia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Malaysia_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Malaysia_N" 
+			}
+		}
+	}
+
 }
 
 
@@ -2360,3 +2434,79 @@ SIL = {
 			}
 		}
 	}
+}
+
+BRM = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Burma_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Burma_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Burma_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Burma_N" 
+			}
+		}
+	}
+}
+
+INS = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Indonesia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Indonesia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Indonesia_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Indonesia_N" 
+			}
+		}
+	}
+}
+
+SIA = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Siam_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Siam_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Siam_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Siam_N" 
+			}
+		}
+	}
+}
