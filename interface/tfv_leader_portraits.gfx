@@ -218,17 +218,17 @@ spriteTypes = {
 #	
 #	spriteType = {
 #		name = "GFX_RAJ_political_leader_generic_2"
-#		textureFile = "gfx//leaders//RAJ//Portrait_The_Raj_Political_Leader_Generic_2.dds"
+#		textureFile = "gfx/leaders/RAJ/Urumi_GenericN.dds"
 #	}	
 #	
 #	spriteType = {
 #		name = "GFX_RAJ_army_Generic"
-#		textureFile = "gfx//leaders//RAJ//Portrait_The_Raj_Army_Generic.dds"
+#		textureFile = "gfx/leaders/RAJ/Urumi_GenericN.dds"
 #	}	
 #	
 #	spriteType = {
 #		name = "GFX_RAJ_political_leader_generic"
-#		textureFile = "gfx//leaders//RAJ//Portrait_The_Raj_Political_Leader_Generic.dds"
+#		textureFile = "gfx/leaders/RAJ/Urumi_GenericN.dds"
 #	}	
 	
 	spriteType = {
