@@ -2510,3 +2510,80 @@ SIA = {
 		}
 	}
 }
+
+BHU = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Bhutan_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Bhutan_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Bhutan_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Bhutan_N" 
+			}
+		}
+	}
+}
+
+NEP = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Nepal_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Nepal_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Nepal_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Nepal_N" 
+			}
+		}
+	}
+}
+
+MON = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Mongolia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Mongolia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Mongolia_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Mongolia_N" 
+			}
+		}
+	}
+}
+
+

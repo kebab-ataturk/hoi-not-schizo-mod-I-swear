@@ -1993,7 +1993,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_buthan_jigme_wangchuk"
-		texturefile = "gfx/leaders/BHU/portrait_bhu_jigme_wangchuk.dds"
+		texturefile = "gfx/leaders/BHU/Ichirin_Wangchuck.dds"
 	}
 
 	spriteType = {
@@ -2047,7 +2047,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_nepal_portrait_juddah_rana"
-		texturefile = "gfx/leaders/NEP/portrait_nep_juddah_rana.dds"
+		texturefile = "gfx/leaders/NEP/Unzan_Rana.dds"
 	}
 
 	spriteType = {
@@ -2261,7 +2261,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_mon_anandyn_amar"
-		texturefile = "gfx/leaders/MON/portrait_mon_anandyn_amar.dds"
+		texturefile = "gfx/leaders/MON/Saki_Amar.dds"
 	}
 
 	spriteType = {
@@ -3573,18 +3573,23 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Tsarong_Wangyal
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+		texturefile = "gfx/leaders/BHU/Ichirin_Wangyal.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Gendun_Rinpoche
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/BHU/Ichirin_Rinpoche.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Andruk_Tashi
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/BHU/Ichirin_Tashi.dds"
 	}
+	spriteType = {
+		name = GFX_Portrait_Bhutan_C
+		texturefile = "gfx/leaders/BHU/Ichirin_Tashi.dds"
+	}
+	
 
 	spriteType = {
 		name = GFX_portrait_Jose_Luis_Tejada_Sorzano
@@ -6425,37 +6430,71 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Mingzhu_Zhanshan
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+		texturefile = "gfx/leaders/MON/Saki_Zhanshan.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Fu_Shangzhi
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/MON/Saki_Shangzhi.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Songgotu_Kangan
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/MON/Saki_Kangan.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Khorloogiin_Choibalsan
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+		texturefile = "gfx/leaders/MON/Saki_Choibalsan.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Mongolia_C
+		texturefile = "gfx/leaders/MON/Saki_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Mongolia_D
+		texturefile = "gfx/leaders/MON/Saki_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Mongolia_F
+		texturefile = "gfx/leaders/MON/Saki_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Mongolia_N
+		texturefile = "gfx/leaders/MON/Saki_GenericN.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Bhakti_Thapa
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+		texturefile = "gfx/leaders/NEP/Unzan_Bhakti_Thapa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Bir_Shamsher_Singh_Thapa
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+		texturefile = "gfx/leaders/NEP/Unzan_Singh_Thapa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Amar_Thapa
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/NEP/Unzan_Amar_Thapa.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Nepal_C
+		texturefile = "gfx/leaders/NEP/Unzan_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Nepal_D
+		texturefile = "gfx/leaders/NEP/Unzan_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Nepal_F
+		texturefile = "gfx/leaders/NEP/Unzan_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Nepal_N
+		texturefile = "gfx/leaders/NEP/Unzan_GenericN.dds"
 	}
 
 	spriteType = {
