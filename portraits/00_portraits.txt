@@ -54,22 +54,123 @@ continent = {
 	political = {
 		communism = {
 				male = { 
-				"GFX_Portrait_Europe_Generic_1"
+				"GFX_Portrait_Communist_1A" 
+				"GFX_Portrait_Communist_1B"
+				"GFX_Portrait_Communist_1C"
+				"GFX_Portrait_Communist_1D"
+				"GFX_Portrait_Communist_1E"  
+				"GFX_Portrait_Communist_2A" 
+				"GFX_Portrait_Communist_2B"
+				"GFX_Portrait_Communist_2C"
+				"GFX_Portrait_Communist_2D"
+				"GFX_Portrait_Communist_2E"
+				"GFX_Portrait_Communist_3A" 
+				"GFX_Portrait_Communist_3B"
+				"GFX_Portrait_Communist_3C"
+				"GFX_Portrait_Communist_3D"
+				"GFX_Portrait_Communist_3E"  
+				"GFX_Portrait_Communist_4A"
+				"GFX_Portrait_Communist_4B"
+				"GFX_Portrait_Communist_4C"
+				"GFX_Portrait_Communist_4D"
+				"GFX_Portrait_Communist_4E"
+				"GFX_Portrait_Communist_5A"
+				"GFX_Portrait_Communist_5B"
+				"GFX_Portrait_Communist_5C"
+				"GFX_Portrait_Communist_5D"
+				"GFX_Portrait_Communist_5E"
 			}
 		}
 		democratic = {
 				male = { 
-				"GFX_Portrait_Europe_Generic_2" 
+				"GFX_Portrait_Democratic_1A" 
+				"GFX_Portrait_Democratic_1B"
+				"GFX_Portrait_Democratic_1C"
+				"GFX_Portrait_Democratic_1D"
+				"GFX_Portrait_Democratic_1E"  
+				"GFX_Portrait_Democratic_2A" 
+				"GFX_Portrait_Democratic_2B"
+				"GFX_Portrait_Democratic_2C"
+				"GFX_Portrait_Democratic_2D"
+				"GFX_Portrait_Democratic_2E"
+				"GFX_Portrait_Democratic_3A" 
+				"GFX_Portrait_Democratic_3B"
+				"GFX_Portrait_Democratic_3C"
+				"GFX_Portrait_Democratic_3D"
+				"GFX_Portrait_Democratic_3E"  
+				"GFX_Portrait_Democratic_4A"
+				"GFX_Portrait_Democratic_4B"
+				"GFX_Portrait_Democratic_4C"
+				"GFX_Portrait_Democratic_4D"
+				"GFX_Portrait_Democratic_4E"
+				"GFX_Portrait_Democratic_5A"
+				"GFX_Portrait_Democratic_5B"
+				"GFX_Portrait_Democratic_5C"
+				"GFX_Portrait_Democratic_5D"
+				"GFX_Portrait_Democratic_5E"
 			}
 		}
 		fascism = {
 				male = { 
-				"GFX_Portrait_Europe_Generic_3" 
+				"GFX_Portrait_Fascist_1A" 
+				"GFX_Portrait_Fascist_1B"
+				"GFX_Portrait_Fascist_1C"
+				"GFX_Portrait_Fascist_1D"
+				"GFX_Portrait_Fascist_1E"  
+				"GFX_Portrait_Fascist_2A" 
+				"GFX_Portrait_Fascist_2B"
+				"GFX_Portrait_Fascist_2C"
+				"GFX_Portrait_Fascist_2D"
+				"GFX_Portrait_Fascist_2E"
+				"GFX_Portrait_Fascist_3A" 
+				"GFX_Portrait_Fascist_3B"
+				"GFX_Portrait_Fascist_3C"
+				"GFX_Portrait_Fascist_3D"
+				"GFX_Portrait_Fascist_3E"  
+				"GFX_Portrait_Fascist_4A"
+				"GFX_Portrait_Fascist_4B"
+				"GFX_Portrait_Fascist_4C"
+				"GFX_Portrait_Fascist_4D"
+				"GFX_Portrait_Fascist_4E"
+				"GFX_Portrait_Fascist_5A"
+				"GFX_Portrait_Fascist_5B"
+				"GFX_Portrait_Fascist_5C"
+				"GFX_Portrait_Fascist_5D"
+				"GFX_Portrait_Fascist_5E"
+				"GFX_Portrait_Fascist_6A"
+				"GFX_Portrait_Fascist_6B"
+				"GFX_Portrait_Fascist_6C"
+				"GFX_Portrait_Fascist_6D"
+				"GFX_Portrait_Fascist_6E"
 			}
 		}
 		neutrality = {
 				male = { 
-				"GFX_Portrait_Europe_Generic_3" 
+				"GFX_Portrait_Neutrality_1A" 
+				"GFX_Portrait_Neutrality_1B"
+				"GFX_Portrait_Neutrality_1C"
+				"GFX_Portrait_Neutrality_1D"
+				"GFX_Portrait_Neutrality_1E"  
+				"GFX_Portrait_Neutrality_2A" 
+				"GFX_Portrait_Neutrality_2B"
+				"GFX_Portrait_Neutrality_2C"
+				"GFX_Portrait_Neutrality_2D"
+				"GFX_Portrait_Neutrality_2E"
+				"GFX_Portrait_Neutrality_3A" 
+				"GFX_Portrait_Neutrality_3B"
+				"GFX_Portrait_Neutrality_3C"
+				"GFX_Portrait_Neutrality_3D"
+				"GFX_Portrait_Neutrality_3E"  
+				"GFX_Portrait_Neutrality_4A"
+				"GFX_Portrait_Neutrality_4B"
+				"GFX_Portrait_Neutrality_4C"
+				"GFX_Portrait_Neutrality_4D"
+				"GFX_Portrait_Neutrality_4E"
+				"GFX_Portrait_Neutrality_5A"
+				"GFX_Portrait_Neutrality_5B"
+				"GFX_Portrait_Neutrality_5C"
+				"GFX_Portrait_Neutrality_5D"
+				"GFX_Portrait_Neutrality_5E"
 			}
 		}
 	}
@@ -99,23 +200,124 @@ continent = {
 
 	political = {
 		communism = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_1"
+				male = { 
+				"GFX_Portrait_Communist_1A" 
+				"GFX_Portrait_Communist_1B"
+				"GFX_Portrait_Communist_1C"
+				"GFX_Portrait_Communist_1D"
+				"GFX_Portrait_Communist_1E"  
+				"GFX_Portrait_Communist_2A" 
+				"GFX_Portrait_Communist_2B"
+				"GFX_Portrait_Communist_2C"
+				"GFX_Portrait_Communist_2D"
+				"GFX_Portrait_Communist_2E"
+				"GFX_Portrait_Communist_3A" 
+				"GFX_Portrait_Communist_3B"
+				"GFX_Portrait_Communist_3C"
+				"GFX_Portrait_Communist_3D"
+				"GFX_Portrait_Communist_3E"  
+				"GFX_Portrait_Communist_4A"
+				"GFX_Portrait_Communist_4B"
+				"GFX_Portrait_Communist_4C"
+				"GFX_Portrait_Communist_4D"
+				"GFX_Portrait_Communist_4E"
+				"GFX_Portrait_Communist_5A"
+				"GFX_Portrait_Communist_5B"
+				"GFX_Portrait_Communist_5C"
+				"GFX_Portrait_Communist_5D"
+				"GFX_Portrait_Communist_5E"
 			}
 		}
 		democratic = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_2" 
+				male = { 
+				"GFX_Portrait_Democratic_1A" 
+				"GFX_Portrait_Democratic_1B"
+				"GFX_Portrait_Democratic_1C"
+				"GFX_Portrait_Democratic_1D"
+				"GFX_Portrait_Democratic_1E"  
+				"GFX_Portrait_Democratic_2A" 
+				"GFX_Portrait_Democratic_2B"
+				"GFX_Portrait_Democratic_2C"
+				"GFX_Portrait_Democratic_2D"
+				"GFX_Portrait_Democratic_2E"
+				"GFX_Portrait_Democratic_3A" 
+				"GFX_Portrait_Democratic_3B"
+				"GFX_Portrait_Democratic_3C"
+				"GFX_Portrait_Democratic_3D"
+				"GFX_Portrait_Democratic_3E"  
+				"GFX_Portrait_Democratic_4A"
+				"GFX_Portrait_Democratic_4B"
+				"GFX_Portrait_Democratic_4C"
+				"GFX_Portrait_Democratic_4D"
+				"GFX_Portrait_Democratic_4E"
+				"GFX_Portrait_Democratic_5A"
+				"GFX_Portrait_Democratic_5B"
+				"GFX_Portrait_Democratic_5C"
+				"GFX_Portrait_Democratic_5D"
+				"GFX_Portrait_Democratic_5E"
 			}
 		}
 		fascism = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_3" 
+				male = { 
+				"GFX_Portrait_Fascist_1A" 
+				"GFX_Portrait_Fascist_1B"
+				"GFX_Portrait_Fascist_1C"
+				"GFX_Portrait_Fascist_1D"
+				"GFX_Portrait_Fascist_1E"  
+				"GFX_Portrait_Fascist_2A" 
+				"GFX_Portrait_Fascist_2B"
+				"GFX_Portrait_Fascist_2C"
+				"GFX_Portrait_Fascist_2D"
+				"GFX_Portrait_Fascist_2E"
+				"GFX_Portrait_Fascist_3A" 
+				"GFX_Portrait_Fascist_3B"
+				"GFX_Portrait_Fascist_3C"
+				"GFX_Portrait_Fascist_3D"
+				"GFX_Portrait_Fascist_3E"  
+				"GFX_Portrait_Fascist_4A"
+				"GFX_Portrait_Fascist_4B"
+				"GFX_Portrait_Fascist_4C"
+				"GFX_Portrait_Fascist_4D"
+				"GFX_Portrait_Fascist_4E"
+				"GFX_Portrait_Fascist_5A"
+				"GFX_Portrait_Fascist_5B"
+				"GFX_Portrait_Fascist_5C"
+				"GFX_Portrait_Fascist_5D"
+				"GFX_Portrait_Fascist_5E"
+				"GFX_Portrait_Fascist_6A"
+				"GFX_Portrait_Fascist_6B"
+				"GFX_Portrait_Fascist_6C"
+				"GFX_Portrait_Fascist_6D"
+				"GFX_Portrait_Fascist_6E"
 			}
 		}
 		neutrality = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_3" 
+				male = { 
+				"GFX_Portrait_Neutrality_1A" 
+				"GFX_Portrait_Neutrality_1B"
+				"GFX_Portrait_Neutrality_1C"
+				"GFX_Portrait_Neutrality_1D"
+				"GFX_Portrait_Neutrality_1E"  
+				"GFX_Portrait_Neutrality_2A" 
+				"GFX_Portrait_Neutrality_2B"
+				"GFX_Portrait_Neutrality_2C"
+				"GFX_Portrait_Neutrality_2D"
+				"GFX_Portrait_Neutrality_2E"
+				"GFX_Portrait_Neutrality_3A" 
+				"GFX_Portrait_Neutrality_3B"
+				"GFX_Portrait_Neutrality_3C"
+				"GFX_Portrait_Neutrality_3D"
+				"GFX_Portrait_Neutrality_3E"  
+				"GFX_Portrait_Neutrality_4A"
+				"GFX_Portrait_Neutrality_4B"
+				"GFX_Portrait_Neutrality_4C"
+				"GFX_Portrait_Neutrality_4D"
+				"GFX_Portrait_Neutrality_4E"
+				"GFX_Portrait_Neutrality_5A"
+				"GFX_Portrait_Neutrality_5B"
+				"GFX_Portrait_Neutrality_5C"
+				"GFX_Portrait_Neutrality_5D"
+				"GFX_Portrait_Neutrality_5E"
 			}
 		}
 	}
@@ -144,23 +346,124 @@ continent = {
 	
 	political = {
 		communism = {
-			male = { 
-				"GFX_Portrait_South_America_Generic_1"
+				male = { 
+				"GFX_Portrait_Communist_1A" 
+				"GFX_Portrait_Communist_1B"
+				"GFX_Portrait_Communist_1C"
+				"GFX_Portrait_Communist_1D"
+				"GFX_Portrait_Communist_1E"  
+				"GFX_Portrait_Communist_2A" 
+				"GFX_Portrait_Communist_2B"
+				"GFX_Portrait_Communist_2C"
+				"GFX_Portrait_Communist_2D"
+				"GFX_Portrait_Communist_2E"
+				"GFX_Portrait_Communist_3A" 
+				"GFX_Portrait_Communist_3B"
+				"GFX_Portrait_Communist_3C"
+				"GFX_Portrait_Communist_3D"
+				"GFX_Portrait_Communist_3E"  
+				"GFX_Portrait_Communist_4A"
+				"GFX_Portrait_Communist_4B"
+				"GFX_Portrait_Communist_4C"
+				"GFX_Portrait_Communist_4D"
+				"GFX_Portrait_Communist_4E"
+				"GFX_Portrait_Communist_5A"
+				"GFX_Portrait_Communist_5B"
+				"GFX_Portrait_Communist_5C"
+				"GFX_Portrait_Communist_5D"
+				"GFX_Portrait_Communist_5E"
 			}
 		}
 		democratic = {
-			male = { 
-				"GFX_Portrait_South_America_Generic_2" 
+				male = { 
+				"GFX_Portrait_Democratic_1A" 
+				"GFX_Portrait_Democratic_1B"
+				"GFX_Portrait_Democratic_1C"
+				"GFX_Portrait_Democratic_1D"
+				"GFX_Portrait_Democratic_1E"  
+				"GFX_Portrait_Democratic_2A" 
+				"GFX_Portrait_Democratic_2B"
+				"GFX_Portrait_Democratic_2C"
+				"GFX_Portrait_Democratic_2D"
+				"GFX_Portrait_Democratic_2E"
+				"GFX_Portrait_Democratic_3A" 
+				"GFX_Portrait_Democratic_3B"
+				"GFX_Portrait_Democratic_3C"
+				"GFX_Portrait_Democratic_3D"
+				"GFX_Portrait_Democratic_3E"  
+				"GFX_Portrait_Democratic_4A"
+				"GFX_Portrait_Democratic_4B"
+				"GFX_Portrait_Democratic_4C"
+				"GFX_Portrait_Democratic_4D"
+				"GFX_Portrait_Democratic_4E"
+				"GFX_Portrait_Democratic_5A"
+				"GFX_Portrait_Democratic_5B"
+				"GFX_Portrait_Democratic_5C"
+				"GFX_Portrait_Democratic_5D"
+				"GFX_Portrait_Democratic_5E"
 			}
 		}
 		fascism = {
-			male = { 
-				"GFX_Portrait_South_America_Generic_3" 
+				male = { 
+				"GFX_Portrait_Fascist_1A" 
+				"GFX_Portrait_Fascist_1B"
+				"GFX_Portrait_Fascist_1C"
+				"GFX_Portrait_Fascist_1D"
+				"GFX_Portrait_Fascist_1E"  
+				"GFX_Portrait_Fascist_2A" 
+				"GFX_Portrait_Fascist_2B"
+				"GFX_Portrait_Fascist_2C"
+				"GFX_Portrait_Fascist_2D"
+				"GFX_Portrait_Fascist_2E"
+				"GFX_Portrait_Fascist_3A" 
+				"GFX_Portrait_Fascist_3B"
+				"GFX_Portrait_Fascist_3C"
+				"GFX_Portrait_Fascist_3D"
+				"GFX_Portrait_Fascist_3E"  
+				"GFX_Portrait_Fascist_4A"
+				"GFX_Portrait_Fascist_4B"
+				"GFX_Portrait_Fascist_4C"
+				"GFX_Portrait_Fascist_4D"
+				"GFX_Portrait_Fascist_4E"
+				"GFX_Portrait_Fascist_5A"
+				"GFX_Portrait_Fascist_5B"
+				"GFX_Portrait_Fascist_5C"
+				"GFX_Portrait_Fascist_5D"
+				"GFX_Portrait_Fascist_5E"
+				"GFX_Portrait_Fascist_6A"
+				"GFX_Portrait_Fascist_6B"
+				"GFX_Portrait_Fascist_6C"
+				"GFX_Portrait_Fascist_6D"
+				"GFX_Portrait_Fascist_6E"
 			}
 		}
 		neutrality = {
-			male = { 
-				"GFX_Portrait_South_America_Generic_3" 
+				male = { 
+				"GFX_Portrait_Neutrality_1A" 
+				"GFX_Portrait_Neutrality_1B"
+				"GFX_Portrait_Neutrality_1C"
+				"GFX_Portrait_Neutrality_1D"
+				"GFX_Portrait_Neutrality_1E"  
+				"GFX_Portrait_Neutrality_2A" 
+				"GFX_Portrait_Neutrality_2B"
+				"GFX_Portrait_Neutrality_2C"
+				"GFX_Portrait_Neutrality_2D"
+				"GFX_Portrait_Neutrality_2E"
+				"GFX_Portrait_Neutrality_3A" 
+				"GFX_Portrait_Neutrality_3B"
+				"GFX_Portrait_Neutrality_3C"
+				"GFX_Portrait_Neutrality_3D"
+				"GFX_Portrait_Neutrality_3E"  
+				"GFX_Portrait_Neutrality_4A"
+				"GFX_Portrait_Neutrality_4B"
+				"GFX_Portrait_Neutrality_4C"
+				"GFX_Portrait_Neutrality_4D"
+				"GFX_Portrait_Neutrality_4E"
+				"GFX_Portrait_Neutrality_5A"
+				"GFX_Portrait_Neutrality_5B"
+				"GFX_Portrait_Neutrality_5C"
+				"GFX_Portrait_Neutrality_5D"
+				"GFX_Portrait_Neutrality_5E"
 			}
 		}
 	}
@@ -190,23 +493,124 @@ continent = {
 	
 	political = {
 		communism = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_1"
+				male = { 
+				"GFX_Portrait_Communist_1A" 
+				"GFX_Portrait_Communist_1B"
+				"GFX_Portrait_Communist_1C"
+				"GFX_Portrait_Communist_1D"
+				"GFX_Portrait_Communist_1E"  
+				"GFX_Portrait_Communist_2A" 
+				"GFX_Portrait_Communist_2B"
+				"GFX_Portrait_Communist_2C"
+				"GFX_Portrait_Communist_2D"
+				"GFX_Portrait_Communist_2E"
+				"GFX_Portrait_Communist_3A" 
+				"GFX_Portrait_Communist_3B"
+				"GFX_Portrait_Communist_3C"
+				"GFX_Portrait_Communist_3D"
+				"GFX_Portrait_Communist_3E"  
+				"GFX_Portrait_Communist_4A"
+				"GFX_Portrait_Communist_4B"
+				"GFX_Portrait_Communist_4C"
+				"GFX_Portrait_Communist_4D"
+				"GFX_Portrait_Communist_4E"
+				"GFX_Portrait_Communist_5A"
+				"GFX_Portrait_Communist_5B"
+				"GFX_Portrait_Communist_5C"
+				"GFX_Portrait_Communist_5D"
+				"GFX_Portrait_Communist_5E"
 			}
 		}
 		democratic = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_2" 
+				male = { 
+				"GFX_Portrait_Democratic_1A" 
+				"GFX_Portrait_Democratic_1B"
+				"GFX_Portrait_Democratic_1C"
+				"GFX_Portrait_Democratic_1D"
+				"GFX_Portrait_Democratic_1E"  
+				"GFX_Portrait_Democratic_2A" 
+				"GFX_Portrait_Democratic_2B"
+				"GFX_Portrait_Democratic_2C"
+				"GFX_Portrait_Democratic_2D"
+				"GFX_Portrait_Democratic_2E"
+				"GFX_Portrait_Democratic_3A" 
+				"GFX_Portrait_Democratic_3B"
+				"GFX_Portrait_Democratic_3C"
+				"GFX_Portrait_Democratic_3D"
+				"GFX_Portrait_Democratic_3E"  
+				"GFX_Portrait_Democratic_4A"
+				"GFX_Portrait_Democratic_4B"
+				"GFX_Portrait_Democratic_4C"
+				"GFX_Portrait_Democratic_4D"
+				"GFX_Portrait_Democratic_4E"
+				"GFX_Portrait_Democratic_5A"
+				"GFX_Portrait_Democratic_5B"
+				"GFX_Portrait_Democratic_5C"
+				"GFX_Portrait_Democratic_5D"
+				"GFX_Portrait_Democratic_5E"
 			}
 		}
 		fascism = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_3" 
+				male = { 
+				"GFX_Portrait_Fascist_1A" 
+				"GFX_Portrait_Fascist_1B"
+				"GFX_Portrait_Fascist_1C"
+				"GFX_Portrait_Fascist_1D"
+				"GFX_Portrait_Fascist_1E"  
+				"GFX_Portrait_Fascist_2A" 
+				"GFX_Portrait_Fascist_2B"
+				"GFX_Portrait_Fascist_2C"
+				"GFX_Portrait_Fascist_2D"
+				"GFX_Portrait_Fascist_2E"
+				"GFX_Portrait_Fascist_3A" 
+				"GFX_Portrait_Fascist_3B"
+				"GFX_Portrait_Fascist_3C"
+				"GFX_Portrait_Fascist_3D"
+				"GFX_Portrait_Fascist_3E"  
+				"GFX_Portrait_Fascist_4A"
+				"GFX_Portrait_Fascist_4B"
+				"GFX_Portrait_Fascist_4C"
+				"GFX_Portrait_Fascist_4D"
+				"GFX_Portrait_Fascist_4E"
+				"GFX_Portrait_Fascist_5A"
+				"GFX_Portrait_Fascist_5B"
+				"GFX_Portrait_Fascist_5C"
+				"GFX_Portrait_Fascist_5D"
+				"GFX_Portrait_Fascist_5E"
+				"GFX_Portrait_Fascist_6A"
+				"GFX_Portrait_Fascist_6B"
+				"GFX_Portrait_Fascist_6C"
+				"GFX_Portrait_Fascist_6D"
+				"GFX_Portrait_Fascist_6E"
 			}
 		}
 		neutrality = {
-			male = { 
-				"GFX_Portrait_Europe_Generic_3" 
+				male = { 
+				"GFX_Portrait_Neutrality_1A" 
+				"GFX_Portrait_Neutrality_1B"
+				"GFX_Portrait_Neutrality_1C"
+				"GFX_Portrait_Neutrality_1D"
+				"GFX_Portrait_Neutrality_1E"  
+				"GFX_Portrait_Neutrality_2A" 
+				"GFX_Portrait_Neutrality_2B"
+				"GFX_Portrait_Neutrality_2C"
+				"GFX_Portrait_Neutrality_2D"
+				"GFX_Portrait_Neutrality_2E"
+				"GFX_Portrait_Neutrality_3A" 
+				"GFX_Portrait_Neutrality_3B"
+				"GFX_Portrait_Neutrality_3C"
+				"GFX_Portrait_Neutrality_3D"
+				"GFX_Portrait_Neutrality_3E"  
+				"GFX_Portrait_Neutrality_4A"
+				"GFX_Portrait_Neutrality_4B"
+				"GFX_Portrait_Neutrality_4C"
+				"GFX_Portrait_Neutrality_4D"
+				"GFX_Portrait_Neutrality_4E"
+				"GFX_Portrait_Neutrality_5A"
+				"GFX_Portrait_Neutrality_5B"
+				"GFX_Portrait_Neutrality_5C"
+				"GFX_Portrait_Neutrality_5D"
+				"GFX_Portrait_Neutrality_5E"
 			}
 		}
 	}
@@ -235,38 +639,127 @@ continent = {
 	
 	political = {
 		communism = {
-			male = { 
-				"GFX_Portrait_Africa_Generic_1"	
-				"GFX_Portrait_South_Africa_Political_Leader_Generic_2"
-				"GFX_Portrait_South_Africa_Political_Leader_Generic"
+				male = { 
+				"GFX_Portrait_Communist_1A" 
+				"GFX_Portrait_Communist_1B"
+				"GFX_Portrait_Communist_1C"
+				"GFX_Portrait_Communist_1D"
+				"GFX_Portrait_Communist_1E"  
+				"GFX_Portrait_Communist_2A" 
+				"GFX_Portrait_Communist_2B"
+				"GFX_Portrait_Communist_2C"
+				"GFX_Portrait_Communist_2D"
+				"GFX_Portrait_Communist_2E"
+				"GFX_Portrait_Communist_3A" 
+				"GFX_Portrait_Communist_3B"
+				"GFX_Portrait_Communist_3C"
+				"GFX_Portrait_Communist_3D"
+				"GFX_Portrait_Communist_3E"  
+				"GFX_Portrait_Communist_4A"
+				"GFX_Portrait_Communist_4B"
+				"GFX_Portrait_Communist_4C"
+				"GFX_Portrait_Communist_4D"
+				"GFX_Portrait_Communist_4E"
+				"GFX_Portrait_Communist_5A"
+				"GFX_Portrait_Communist_5B"
+				"GFX_Portrait_Communist_5C"
+				"GFX_Portrait_Communist_5D"
+				"GFX_Portrait_Communist_5E"
 			}
 		}
 		democratic = {
-			male = { 
-				"GFX_Portrait_Africa_Generic_2" 
-				"GFX_Portrait_South_Africa_Political_Leader_Generic"
-				"GFX_Portrait_South_Africa_Political_Leader_Generic_2"		
+				male = { 
+				"GFX_Portrait_Democratic_1A" 
+				"GFX_Portrait_Democratic_1B"
+				"GFX_Portrait_Democratic_1C"
+				"GFX_Portrait_Democratic_1D"
+				"GFX_Portrait_Democratic_1E"  
+				"GFX_Portrait_Democratic_2A" 
+				"GFX_Portrait_Democratic_2B"
+				"GFX_Portrait_Democratic_2C"
+				"GFX_Portrait_Democratic_2D"
+				"GFX_Portrait_Democratic_2E"
+				"GFX_Portrait_Democratic_3A" 
+				"GFX_Portrait_Democratic_3B"
+				"GFX_Portrait_Democratic_3C"
+				"GFX_Portrait_Democratic_3D"
+				"GFX_Portrait_Democratic_3E"  
+				"GFX_Portrait_Democratic_4A"
+				"GFX_Portrait_Democratic_4B"
+				"GFX_Portrait_Democratic_4C"
+				"GFX_Portrait_Democratic_4D"
+				"GFX_Portrait_Democratic_4E"
+				"GFX_Portrait_Democratic_5A"
+				"GFX_Portrait_Democratic_5B"
+				"GFX_Portrait_Democratic_5C"
+				"GFX_Portrait_Democratic_5D"
+				"GFX_Portrait_Democratic_5E"
 			}
 		}
 		fascism = {
-			male = { 
-				"GFX_Portrait_Africa_Generic_3" 
-				"GFX_Portrait_South_Africa_Political_Leader_Generic"
-				"GFX_Portrait_South_Africa_Political_Leader_Generic_2"
-				"GFX_Portrait_South_Africa_Army_Generic"
-				"GFX_Portrait_South_Africa_Army_Generic_2"
+				male = { 
+				"GFX_Portrait_Fascist_1A" 
+				"GFX_Portrait_Fascist_1B"
+				"GFX_Portrait_Fascist_1C"
+				"GFX_Portrait_Fascist_1D"
+				"GFX_Portrait_Fascist_1E"  
+				"GFX_Portrait_Fascist_2A" 
+				"GFX_Portrait_Fascist_2B"
+				"GFX_Portrait_Fascist_2C"
+				"GFX_Portrait_Fascist_2D"
+				"GFX_Portrait_Fascist_2E"
+				"GFX_Portrait_Fascist_3A" 
+				"GFX_Portrait_Fascist_3B"
+				"GFX_Portrait_Fascist_3C"
+				"GFX_Portrait_Fascist_3D"
+				"GFX_Portrait_Fascist_3E"  
+				"GFX_Portrait_Fascist_4A"
+				"GFX_Portrait_Fascist_4B"
+				"GFX_Portrait_Fascist_4C"
+				"GFX_Portrait_Fascist_4D"
+				"GFX_Portrait_Fascist_4E"
+				"GFX_Portrait_Fascist_5A"
+				"GFX_Portrait_Fascist_5B"
+				"GFX_Portrait_Fascist_5C"
+				"GFX_Portrait_Fascist_5D"
+				"GFX_Portrait_Fascist_5E"
+				"GFX_Portrait_Fascist_6A"
+				"GFX_Portrait_Fascist_6B"
+				"GFX_Portrait_Fascist_6C"
+				"GFX_Portrait_Fascist_6D"
+				"GFX_Portrait_Fascist_6E"
 			}
 		}
 		neutrality = {
-			male = { 
-				"GFX_Portrait_Africa_Generic_3" 
-				"GFX_Portrait_South_Africa_Political_Leader_Generic"
-				"GFX_Portrait_South_Africa_Political_Leader_Generic_2"
+				male = { 
+				"GFX_Portrait_Neutrality_1A" 
+				"GFX_Portrait_Neutrality_1B"
+				"GFX_Portrait_Neutrality_1C"
+				"GFX_Portrait_Neutrality_1D"
+				"GFX_Portrait_Neutrality_1E"  
+				"GFX_Portrait_Neutrality_2A" 
+				"GFX_Portrait_Neutrality_2B"
+				"GFX_Portrait_Neutrality_2C"
+				"GFX_Portrait_Neutrality_2D"
+				"GFX_Portrait_Neutrality_2E"
+				"GFX_Portrait_Neutrality_3A" 
+				"GFX_Portrait_Neutrality_3B"
+				"GFX_Portrait_Neutrality_3C"
+				"GFX_Portrait_Neutrality_3D"
+				"GFX_Portrait_Neutrality_3E"  
+				"GFX_Portrait_Neutrality_4A"
+				"GFX_Portrait_Neutrality_4B"
+				"GFX_Portrait_Neutrality_4C"
+				"GFX_Portrait_Neutrality_4D"
+				"GFX_Portrait_Neutrality_4E"
+				"GFX_Portrait_Neutrality_5A"
+				"GFX_Portrait_Neutrality_5B"
+				"GFX_Portrait_Neutrality_5C"
+				"GFX_Portrait_Neutrality_5D"
+				"GFX_Portrait_Neutrality_5E"
 			}
 		}
 	}
-
-
 }
 
 continent = {
@@ -291,23 +784,124 @@ continent = {
 
 	political = {
 		communism = {
-			male = { 
-				"GFX_Portrait_Asia_Generic_1"
+				male = { 
+				"GFX_Portrait_Communist_1A" 
+				"GFX_Portrait_Communist_1B"
+				"GFX_Portrait_Communist_1C"
+				"GFX_Portrait_Communist_1D"
+				"GFX_Portrait_Communist_1E"  
+				"GFX_Portrait_Communist_2A" 
+				"GFX_Portrait_Communist_2B"
+				"GFX_Portrait_Communist_2C"
+				"GFX_Portrait_Communist_2D"
+				"GFX_Portrait_Communist_2E"
+				"GFX_Portrait_Communist_3A" 
+				"GFX_Portrait_Communist_3B"
+				"GFX_Portrait_Communist_3C"
+				"GFX_Portrait_Communist_3D"
+				"GFX_Portrait_Communist_3E"  
+				"GFX_Portrait_Communist_4A"
+				"GFX_Portrait_Communist_4B"
+				"GFX_Portrait_Communist_4C"
+				"GFX_Portrait_Communist_4D"
+				"GFX_Portrait_Communist_4E"
+				"GFX_Portrait_Communist_5A"
+				"GFX_Portrait_Communist_5B"
+				"GFX_Portrait_Communist_5C"
+				"GFX_Portrait_Communist_5D"
+				"GFX_Portrait_Communist_5E"
 			}
 		}
 		democratic = {
-			male = { 
-				"GFX_Portrait_Asia_Generic_2" 
+				male = { 
+				"GFX_Portrait_Democratic_1A" 
+				"GFX_Portrait_Democratic_1B"
+				"GFX_Portrait_Democratic_1C"
+				"GFX_Portrait_Democratic_1D"
+				"GFX_Portrait_Democratic_1E"  
+				"GFX_Portrait_Democratic_2A" 
+				"GFX_Portrait_Democratic_2B"
+				"GFX_Portrait_Democratic_2C"
+				"GFX_Portrait_Democratic_2D"
+				"GFX_Portrait_Democratic_2E"
+				"GFX_Portrait_Democratic_3A" 
+				"GFX_Portrait_Democratic_3B"
+				"GFX_Portrait_Democratic_3C"
+				"GFX_Portrait_Democratic_3D"
+				"GFX_Portrait_Democratic_3E"  
+				"GFX_Portrait_Democratic_4A"
+				"GFX_Portrait_Democratic_4B"
+				"GFX_Portrait_Democratic_4C"
+				"GFX_Portrait_Democratic_4D"
+				"GFX_Portrait_Democratic_4E"
+				"GFX_Portrait_Democratic_5A"
+				"GFX_Portrait_Democratic_5B"
+				"GFX_Portrait_Democratic_5C"
+				"GFX_Portrait_Democratic_5D"
+				"GFX_Portrait_Democratic_5E"
 			}
 		}
 		fascism = {
-			male = { 
-				"GFX_Portrait_Asia_Generic_3" 
+				male = { 
+				"GFX_Portrait_Fascist_1A" 
+				"GFX_Portrait_Fascist_1B"
+				"GFX_Portrait_Fascist_1C"
+				"GFX_Portrait_Fascist_1D"
+				"GFX_Portrait_Fascist_1E"  
+				"GFX_Portrait_Fascist_2A" 
+				"GFX_Portrait_Fascist_2B"
+				"GFX_Portrait_Fascist_2C"
+				"GFX_Portrait_Fascist_2D"
+				"GFX_Portrait_Fascist_2E"
+				"GFX_Portrait_Fascist_3A" 
+				"GFX_Portrait_Fascist_3B"
+				"GFX_Portrait_Fascist_3C"
+				"GFX_Portrait_Fascist_3D"
+				"GFX_Portrait_Fascist_3E"  
+				"GFX_Portrait_Fascist_4A"
+				"GFX_Portrait_Fascist_4B"
+				"GFX_Portrait_Fascist_4C"
+				"GFX_Portrait_Fascist_4D"
+				"GFX_Portrait_Fascist_4E"
+				"GFX_Portrait_Fascist_5A"
+				"GFX_Portrait_Fascist_5B"
+				"GFX_Portrait_Fascist_5C"
+				"GFX_Portrait_Fascist_5D"
+				"GFX_Portrait_Fascist_5E"
+				"GFX_Portrait_Fascist_6A"
+				"GFX_Portrait_Fascist_6B"
+				"GFX_Portrait_Fascist_6C"
+				"GFX_Portrait_Fascist_6D"
+				"GFX_Portrait_Fascist_6E"
 			}
 		}
 		neutrality = {
-			male = { 
-				"GFX_Portrait_Asia_Generic_3" 
+				male = { 
+				"GFX_Portrait_Neutrality_1A" 
+				"GFX_Portrait_Neutrality_1B"
+				"GFX_Portrait_Neutrality_1C"
+				"GFX_Portrait_Neutrality_1D"
+				"GFX_Portrait_Neutrality_1E"  
+				"GFX_Portrait_Neutrality_2A" 
+				"GFX_Portrait_Neutrality_2B"
+				"GFX_Portrait_Neutrality_2C"
+				"GFX_Portrait_Neutrality_2D"
+				"GFX_Portrait_Neutrality_2E"
+				"GFX_Portrait_Neutrality_3A" 
+				"GFX_Portrait_Neutrality_3B"
+				"GFX_Portrait_Neutrality_3C"
+				"GFX_Portrait_Neutrality_3D"
+				"GFX_Portrait_Neutrality_3E"  
+				"GFX_Portrait_Neutrality_4A"
+				"GFX_Portrait_Neutrality_4B"
+				"GFX_Portrait_Neutrality_4C"
+				"GFX_Portrait_Neutrality_4D"
+				"GFX_Portrait_Neutrality_4E"
+				"GFX_Portrait_Neutrality_5A"
+				"GFX_Portrait_Neutrality_5B"
+				"GFX_Portrait_Neutrality_5C"
+				"GFX_Portrait_Neutrality_5D"
+				"GFX_Portrait_Neutrality_5E"
 			}
 		}
 	}	
@@ -334,23 +928,124 @@ continent = {
 	
 	political = {
 		communism = {
-			male = { 
-				"GFX_Portrait_Arabia_Generic_1"
+				male = { 
+				"GFX_Portrait_Communist_1A" 
+				"GFX_Portrait_Communist_1B"
+				"GFX_Portrait_Communist_1C"
+				"GFX_Portrait_Communist_1D"
+				"GFX_Portrait_Communist_1E"  
+				"GFX_Portrait_Communist_2A" 
+				"GFX_Portrait_Communist_2B"
+				"GFX_Portrait_Communist_2C"
+				"GFX_Portrait_Communist_2D"
+				"GFX_Portrait_Communist_2E"
+				"GFX_Portrait_Communist_3A" 
+				"GFX_Portrait_Communist_3B"
+				"GFX_Portrait_Communist_3C"
+				"GFX_Portrait_Communist_3D"
+				"GFX_Portrait_Communist_3E"  
+				"GFX_Portrait_Communist_4A"
+				"GFX_Portrait_Communist_4B"
+				"GFX_Portrait_Communist_4C"
+				"GFX_Portrait_Communist_4D"
+				"GFX_Portrait_Communist_4E"
+				"GFX_Portrait_Communist_5A"
+				"GFX_Portrait_Communist_5B"
+				"GFX_Portrait_Communist_5C"
+				"GFX_Portrait_Communist_5D"
+				"GFX_Portrait_Communist_5E"
 			}
 		}
 		democratic = {
-			male = { 
-				"GFX_Portrait_Arabia_Generic_2"
+				male = { 
+				"GFX_Portrait_Democratic_1A" 
+				"GFX_Portrait_Democratic_1B"
+				"GFX_Portrait_Democratic_1C"
+				"GFX_Portrait_Democratic_1D"
+				"GFX_Portrait_Democratic_1E"  
+				"GFX_Portrait_Democratic_2A" 
+				"GFX_Portrait_Democratic_2B"
+				"GFX_Portrait_Democratic_2C"
+				"GFX_Portrait_Democratic_2D"
+				"GFX_Portrait_Democratic_2E"
+				"GFX_Portrait_Democratic_3A" 
+				"GFX_Portrait_Democratic_3B"
+				"GFX_Portrait_Democratic_3C"
+				"GFX_Portrait_Democratic_3D"
+				"GFX_Portrait_Democratic_3E"  
+				"GFX_Portrait_Democratic_4A"
+				"GFX_Portrait_Democratic_4B"
+				"GFX_Portrait_Democratic_4C"
+				"GFX_Portrait_Democratic_4D"
+				"GFX_Portrait_Democratic_4E"
+				"GFX_Portrait_Democratic_5A"
+				"GFX_Portrait_Democratic_5B"
+				"GFX_Portrait_Democratic_5C"
+				"GFX_Portrait_Democratic_5D"
+				"GFX_Portrait_Democratic_5E"
 			}
 		}
 		fascism = {
-			male = { 
-				"GFX_Portrait_Arabia_Generic_3" 
+				male = { 
+				"GFX_Portrait_Fascist_1A" 
+				"GFX_Portrait_Fascist_1B"
+				"GFX_Portrait_Fascist_1C"
+				"GFX_Portrait_Fascist_1D"
+				"GFX_Portrait_Fascist_1E"  
+				"GFX_Portrait_Fascist_2A" 
+				"GFX_Portrait_Fascist_2B"
+				"GFX_Portrait_Fascist_2C"
+				"GFX_Portrait_Fascist_2D"
+				"GFX_Portrait_Fascist_2E"
+				"GFX_Portrait_Fascist_3A" 
+				"GFX_Portrait_Fascist_3B"
+				"GFX_Portrait_Fascist_3C"
+				"GFX_Portrait_Fascist_3D"
+				"GFX_Portrait_Fascist_3E"  
+				"GFX_Portrait_Fascist_4A"
+				"GFX_Portrait_Fascist_4B"
+				"GFX_Portrait_Fascist_4C"
+				"GFX_Portrait_Fascist_4D"
+				"GFX_Portrait_Fascist_4E"
+				"GFX_Portrait_Fascist_5A"
+				"GFX_Portrait_Fascist_5B"
+				"GFX_Portrait_Fascist_5C"
+				"GFX_Portrait_Fascist_5D"
+				"GFX_Portrait_Fascist_5E"
+				"GFX_Portrait_Fascist_6A"
+				"GFX_Portrait_Fascist_6B"
+				"GFX_Portrait_Fascist_6C"
+				"GFX_Portrait_Fascist_6D"
+				"GFX_Portrait_Fascist_6E"
 			}
 		}
 		neutrality = {
-			male = { 
-				"GFX_Portrait_Arabia_Generic_3" 
+				male = { 
+				"GFX_Portrait_Neutrality_1A" 
+				"GFX_Portrait_Neutrality_1B"
+				"GFX_Portrait_Neutrality_1C"
+				"GFX_Portrait_Neutrality_1D"
+				"GFX_Portrait_Neutrality_1E"  
+				"GFX_Portrait_Neutrality_2A" 
+				"GFX_Portrait_Neutrality_2B"
+				"GFX_Portrait_Neutrality_2C"
+				"GFX_Portrait_Neutrality_2D"
+				"GFX_Portrait_Neutrality_2E"
+				"GFX_Portrait_Neutrality_3A" 
+				"GFX_Portrait_Neutrality_3B"
+				"GFX_Portrait_Neutrality_3C"
+				"GFX_Portrait_Neutrality_3D"
+				"GFX_Portrait_Neutrality_3E"  
+				"GFX_Portrait_Neutrality_4A"
+				"GFX_Portrait_Neutrality_4B"
+				"GFX_Portrait_Neutrality_4C"
+				"GFX_Portrait_Neutrality_4D"
+				"GFX_Portrait_Neutrality_4E"
+				"GFX_Portrait_Neutrality_5A"
+				"GFX_Portrait_Neutrality_5B"
+				"GFX_Portrait_Neutrality_5C"
+				"GFX_Portrait_Neutrality_5D"
+				"GFX_Portrait_Neutrality_5E"
 			}
 		}
 	}
@@ -2586,4 +3281,95 @@ MON = {
 	}
 }
 
+ROM = {
+	army = {
+		male = {
+			"GFX_Portrait_Romania_Generic_1"
+			"GFX_Portrait_Romania_Generic_2"
+			"GFX_Portrait_Romania_Generic_3"
+			"GFX_Portrait_Romania_Generic_4"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_Portrait_Romania_Generic_1"
+			"GFX_Portrait_Romania_Generic_2"
+			"GFX_Portrait_Romania_Generic_3"
+			"GFX_Portrait_Romania_Generic_4"
+		}
+	}
 
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Romania_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Romania_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Romania_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Romania_N" 
+			}
+		}
+	}
+}
+
+BUL = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Bulgaria_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Bulgaria_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Bulgaria_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Bulgaria_N" 
+			}
+		}
+	}
+}
+
+TAN = {
+	political = {
+		communism = {
+			male = { 
+				"La_Creatura"
+			}
+		}
+		democratic = {
+			male = { 
+				"Yukkuri"
+			}
+		}
+		fascism = {
+			male = { 
+				"Naides"
+			}
+		}
+		neutrality = {
+			male = { 
+				"Skuya" 
+			}
+		}
+	}
+}

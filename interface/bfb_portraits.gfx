@@ -12,12 +12,12 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_bul_ferdinand_i"
-		texturefile = "gfx/leaders/BUL/portrait_bul_ferdinand_i.dds"
+		texturefile = "gfx/leaders/BUL/Hina_I.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_bul_georgi_dimitrov"
-		texturefile = "gfx/leaders/BUL/portrait_bul_georgi_dimitrov.dds"
+		texturefile = "gfx/leaders/BUL/Tewi_Dimitrov.dds"
 	}
 
 	SpriteType = {
@@ -32,7 +32,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_bul_nikola_hadzipetkov"
-		texturefile = "gfx/leaders/BUL/portrait_bul_nikola_hadzipetkov.dds"
+		texturefile = "gfx/leaders/BUL/Tewi_Hadzipetkov.dds"
 	}
 
 	SpriteType = {
@@ -42,7 +42,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_bul_nikola_mushanov"
-		texturefile = "gfx/leaders/BUL/portrait_bul_nikola_mushanov.dds"
+		texturefile = "gfx/leaders/BUL/Hina_Mushanov.dds"
 	}
 
 	SpriteType = {
@@ -57,12 +57,12 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_bul_regency_council"
-		texturefile = "gfx/leaders/BUL/portrait_bul_regency_council.dds"
+		texturefile = "gfx/leaders/BUL/Hina_Council.dds"
 	}
 		
 	SpriteType = {
 		name = "GFX_portrait_bul_bogdan_filov"
-		texturefile = "gfx/leaders/BUL/portrait_bul_bogdan_filov.dds"
+		texturefile = "gfx/leaders/BUL/Hina_Filov.dds"
 	}
 
 	SpriteType = {
@@ -72,17 +72,17 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_bul_aleksandar_tsankov"
-		texturefile = "gfx/leaders/BUL/portrait_bul_aleksandar_tsankov.dds"
+		texturefile = "gfx/leaders/BUL/Hina_Tsankov.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_bul_georgi_kyoseivanov"
-		texturefile = "gfx/leaders/BUL/portrait_bul_georgi_kyoseivanov.dds"
+		texturefile = "gfx/leaders/BUL/Hina_Kyoseivanov.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_bul_kimon_georgiev"
-		texturefile = "gfx/leaders/BUL/portrait_bul_kimon_georgiev.dds"
+		texturefile = "gfx/leaders/BUL/Tewi_Georgiev.dds"
 	}
 
 	SpriteType = {

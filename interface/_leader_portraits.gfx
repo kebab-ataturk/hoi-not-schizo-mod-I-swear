@@ -953,7 +953,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_romania_michael_i"
-		texturefile = "gfx/leaders/Europe/portrait_europe_generic_5.dds"
+		texturefile = "gfx/leaders/ROM/Alice_I.dds"
 	}
 
 	spriteType = {
@@ -963,7 +963,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_romania_gheorghe_avramescu"
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+		texturefile = "gfx/leaders/ROM/Shanghai_Avramescu.dds"
 	}
 
 	spriteType = {
@@ -973,7 +973,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_romania_horia_macellariu"
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_navy_2.dds"
+		texturefile = "gfx/leaders/ROM/Hourai_Macellariu.dds"
 	}
 
 	spriteType = {
@@ -993,7 +993,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_romania_petre_dumitrescu"
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+		texturefile = "gfx/leaders/ROM/Hourai_Dumitrescu.dds"
 	}
 
 	spriteType = {
@@ -1003,7 +1003,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_romania_constantin_sanatescu"
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+		texturefile = "gfx/leaders/ROM/Shanghai_Sanatescu.dds"
 	}
 
 	spriteType = {
@@ -1013,29 +1013,62 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_romania_ion_antonescu"
-		texturefile = "gfx/leaders/ROM/Portrait_Romania_Ion_Antonescu.dds"
+		texturefile = "gfx/leaders/ROM/Flandre_Antonescu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Romania_Generic_1"
+		texturefile = "gfx/leaders/ROM/Hourai_Generic.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Romania_Generic_2"
+		texturefile = "gfx/leaders/ROM/Hourai_Generic2.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Romania_Generic_3"
+		texturefile = "gfx/leaders/ROM/Hourai_Generic3.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Romania_Generic_4"
+		texturefile = "gfx/leaders/ROM/Hourai_Generic4.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Romania_C"
+		texturefile = "gfx/leaders/ROM/Chiyari_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Romania_D"
+		texturefile = "gfx/leaders/ROM/Alice_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Romania_F"
+		texturefile = "gfx/leaders/ROM/Flandre_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Romania_N"
+		texturefile = "gfx/leaders/ROM/Alice_GenericN.dds"
 	}
 
 	#NSB 
 
 	spriteType = {
 		name = "GFX_Portrait_romania_gheorghe_tatarescu"
-		texturefile = "gfx/leaders/ROM/Portrait_Romania_Gheorghe_Tatarescu.dds"
+		texturefile = "gfx/leaders/ROM/Alice_Tatarescu.dds"
 	}
 
 	spriteType = {
 		name = "GFX_Portrait_romania_constantin_ion_parhon"
-		texturefile = "gfx/leaders/ROM/Portrait_Romania_Constantin_Parhon.dds"
+		texturefile = "gfx/leaders/ROM/Chiyari_Parhon.dds"
 	}
 
 	spriteType = {
 		name = "GFX_Portrait_romania_armand_calinescu"
-		texturefile = "gfx/leaders/ROM/Portrait_Romania_Armand_Calinescu.dds"
+		texturefile = "gfx/leaders/ROM/Flandre_Calinescu.dds"
 	}
 
 	spriteType = {
 		name = "GFX_Portrait_romania_octavian_goga"
-		texturefile = "gfx/leaders/ROM/Portrait_Romania_Octavian_Goga.dds"
+		texturefile = "gfx/leaders/ROM/Flandre_Goga.dds"
 	}
 
 
@@ -1745,7 +1778,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_bulgaria_hristo_lukov"
-		texturefile = "gfx/leaders/BUL/portrait_bul_hristo_lukov.dds"
+		texturefile = "gfx/leaders/BUL/Tewi_Lukov.dds"
 	}
 
 	spriteType = {
@@ -3740,12 +3773,29 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_BUL_boris_iii
-		texturefile = "gfx/leaders/BUL/Portrait_Bulgaria_Boris_III.dds"
+		texturefile = "gfx/leaders/BUL/Hina_III.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_BUL_georgi_dimitrov
-		texturefile = "gfx/leaders/BUL/Portrait_Bulgaria_Georgi_Dimitrov.dds"
+		texturefile = "gfx/leaders/BUL/Tewi_Dimitrov.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Bulgaria_C
+		texturefile = "gfx/leaders/BUL/Tewi_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Bulgaria_D
+		texturefile = "gfx/leaders/BUL/Hina_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Bulgaria_F
+		texturefile = "gfx/leaders/BUL/Tewi_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Bulgaria_N
+		texturefile = "gfx/leaders/BUL/Hina_GenericN.dds"
 	}
 
 	spriteType = {
@@ -3815,7 +3865,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_BUL_nikola_petkov
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/BUL/Tewi_Hadzipetkov.dds"
 	}
 
 	spriteType = {
@@ -7740,7 +7790,23 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Salchak_Toka
-		texturefile = "gfx/leaders/TAN/portrait_tan_salchak_toka.dds"
+		texturefile = "gfx/leaders/TAN/Junku_Toka.dds"
+	}
+	spriteType = {
+		name = La_Creatura
+		texturefile = "gfx/leaders/TAN/La_Creatura.dds"
+	}
+	spriteType = {
+		name = Yukkuri
+		texturefile = "gfx/leaders/TAN/Yukkuri.dds"
+	}
+	spriteType = {
+		name = Naides
+		texturefile = "gfx/leaders/TAN/Naides.dds"
+	}
+	spriteType = {
+		name = Skuya
+		texturefile = "gfx/leaders/TAN/Lore_Accurate_Sakuya.dds"
 	}
 
 	spriteType = {
@@ -8464,7 +8530,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Michał_II
-		texturefile = gfx/leaders/ROM/Portrait_romania_michael_i.dds
+		texturefile = gfx/leaders/ROM/Alice_I.dds
 	}
 
 	spriteType = {
@@ -9838,4 +9904,435 @@ spriteTypes = {
 		name = GFX_Portrait_Burma_N
 		texturefile = "gfx/leaders/BRM/Nazrin_GenericN.dds"
 	}
-}
+	
+	
+	## ALL GENERICS ##
+	
+	# Communist
+	spriteType = {
+		name = GFX_Portrait_Communist_1A
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic1A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_1B
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic1B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_1C
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic1C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_1D
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic1D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_1E
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic1E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_2A
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic2A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_2B
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic2B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_2C
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic2C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_2D
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic2D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_2E
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic2E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_3A
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic3A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_3B
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic3B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_3C
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic3C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_3D
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic3D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_3E
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic3E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_4A
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic4A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_4B
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic4B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_4C
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic4C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_4D
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic4D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_4E
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic4E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_5A
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic5A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_5B
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic5B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_5C
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic5C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_5D
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic5D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Communist_5E
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic5E.dds"
+	}
+	
+	# Democratic
+	spriteType = {
+		name = GFX_Portrait_Democratic_1A
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic1A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_1B
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic1B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_1C
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic1C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_1D
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic1D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_1E
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic1E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_2A
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic2A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_2B
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic2B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_2C
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic2C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_2D
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic2D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_2E
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic2E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_3A
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic3A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_3B
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic3B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_3C
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic3C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_3D
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic3D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_3E
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic3E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_4A
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic4A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_4B
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic4B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_4C
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic4C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_4D
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic4D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_4E
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic4E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_5A
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic5A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_5B
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic5B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_5C
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic5C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_5D
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic5D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Democratic_5E
+		texturefile = "gfx/leaders/Generics/Democratic/Democratic_Generic5E.dds"
+	}
+	
+	# Fascist
+	spriteType = {
+		name = GFX_Portrait_Fascist_1A
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic1A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_1B
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic1B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_1C
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic1C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_1D
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic1D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_1E
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic1E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_2A
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic2A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_2B
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic2B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_2C
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic2C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_2D
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic2D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_2E
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic2E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_3A
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic3A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_3B
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic3B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_3C
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic3C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_3D
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic3D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_3E
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic3E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_4A
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic4A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_4B
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic4B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_4C
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic4C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_4D
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic4D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_4E
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic4E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_5A
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic5A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_5B
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic5B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_5C
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic5C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_5D
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic5D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_5E
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic5E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_6A
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic6A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_6B
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic6B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_6C
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic6C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_6D
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic6D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Fascist_6E
+		texturefile = "gfx/leaders/Generics/Fascist/Fascist_Generic6E.dds"
+	}
+	
+	# Neutrality
+	spriteType = {
+		name = GFX_Portrait_Neutrality_1A
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic1A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_1B
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic1B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_1C
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic1C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_1D
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic1D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_1E
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic1E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_2A
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic2A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_2B
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic2B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_2C
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic2C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_2D
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic2D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_2E
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic2E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_3A
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic3A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_3B
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic3B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_3C
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic3C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_3D
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic3D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_3E
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic3E.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_4A
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic4A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_4B
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic4B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_4C
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic4C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_4D
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic4D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_4E
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic4E.dds"
+	}
+		spriteType = {
+		name = GFX_Portrait_Neutrality_5A
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic5A.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_5B
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic5B.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_5C
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic5C.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_5D
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic5D.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Neutrality_5E
+		texturefile = "gfx/leaders/Generics/Neutrality/Neutrality_Generic5E.dds"
+	}
+}	
