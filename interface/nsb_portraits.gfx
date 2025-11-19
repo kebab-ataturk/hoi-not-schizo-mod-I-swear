@@ -215,17 +215,17 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_POL_anna_anderson"
-		texturefile = "gfx/leaders/POL/portrait_POL_anna_anderson.dds"
+		texturefile = "gfx/leaders/POL/rumiaex3.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_POL_friedrich_christian"
-		texturefile = "gfx/leaders/POL/portrait_POL_friedrich_christian.dds"
+		texturefile = "gfx/leaders/POL/rumiaex.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_POL_ignacy_moscicki"
-		texturefile = "gfx/leaders/POL/portrait_POL_ignacy_moscicki.dds"
+		texturefile = "gfx/leaders/POL/cirno.dds"
 	}
 
 	SpriteType = {
@@ -235,7 +235,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_POL_maria_koszutska"
-		texturefile = "gfx/leaders/POL/portrait_POL_maria_koszutska.dds"
+		texturefile = "gfx/leaders/POL/gengetsu.dds"
 	}
 
 	SpriteType = {
@@ -255,17 +255,17 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_POL_karl_albrecht"
-		texturefile = "gfx/leaders/POL/portrait_POL_karl_albrecht.dds"
+		texturefile = "gfx/leaders/POL/rumiaex.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_POL_king_woytek"
-		texturefile = "gfx/leaders/POL/portrait_POL_king_woytek.dds"
+		texturefile = "gfx/leaders/POL/theman.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_POL_roman_dmowski"
-		texturefile = "gfx/leaders/POL/portrait_POL_roman_dmowski.dds"
+		texturefile = "gfx/leaders/POL/kaguyaaaa.dds"
 	}
 	
 	SpriteType = {
@@ -290,7 +290,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_POL_Sejmik_Regency"
-		texturefile = "gfx/leaders/POL/portrait_POL_Sejmik_Regency.dds"
+		texturefile = "gfx/leaders/POL/cirno3.dds"
 	}
 	
 	SpriteType = {
@@ -372,7 +372,7 @@ spriteTypes = {
 	#Other
 	SpriteType = {
 		name = "GFX_portrait_DNZ_Albert_Forster"
-		texturefile = "gfx/leaders/DNZ/portrait_DNZ_Albert_Forster.dds"
+		texturefile = "gfx/leaders/POL/rumiaex2.dds"
 	}
 	
 	SpriteType = {
@@ -382,7 +382,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_GGV_Hans_Frank"
-		texturefile = "gfx/leaders/GGV/portrait_GGV_Hans_Frank.dds"
+		texturefile = "gfx/leaders/POL/seiran2.dds"
 	}
 	
 	SpriteType = {

@@ -120,12 +120,12 @@ spriteTypes = {
 	# Polish #######
 	spriteType = {
 		name = "GFX_portrait_POL_ignacy_moscicki"
-		texturefile = "gfx/leaders/POL/Portrait_Poland_Ignacy_Moscicki.dds"
+		texturefile = "gfx/leaders/POL/Cirno.dds"
 	}
 
 	spriteType = {
 		name = "GFX_POL_boleslaw_piasecki"
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_5.dds"
+		texturefile = "gfx/leaders/Europe/seiran.dds"
 	}
 
 	spriteType = {
@@ -134,7 +134,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_POL_wincenty_witos"
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/POL/cirno2.dds"
 	}
 
 	spriteType = {
@@ -190,7 +190,7 @@ spriteTypes = {
 	# Added in NSB
 	spriteType = {
 		name = "GFX_portrait_POL_walery_slawek"
-		texturefile = "gfx/leaders/POL/portrait_POL_walery_slawek.dds"
+		texturefile = "gfx/leaders/POL/cirno2.dds"
 	}
 
 	spriteType = {
@@ -199,7 +199,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_POL_stanislaw_mikolajczyk"
-		texturefile = "gfx/leaders/POL/portrait_POL_stanislaw_mikolajczyk.dds"
+		texturefile = "gfx/leaders/POL/mokou.dds"
 	}
 
 	spriteType = {
@@ -208,7 +208,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_POL_edward_rydz_smigly"
-		texturefile = "gfx/leaders/POL/portrait_POL_edward_rydz_smigly.dds"
+		texturefile = "gfx/leaders/POL/rumia2.dds"
 	}
 
 	spriteType = {
@@ -226,7 +226,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_POL_witold_pilecki"
-		texturefile = "gfx/leaders/POL/portrait_POL_witold_pilecki.dds"
+		texturefile = "gfx/leaders/POL/rumia.dds"
 	}
 
 	spriteType = {
@@ -262,7 +262,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_POL_boleslaw_wieniawa_dlugoszowski"
-		texturefile = "gfx/leaders/POL/portrait_POL_boleslaw_wieniawa_dlugoszowski.dds"
+		texturefile = "gfx/leaders/POL/rumia.dds"
 	}
 
 	spriteType = {
@@ -295,7 +295,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_POL_pavel_bermondt_avlov"
-		texturefile = "gfx/leaders/POL/portrait_POL_pavel_bermondt_avlov.dds"
+		texturefile = "gfx/leaders/POL/rumiaex2.dds"
 	}
 
 	SpriteType = {
@@ -6995,7 +6995,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_POL_wojtek
-		texturefile = "gfx/leaders/POL/Portrait_POL_Voytek.dds"
+		texturefile = "gfx/leaders/POL/theman.dds"
 	}
 
 	spriteType = {
