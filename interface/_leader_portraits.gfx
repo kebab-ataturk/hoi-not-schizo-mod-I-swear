@@ -964,7 +964,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_romania_Carol_II"
-		texturefile = "gfx/leaders/Europe/portrait_europe_generic_4.dds"
+		texturefile = "gfx/leaders/ROM/Flandre_II.dds"
 	}
 
 	spriteType = {
@@ -7391,7 +7391,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Jozef_Tiso
-		texturefile = "gfx/leaders/SLO/Portrait_Slovakia_Jozef_Tiso.dds"
+		texturefile = "gfx/leaders/SLO/rei'sen.dds"
 	}
 	
 	spriteType = {

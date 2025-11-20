@@ -6,7 +6,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_romania_Carol_II"
-		texturefile = "gfx/leaders/ROM/Portrait_romania_Carol_II.dds"
+		texturefile = "gfx/leaders/ROM/Flandre_II.dds"
 	}
 
 	spriteType = {
