@@ -145,7 +145,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_Portrait_czechoslovakia_richard_tesarik"
-		texturefile = "gfx/leaders/CZE/portrait_richard_tesarik.dds"
+		texturefile = "gfx/leaders/CZE/suika3.dds"
 	}
 	
 	spriteType = {

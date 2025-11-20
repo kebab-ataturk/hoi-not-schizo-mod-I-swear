@@ -3398,3 +3398,53 @@ TUR = {
 		}
 	}
 }
+
+CZE = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Czechoslovakia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Czechoslovakia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Czechoslovakia_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Czechoslovakia_N" 
+			}
+		}
+	}
+}
+
+CZE = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Slovakia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Slovakia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Slovakia_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Slovakia_N" 
+			}
+		}
+	}
+}

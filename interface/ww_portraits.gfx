@@ -444,7 +444,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CZE_albrecht_franz_von_habsburg"
-		texturefile = "gfx/leaders/HUN/portrait_CZE_albrecht_franz_von_habsburg.dds"
+		texturefile = "gfx/leaders/CZE/suika2.dds"
 	}
 	
 	spriteType = {

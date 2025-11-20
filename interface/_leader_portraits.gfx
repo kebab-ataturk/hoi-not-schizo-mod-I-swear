@@ -303,6 +303,27 @@ spriteTypes = {
 		texturefile = "gfx/leaders/POL/portrait_POL_rudiger_von_der_goltz.dds"
 	}
 	
+	spriteType = {
+		name = "GFX_Portrait_Poland_F"
+		texturefile = "gfx/leaders/POL/kaguyaaaa.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Poland_N"
+		texturefile = "gfx/leaders/POL/rumia.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Poland_C"
+		texturefile = "gfx/leaders/POL/mugetsu.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Poland_D"
+		texturefile = "gfx/leaders/POL/mokou2.dds"
+	}
+	
+
 	###Australia
 
 	spriteType = {
@@ -1122,6 +1143,26 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_Portrait_czechoslovakia_vojtech_luza_small"
 		texturefile = "gfx/interface/ideas/idea_europe_generic_land_3.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Czechoslovakia_F"
+		texturefile = "gfx/leaders/CZE/daigen3.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Czechoslovakia_N"
+		texturefile = "gfx/leaders/CZE/suika.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Czechoslovakia_C"
+		texturefile = "gfx/leaders/CZE/daigen2.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Czechoslovakia_D"
+		texturefile = "gfx/leaders/CZE/daigen.dds"
 	}
 
 	#####
@@ -4134,17 +4175,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Edvard_Benes
-		texturefile = "gfx/leaders/CZE/Portrait_Czech_Edvard_Benes.dds"
+		texturefile = "gfx/leaders/CZE/dai.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Jaroslav_Krejci
-		texturefile = "gfx/leaders/CZE/Portrait_Czech_Jaroslav_Krejci.dds"
+		texturefile = "gfx/leaders/CZE/dai2.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_CZE_frantishek_havlik
-		texturefile = "gfx/leaders/Europe/portrait_europe_generic_5.dds"
+		texturefile = "gfx/leaders/CZE/suika.dds"
 	}
 
 	spriteType = {
@@ -4154,7 +4195,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_CZE_klement_gottwald
-		texturefile = "gfx/leaders/CZE/Portrait_Czech_Klement_Gottwald.dds"
+		texturefile = "gfx/leaders/CZE/dai3.dds"
 	}
 
 	spriteType = {
@@ -7351,6 +7392,26 @@ spriteTypes = {
 	spriteType = {
 		name = GFX_portrait_Jozef_Tiso
 		texturefile = "gfx/leaders/SLO/Portrait_Slovakia_Jozef_Tiso.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Slovakia_F"
+		texturefile = "gfx/leaders/SLO/rei'sen3.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Slovakia_N"
+		texturefile = "gfx/leaders/SLO/rei'sen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Slovakia_C"
+		texturefile = "gfx/leaders/SLO/rei'sen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Slovakia_D"
+		texturefile = "gfx/leaders/SLO/rei'sen2.dds"
 	}
 
 	spriteType = {
