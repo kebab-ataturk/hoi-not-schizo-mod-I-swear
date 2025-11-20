@@ -7836,22 +7836,39 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_TUR_mustafa_kemal_ataturk
-		texturefile = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Ataturk.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_TUR_mustafa_kemal_ataturk_military
-		texturefile = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk_Military.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Ataturk.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_TUR_sefik_husnu
-		texturefile = "gfx/leaders/TUR/Portrait_Turkey_Sefik_Husnu.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Husnu.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_TUR_ismet_inonu
-		texturefile = "gfx/leaders/TUR/Portrait_Turkey_Ismet_Inonu.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Inonu.dds"
+	}
+	
+	SpriteType = {
+		name = "GFX_Portrait_Turkey_C"
+		texturefile = "gfx/leaders/TUR/Takane_GenericC.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Turkey_D"
+		texturefile = "gfx/leaders/TUR/Takane_GenericD.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Turkey_F"
+		texturefile = "gfx/leaders/TUR/Takane_GenericF.dds"
+	}
+	SpriteType = {
+		name = "GFX_Portrait_Turkey_N"
+		texturefile = "gfx/leaders/TUR/Takane_GenericN.dds"
 	}
 
 	spriteType = {

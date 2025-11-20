@@ -197,37 +197,37 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_tur_mustafa_kemal_ataturk"
-		texturefile = "gfx/leaders/TUR/Portrait_Turkey_Mustafa_Kemal_Ataturk.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Ataturk.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_tur_abdulmejid_ii"
-		texturefile = "gfx/leaders/TUR/portrait_tur_abdulmejid_ii.dds"
+		texturefile = "gfx/leaders/TUR/Takane_II.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_tur_adnan_menderes"
-		texturefile = "gfx/leaders/TUR/portrait_tur_adnan_menderes.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Menderes.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_tur_celal_bayar"
-		texturefile = "gfx/leaders/TUR/portrait_tur_celal_bayar.dds"
+		texturefile = "gfx/leaders/TUR/Takanel_Bayar.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_tur_fevzi_cakmak"
-		texturefile = "gfx/leaders/TUR/portrait_tur_fevzi_cakmak.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Cakmak.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_tur_recep_peker"
-		texturefile = "gfx/leaders/TUR/portrait_tur_recep_peker.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Peker.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_tur_sevket_sureyya_aydemir"
-		texturefile = "gfx/leaders/TUR/portrait_tur_sevket_sureyya_aydemir.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Aydemir.dds"
 	}
 
 	SpriteType = {
@@ -247,7 +247,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_TUR_kazim_orbay"
-		texturefile = "gfx/leaders/TUR/portrait_tur_kazim_orbay.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Orbay.dds"
 	}
 	
 	SpriteType = {
@@ -267,12 +267,12 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_tur_refe_pasha"
-		texturefile = "gfx/leaders/TUR/portrait_tur_refe_pasha.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Refe_Pasha.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_tur_mehmed_esad_pasha"
-		texturefile = "gfx/leaders/TUR/portrait_tur_mehmed_esad_pasha.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Esad_Pasha.dds"
 	}
 
 	SpriteType = {
@@ -322,7 +322,7 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_tur_durrusehvar_sultan"
-		texturefile = "gfx/leaders/TUR/portrait_tur_durrusehvar_sultan.dds"
+		texturefile = "gfx/leaders/TUR/Takane_Durrusehvar.dds"
 	}
 
 	SpriteType = {

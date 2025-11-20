@@ -3373,3 +3373,28 @@ TAN = {
 		}
 	}
 }
+
+TUR = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Turkey_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Turkey_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Turkey_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Turkey_N" 
+			}
+		}
+	}
+}
