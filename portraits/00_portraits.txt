@@ -3424,27 +3424,28 @@ CZE = {
 	}
 }
 
-CZE = {
+GRE = {
 	political = {
 		communism = {
 			male = { 
-				"GFX_Portrait_Slovakia_C"
+				"GFX_Portrait_Greece_C"
 			}
 		}
 		democratic = {
 			male = { 
-				"GFX_Portrait_Slovakia_D"
+				"GFX_Portrait_Greece_D"
 			}
 		}
 		fascism = {
 			male = { 
-				"GFX_Portrait_Slovakia_F"
+				"GFX_Portrait_Greece_F"
 			}
 		}
 		neutrality = {
 			male = { 
-				"GFX_Portrait_Slovakia_N" 
+				"GFX_Portrait_Greece_N" 
 			}
 		}
 	}
 }
+

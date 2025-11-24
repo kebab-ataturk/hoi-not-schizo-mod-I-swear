@@ -122,7 +122,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_gre_eleftherios_venizelos"
-		texturefile = "gfx/leaders/GRE/portrait_gre_eleftherios_venizelos.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_Venizelos.dds"
 	}
 
 	SpriteType = {
@@ -132,7 +132,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_gre_george_mercouris"
-		texturefile = "gfx/leaders/GRE/portrait_gre_george_mercouris.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_Mercouris.dds"
 	}
 
 	SpriteType = {
@@ -157,17 +157,17 @@ spriteTypes = {
 	
 	SpriteType = {
 		name = "GFX_portrait_gre_georgios_kosmidis"
-		texturefile = "gfx/leaders/GRE/portrait_gre_georgios_kosmidis.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_Kosmidis.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_gre_konstantinos_demertzis"
-		texturefile = "gfx/leaders/GRE/portrait_gre_konstantinos_demertzis.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_Demertzis.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_gre_nikos_zachariadis"
-		texturefile = "gfx/leaders/GRE/portrait_gre_nikos_zachariadis.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_Zachariadis.dds"
 	}
 
 	SpriteType = {
@@ -187,12 +187,12 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_gre_emmanouil_tsouderos"
-		texturefile = "gfx/leaders/GRE/portrait_gre_emmanouil_tsouderos.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_Tsouderos.dds"
 	}
 
 	SpriteType = {
 		name = "GFX_portrait_gre_aristotle_onassis"
-		texturefile = "gfx/leaders/GRE/portrait_gre_aristotle_onassis.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_Onassis.dds"
 	}
 
 	SpriteType = {
