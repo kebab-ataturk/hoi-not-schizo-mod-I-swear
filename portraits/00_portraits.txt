@@ -3449,3 +3449,27 @@ GRE = {
 	}
 }
 
+ALB = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Albania_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Albania_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Albania_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Albania_N" 
+			}
+		}
+	}
+}

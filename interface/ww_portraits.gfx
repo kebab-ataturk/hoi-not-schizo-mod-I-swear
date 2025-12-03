@@ -436,7 +436,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_ALB_wilhelm_of_wied"
-		texturefile = "gfx/leaders/HUN/portrait_ALB_wilhelm_of_wied.dds"
+		texturefile = "gfx/leaders/HUN/Koakuma_Of_Wied.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CRO_joseph_francis"

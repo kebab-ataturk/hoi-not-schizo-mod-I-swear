@@ -3408,17 +3408,33 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_King_Zog
-		texturefile = "gfx/leaders/ALB/Portrait_Albania_King_Zog.dds"
+		texturefile = "gfx/leaders/ALB/King_Wriggle.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Enver_Hoxha
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/ALB/Wriggle_Hoxha.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Eqrem_Belishi
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/ALB/Wriggle_Belishi.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Albania_C
+		texturefile = "gfx/leaders/ALB/Wriggle_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Albania_D
+		texturefile = "gfx/leaders/ALB/Wriggle_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Albania_F
+		texturefile = "gfx/leaders/ALB/Wriggle_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Albania_N
+		texturefile = "gfx/leaders/ALB/Wriggle_GenericN.dds"
 	}
 
 	spriteType = {
@@ -9558,7 +9574,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ALB_tefik_mborja"
-		texturefile = "gfx/leaders/ITA/portrait_ALB_tefik_mborja.dds"
+		texturefile = "gfx/leaders/ITA/Koakuma_Mborja.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AOI_gugliemo_nasi"
