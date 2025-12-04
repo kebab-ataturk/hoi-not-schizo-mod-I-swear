@@ -3473,3 +3473,54 @@ ALB = {
 		}
 	}
 }
+
+CRO = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Croatia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Croatia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Croatia_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Croatia_N" 
+			}
+		}
+	}
+}
+
+YUG = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Yugoslavia_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Yugoslavia_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Yugoslavia_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Yugoslavia_N" 
+			}
+		}
+	}
+}
+

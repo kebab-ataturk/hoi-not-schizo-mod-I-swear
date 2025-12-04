@@ -1401,7 +1401,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_yugoslavia_peter_ii_young"
-		texturefile = "gfx/leaders/YUG/portrait_YUG_peter_II_young.dds"
+		texturefile = "gfx/leaders/YUG/Sanae_II.dds"
 	}
 
 	spriteType = {
@@ -1411,7 +1411,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_yugoslavia_peter_ii_old"
-		texturefile = "gfx/leaders/YUG/Portrait_Yugoslavia_Peter_II.dds"
+		texturefile = "gfx/leaders/YUG/Sanae_II.dds"
 	}
 
 	spriteType = {
@@ -8511,22 +8511,39 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_YUG_prince_paul
-		texturefile = "gfx/leaders/YUG/Portrait_Yugoslavia_Prince_Paul.dds"
+		texturefile = "gfx/leaders/YUG/Suwako_Paul.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_YUG_milan_stojadinovic
-		texturefile = "gfx/leaders/YUG/Portrait_Yugoslavia_Milan_Stojadinovic.dds"
+		texturefile = "gfx/leaders/YUG/Kanako_Stojadinovic.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_YUG_milan_grol
-		texturefile = "gfx/leaders/YUG/Portrait_Yugoslavia_Milan_Grol.dds"
+		texturefile = "gfx/leaders/YUG/Sanae_Grol.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_YUG_josip_broz_tito
-		texturefile = "gfx/leaders/YUG/Portrait_Yugoslavia_Josip_Broz_Tito.dds"
+		texturefile = "gfx/leaders/YUG/Kanako_Tito.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Yugoslavia_C
+		texturefile = "gfx/leaders/YUG/Kanako_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Yugoslavia_D
+		texturefile = "gfx/leaders/YUG/Sanae_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Yugoslavia_F
+		texturefile = "gfx/leaders/YUG/Suwako_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Yugoslavia_N
+		texturefile = "gfx/leaders/YUG/Suwako_GenericN.dds"
 	}
 
 	spriteType = {
@@ -8566,9 +8583,25 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_CRO_nikola_mandic
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_3.dds"
+		texturefile = "gfx/leaders/CRO/Ringo_Mandic.dds"
 	}
-
+	spriteType = {
+		name = GFX_Portrait_Croatia_C
+		texturefile = "gfx/leaders/CRO/Ringo_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Croatia_D
+		texturefile = "gfx/leaders/CRO/Ringo_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Croatia_F
+		texturefile = "gfx/leaders/CRO/Ringo_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Croatia_N
+		texturefile = "gfx/leaders/CRO/Ringo_GenericN.dds"
+	}
+	
 	spriteType = {
 		name = GFX_portrait_YUN_lu_han_small
 		texturefile = "gfx/interface/ideas/idea_asia_generic_land_4.dds"
@@ -8933,12 +8966,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Ante_Pavelic
-		texturefile = gfx/leaders/CRO/Portrait_Croatia_Ante_Pavelic.dds
+		texturefile = gfx/leaders/CRO/Ringo_Pavelic.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Vladko_Macek
-		texturefile = gfx/leaders/CRO/portrait_CRO_vladko_macek.dds
+		texturefile = gfx/leaders/CRO/Ringo_Macek.dds
 	}
 
 	spriteType = {

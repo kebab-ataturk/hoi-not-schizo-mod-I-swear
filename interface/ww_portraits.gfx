@@ -440,7 +440,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CRO_joseph_francis"
-		texturefile = "gfx/leaders/HUN/portrait_CRO_joseph_francis.dds"
+		texturefile = "gfx/leaders/HUN/Ringo_Francis.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CZE_albrecht_franz_von_habsburg"
