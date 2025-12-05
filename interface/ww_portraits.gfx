@@ -573,11 +573,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_TOS_joseph_ferdinand_von_habsburg"
-		texturefile = "gfx/leaders/HUN/portrait_TOS_joseph_ferdinand_von_habsburg.dds"
+		texturefile = "gfx/leaders/HUN/Fairy_Ferdinand_Von_Habsburg.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_TTS_ferdinand_pius"
-		texturefile = "gfx/leaders/HUN/portrait_TTS_ferdinand_pius.dds"
+		texturefile = "gfx/leaders/HUN/Patchouli_Pius.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_UKR_vasyl_vyshyvany"

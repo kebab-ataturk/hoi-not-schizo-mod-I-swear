@@ -12,7 +12,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_ivanoe_bonomi"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_ivanoe_bonomi.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Bonomi.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_giuseppe_de_stefanis"
@@ -32,11 +32,11 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_italo_balbo_civilian"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_italo_balbo.dds"
+		texturefile = "gfx/leaders/ITA/Yuuka_Balbo.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_dino_grandi"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_dino_grandi.dds"
+		texturefile = "gfx/leaders/ITA/Yuuka_Grandi.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_generic_female_4"
@@ -64,11 +64,11 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_sandro_pertini"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_sandro_pertini.dds"
+		texturefile = "gfx/leaders/ITA/Yuuka_Pertini.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_emperor_umberto"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_emperor_umberto.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Umberto.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_pompeo_colajanni"
@@ -76,11 +76,11 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_papa_pio_xii"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_papa_pio_xii.dds"
+		texturefile = "gfx/leaders/ITA/Eiki_XII.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_papa_pio_xi"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_papa_pio_xi.dds"
+		texturefile = "gfx/leaders/ITA/Eiki_XI.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_giuseppe_pieche"
@@ -104,15 +104,15 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_emperor_vittorio_emanuele_III"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_emperor_vittorio_emanuele_III.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Emanuele_III.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_antonio_gramsci"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_antonio_gramsci.dds"
+		texturefile = "gfx/leaders/ITA/Yuuka_Gramsci.dds"
 	}
 	SpriteType = {
 		name = "GFX_portrait_ITA_alcide_de_gasperi"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_alcide_de_gasperi.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Gasperi.dds"
 	}
 
 

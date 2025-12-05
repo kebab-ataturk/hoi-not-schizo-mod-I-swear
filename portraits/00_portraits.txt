@@ -1354,6 +1354,30 @@ ITA = {
 			"GFX_Portrait_Italy_Generic_navy_3"
 		}
 	}
+
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Italy_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Italy_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Italy_F" 
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Italy_N" 
+			}
+		}
+	}
+
 }
 
 JAP = {

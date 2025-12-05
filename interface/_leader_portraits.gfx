@@ -1696,7 +1696,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_ita_palmiro_togliatti"
-		texturefile = "gfx/leaders/ITA/portrait_ita_palmiro_togliatti.dds"
+		texturefile = "gfx/leaders/ITA/Yuuka_Togliatti.dds"
 	}
 
 	spriteType = {
@@ -1970,7 +1970,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_italy_ferruccio_parri"
-		texturefile = "gfx/leaders/ITA/portrait_ita_ferruccio_parri.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Parri.dds"
 	}
 
 	spriteType = {
@@ -1979,7 +1979,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_italy_vittorio_emanuele_iii_old"
-		texturefile = "gfx/leaders/ITA/Portrait_Italy_Vittorio_Emanuele_III.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Emanuele_III.dds"
 	}
 
 	spriteType = {
@@ -5827,7 +5827,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_ITA_benito_mussolini
-		texturefile = "gfx/leaders/ITA/Portrait_Italy_Benito_Mussolini.dds"
+		texturefile = "gfx/leaders/ITA/Yuuka_Mussolini.dds"
 	}
 
 	spriteType = {
@@ -5872,7 +5872,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_ITA_italo_balbo
-		texturefile = "gfx/leaders/ITA/portrait_italy_italo_balbo.dds"
+		texturefile = "gfx/leaders/ITA/Yuuka_Balbo.dds"
 	}
 
 	spriteType = {
@@ -9551,11 +9551,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ITA_prince_umberto"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_prince_umberto.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Umberto.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ITA_vittorio_emanuele_III"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_vittorio_emanuele_III.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Emanuele_III.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ITA_mario_roatta"
@@ -9591,7 +9591,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ITA_grand_council"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_grand_council.dds"
+		texturefile = "gfx/leaders/ITA/Sunflower_Council.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ITA_carlo_geloso"
@@ -9615,19 +9615,35 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AOI_amedeo_di_savoia_aosta"
-		texturefile = "gfx/leaders/ITA/portrait_AOI_amedeo_di_savoia_aosta.dds"
+		texturefile = "gfx/leaders/ITA/Elly_di_Savoia_Aosta.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ITA_cln"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_cln.dds"
+		texturefile = "gfx/leaders/ITA/Voile_cln.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_ITA_prince_aimone"
-		texturefile = "gfx/leaders/ITA/portrait_ITA_prince_aimone.dds"
+		texturefile = "gfx/leaders/ITA/Patchouli_Aimone.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_MNT_blazo_dukanovic"
 		texturefile = "gfx/leaders/ITA/portrait_MNT_blazo_dukanovic.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Italy_C"
+		texturefile = "gfx/leaders/ITA/Yuuka_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Italy_D"
+		texturefile = "gfx/leaders/ITA/Patchouli_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Italy_F"
+		texturefile = "gfx/leaders/ITA/Yuuka_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Italy_N"
+		texturefile = "gfx/leaders/ITA/Eiki_GenericN.dds"
 	}
 
 	spriteType = {
