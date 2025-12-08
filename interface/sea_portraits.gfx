@@ -163,23 +163,23 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_JAP_abe_isoo"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_abe_isoo.dds"
+		texturefile = "gfx/leaders/JAP/Akyuu_Isoo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_adachi_kenzo"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_adachi_kenzo.dds"
+		texturefile = "gfx/leaders/JAP/Kotohime_Kenzo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_emperor_yasuhito"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_emperor_yasuhito.dds"
+		texturefile = "gfx/leaders/JAP/Miko_Yasuhito.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_hitoshi_yamakawa"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_hitoshi_yamakawa.dds"
+		texturefile = "gfx/leaders/JAP/Konngara_Yamakawa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_ichiro_hatoyama"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_ichiro_hatoyama.dds"
+		texturefile = "gfx/leaders/JAP/Akyuu_Hatoyama.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_isamu_cho"
@@ -187,11 +187,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_jinzaburo_masaki"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_jinzaburo_masaki.dds"
+		texturefile = "gfx/leaders/JAP/Kotohime_Masaki.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_kanson_arahata"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_kanson_arahata.dds"
+		texturefile = "gfx/leaders/JAP/Konngara_Arahata.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_kiyosada_koda"
@@ -199,7 +199,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_sanzo_nosaka"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_sanzo_nosaka.dds"
+		texturefile = "gfx/leaders/JAP/Konngara_Nosaka.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_takaji_muranaka"
@@ -207,11 +207,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_tokugawa_iesato"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_tokugawa_iesato.dds"
+		texturefile = "gfx/leaders/JAP/Akyuu_Iesato.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_yamakawa_kikue"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_yamakawa_kikue.dds"
+		texturefile = "gfx/leaders/JAP/Konngara_Kikue.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_asaichi_isobe"
@@ -219,11 +219,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_empress_nagako"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_empress_nagako.dds"
+		texturefile = "gfx/leaders/JAP/Miko_Nagako.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_machida_chuuji"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_machida_chuuji.dds"
+		texturefile = "gfx/leaders/JAP/Akyuu_Chuuji.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_saburo_aizawa"
@@ -231,7 +231,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_seigo_nakano"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_seigo_nakano.dds"
+		texturefile = "gfx/leaders/JAP/Kotohime_Nakano.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_shiro_nonaka"
@@ -251,11 +251,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_giro_senoo"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_giro_senoo.dds"
+		texturefile = "gfx/leaders/JAP/Wtf_Senoo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_JAP_emperor_nobuhito"
-		texturefile = "gfx/leaders/JAP/portrait_JAP_emperor_nobuhito.dds"
+		texturefile = "gfx/leaders/JAP/Miko_Nobuhito.dds"
 	}
 	## KOR ##
 	spriteType = {
