@@ -457,7 +457,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_SIK_sheng_shicai"
-		texturefile = "gfx/leaders/CHI/portrait_SIK_sheng_shicai.dds"
+		texturefile = "gfx/leaders/SIK/Kutaka_Shicai.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SND_han_fuju"

@@ -3572,3 +3572,29 @@ YUG = {
 	}
 }
 
+SIK = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Sinkiang_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Sinkiang_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Sinkiang_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Sinkiang_N" 
+			}
+		}
+	}
+}
+
+

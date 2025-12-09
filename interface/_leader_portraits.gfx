@@ -1641,7 +1641,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_sheng_shicai"
-		texturefile = "gfx/leaders/SIK/Portrait_Sinkiang_Sheng_Shicai.dds"
+		texturefile = "gfx/leaders/SIK/Kutaka_Shicai.dds"
 	}
 
 	spriteType = {
@@ -7384,7 +7384,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SIK_sheng_shicai
-		texturefile = "gfx/leaders/SIK/Portrait_Sinkiang_Sheng_Shicai.dds"
+		texturefile = "gfx/leaders/SIK/Kutaka_Shicai.dds"
 	}
 
 	spriteType = {
@@ -7404,17 +7404,34 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SIK_kwong_jin
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/SIK/Kutaka_Jin.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SIK_luo_wei
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/SIK/Kutaka_Wei.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SIK_liang_jiang
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/SIK/Kutaka_Jiang.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_Sinkiang_C
+		texturefile = "gfx/leaders/SIK/Kutaka_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Sinkiang_D
+		texturefile = "gfx/leaders/SIK/Kutaka_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Sinkiang_F
+		texturefile = "gfx/leaders/SIK/Kutaka_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Sinkiang_N
+		texturefile = "gfx/leaders/SIK/Kutaka_GenericN.dds"
 	}
 
 	spriteType = {
