@@ -114,7 +114,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_Portrait_USA_N"
-		texturefile = gfx/leaders/USA/Misumaru_GenericN.dds
+		texturefile = gfx/leaders/USA/Mamizou_GenericN.dds
 	}
 
 	# Polish #######
@@ -7342,44 +7342,44 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Phraya_Phahon
-		texturefile = "gfx/leaders/SIA/Seiga_Phahon.dds"
+		texturefile = "gfx/leaders/SIA/Meira_Phahon.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Nangklao_Chichalerm
-		texturefile = "gfx/leaders/SIA/Seiga_Chichalerm.dds"
+		texturefile = "gfx/leaders/SIA/Meira_Chichalerm.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Chao_Phonphayuhasena
-		texturefile = "gfx/leaders/SIA/Seiga_Phonphayuhasena.dds"
+		texturefile = "gfx/leaders/SIA/Meira_Phonphayuhasena.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Nangklao_Suriyawongse
-		texturefile = "gfx/leaders/SIA/Seiga_Suriyawongse.dds"
+		texturefile = "gfx/leaders/SIA/Meira_Suriyawongse.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Plaek_Phibunsongkhram
-		texturefile = "gfx/leaders/SIA/Seiga_Phibunsongkhram.dds"
+		texturefile = "gfx/leaders/SIA/Meira_Phibunsongkhram.dds"
 	}
 	
 	spriteType = {
 		name = GFX_Portrait_Siam_C
-		texturefile = "gfx/leaders/SIA/Seiga_GenericC.dds"
+		texturefile = "gfx/leaders/SIA/Meira_GenericC.dds"
 	}
 	spriteType = {
 		name = GFX_Portrait_Siam_D
-		texturefile = "gfx/leaders/SIA/Seiga_GenericD.dds"
+		texturefile = "gfx/leaders/SIA/Meira_GenericD.dds"
 	}
 	spriteType = {
 		name = GFX_Portrait_Siam_F
-		texturefile = "gfx/leaders/SIA/Seiga_GenericF.dds"
+		texturefile = "gfx/leaders/SIA/Meira_GenericF.dds"
 	}
 	spriteType = {
 		name = GFX_Portrait_Siam_N
-		texturefile = "gfx/leaders/SIA/Seiga_GenericN.dds"
+		texturefile = "gfx/leaders/SIA/Meira_GenericN.dds"
 	}
 
 	spriteType = {
@@ -7927,22 +7927,22 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Jamphel_Yeshe_Gyaltsen
-		texturefile = "gfx/leaders/TIB/Portrait_Tibet_Jamphel_Yeshe_Gyaltsen.dds"
+		texturefile = "gfx/leaders/TIB/Narumi_Gyaltsen.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Namgang_Rinpoche
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/TIB/Narumi_Rinpoche.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Penor_Tashi
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/TIB/Narumi_Tashi4.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Tsepon_Shatra
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/TIB/Narumi_Shatra.dds"
 	}
 
 	spriteType = {
@@ -8129,7 +8129,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_USA_carnot_wheeler
-		texturefile = "gfx/leaders/USA/Misumaru_Wheeler.dds"
+		texturefile = "gfx/leaders/USA/Mamizou_Wheeler.dds"
 	}
 
 	spriteType = {
@@ -8184,7 +8184,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_USA_douglas_macarthur
-		texturefile = "gfx/leaders/USA/Misumaru_MacArthur.dds"
+		texturefile = "gfx/leaders/USA/Mamizou_MacArthur.dds"
 	}
 
 	spriteType = {
@@ -8736,7 +8736,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Alf_Landon
-		texturefile = gfx/leaders/USA/Misumaru_Landon.dds
+		texturefile = gfx/leaders/USA/Mamizou_Landon.dds
 	}
 
 	spriteType = {
@@ -8823,7 +8823,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Douglas_MacArthur
-		texturefile = gfx/leaders/USA/Misumaru_MacArthur.dds
+		texturefile = gfx/leaders/USA/Mamizou_MacArthur.dds
 	}
 
 	spriteType = {
@@ -10305,7 +10305,24 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_TIB_thubten_kunphela"
-		texturefile = "gfx/leaders/TIB/portrait_TIB_thubten_kunphela.dds"
+		texturefile = "gfx/leaders/TIB/Narumi_Kunphela.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_Portrait_Tibet_C"
+		texturefile = "gfx/leaders/TIB/Narumi_GenericC.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Tibet_D"
+		texturefile = "gfx/leaders/TIB/Narumi_GenericD.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Tibet_F"
+		texturefile = "gfx/leaders/TIB/Narumi_GenericF.dds"
+	}
+	spriteType = {
+		name = "GFX_Portrait_Tibet_N"
+		texturefile = "gfx/leaders/TIB/Narumi_GenericN.dds"
 	}
 
 	## RNG ##

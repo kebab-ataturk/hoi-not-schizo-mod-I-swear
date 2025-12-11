@@ -3597,4 +3597,27 @@ SIK = {
 	}
 }
 
-
+TIB = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Tibet_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Tibet_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Tibet_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Tibet_N" 
+			}
+		}
+	}
+}

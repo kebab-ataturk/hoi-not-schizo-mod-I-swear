@@ -549,7 +549,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_TIB_phuntsok_wangyal"
-		texturefile = "gfx/leaders/PRC/portrait_TIB_phuntsok_wangyal.dds"
+		texturefile = "gfx/leaders/PRC/Narumi_Wangyal.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_zhang_zongxun"
