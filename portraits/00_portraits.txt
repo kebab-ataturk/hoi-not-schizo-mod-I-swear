@@ -3621,3 +3621,28 @@ TIB = {
 		}
 	}
 }
+
+MEN = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Mengjiang_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Mengjiang_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Mengjiang_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Mengjiang_N" 
+			}
+		}
+	}
+}

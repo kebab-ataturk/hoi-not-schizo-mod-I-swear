@@ -34,7 +34,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_SHX_wang_jingguo"
-		texturefile = "gfx/leaders/CHI/portrait_SHX_wang_jingguo.dds"
+		texturefile = "gfx/leaders/CHI/Orange_Jingguo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_YUN_lu_han"
@@ -50,7 +50,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_GDC_chen_jitang"
-		texturefile = "gfx/leaders/CHI/portrait_GDC_chen_jitang.dds"
+		texturefile = "gfx/leaders/CHI/Sannyo_Jitang.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_GSM_ma_buqing"
@@ -58,7 +58,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_GXC_li_zongren"
-		texturefile = "gfx/leaders/CHI/portrait_GXC_li_zongren.dds"
+		texturefile = "gfx/leaders/GXC/Mike_Zongren.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_KHM_ma_hushan"
@@ -130,7 +130,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_song_zheyuan"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_song_zheyuan.dds"
+		texturefile = "gfx/leaders/CHI/Keine_Zheyuan.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_chen_mingxu"
@@ -260,7 +260,7 @@ spriteTypes = {
 	## KOR ##
 	spriteType = {
 		name = "GFX_portrait_KOR_pak_hon_yong"
-		texturefile = "gfx/leaders/JAP/portrait_KOR_pak_hon_yong.dds"
+		texturefile = "gfx/leaders/JAP/Yoshika_Hon_Yong.dds"
 	}
 
 
@@ -433,7 +433,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_zhang_guotao"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_zhang_guotao.dds"
+		texturefile = "gfx/leaders/PRC/Yachie_Guotao.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_zhang_wentian"
@@ -461,11 +461,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_SND_han_fuju"
-		texturefile = "gfx/leaders/CHI/portrait_SND_han_fuju.dds"
+		texturefile = "gfx/leaders/CHI/Misumaru_Fuju.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_KOR_kim_il_sung"
-		texturefile = "gfx/leaders/PRC/portrait_KOR_kim_il_sung.dds"
+		texturefile = "gfx/leaders/PRC/Yoshika_il_Sung.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_MAN_zhao_shangzhi"
@@ -473,7 +473,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_MEN_serengdongrub"
-		texturefile = "gfx/leaders/PRC/portrait_MEN_serengdongrub.dds"
+		texturefile = "gfx/leaders/PRC/Tojiko_Serengdongrub.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_MEN_ulanhu"

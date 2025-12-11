@@ -93,7 +93,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_chi_zhang_xueliang"
-		texturefile = "gfx/leaders/CHI/portrait_chi_zhang_xueliang.dds"
+		texturefile = "gfx/leaders/CHI/Mizuchi_Xueliang.dds"
 	}	
 	
 	##### PRC ###
