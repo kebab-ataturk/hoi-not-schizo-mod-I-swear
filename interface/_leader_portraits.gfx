@@ -1525,7 +1525,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_chi_zhang_xueliang"
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
+		texturefile = "gfx/leaders/CHI/Mizuchi_Xueliang.dds"
 	}
 
 	spriteType = {
@@ -2327,7 +2327,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_yun_long_yun"
-		texturefile = "gfx/leaders/YUN/portrait_yun_long_yun.dds"
+		texturefile = "gfx/leaders/YUN/Kogasa_Yun.dds"
 	}
 
 	spriteType = {
@@ -2340,7 +2340,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_xsm_ma_bufang"
-		texturefile = "gfx/leaders/XSM/portrait_xsm_ma_bufang.dds"
+		texturefile = "gfx/leaders/XSM/Keiki_Bufang.dds"
 	}
 
 	spriteType = {
@@ -8466,17 +8466,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_XSM_mao_sun
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+		texturefile = "gfx/leaders/XSM/Keiki_Sun.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_XSM_hsia_sun
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+		texturefile = "gfx/leaders/XSM/Keiki_Hsia_Sun.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_XSM_hsia_jin
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/XSM/Keiki_Hsia_Jin.dds"
 	}
 
 	spriteType = {
@@ -8631,17 +8631,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_YUN_mao_dong
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
+		texturefile = "gfx/leaders/YUN/Kogasa_Dong.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_YUN_cheng_peng
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
+		texturefile = "gfx/leaders/YUN/Kogasa_Peng.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_YUN_hsia_wu
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/YUN/Kogasa_Wu.dds"
 	}
 
 	spriteType = {

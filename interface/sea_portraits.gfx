@@ -54,7 +54,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_GSM_ma_buqing"
-		texturefile = "gfx/leaders/CHI/portrait_GSM_ma_buqing.dds"
+		texturefile = "gfx/leaders/CHI/Mayumi_Buqing.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_GXC_li_zongren"
@@ -70,11 +70,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_NXM_ma_hongkui"
-		texturefile = "gfx/leaders/CHI/portrait_NXM_ma_hongkui.dds"
+		texturefile = "gfx/leaders/CHI/Nina_Hongkui.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SIC_liu_xiang"
-		texturefile = "gfx/leaders/CHI/portrait_SIC_liu_xiang.dds"
+		texturefile = "gfx/leaders/CHI/Mystia_Xiang.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_wang_jingwei"
@@ -453,7 +453,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_QHM_ma_lin"
-		texturefile = "gfx/leaders/CHI/portrait_QHM_ma_lin.dds"
+		texturefile = "gfx/leaders/CHI/Keiki_Lin.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SIK_sheng_shicai"
