@@ -5,17 +5,17 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_ger_wilhelm_ii"
-		texturefile = "gfx/leaders/GER/portrait_ger_wilhelm_ii.dds"
+		texturefile = "gfx/leaders/GER/Sakuya_Wilhelm2.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_ger_august_von_mackensen"
-		texturefile = "gfx/leaders/GER/portrait_ger_august_von_mackensen.dds"
+		texturefile = "gfx/leaders/GER/Sakuya_Mackensen.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_portrait_ger_wilhelm_iii"
-		texturefile = "gfx/leaders/GER/portrait_ger_wilhelm_iii.dds"
+		texturefile = "gfx/leaders/GER/Sakuya_Wilhelm3.dds"
 	}
 	
 	spriteType = {
@@ -105,7 +105,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_prc_wang_ming"
-		texturefile = "gfx/leaders/PRC/portrait_prc_wang_ming.dds"
+		texturefile = "gfx/leaders/PRC/Enoko_Ming.dds"
 	}
 	
 	spriteType = {
@@ -132,7 +132,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_man_henry_pu_yi_emperor"
-		texturefile = "gfx/leaders/MAN/portrait_man_henry_pu_yi.dds"
+		texturefile = "gfx/leaders/MAN/Futo_Yi.dds"
 	}
 	
 	spriteType = {
@@ -142,7 +142,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_man_zhang_jinghui"
-		texturefile = "gfx/leaders/MAN/portrait_man_zhang_jinghui.dds"
+		texturefile = "gfx/leaders/MAN/Futo_Jinghui.dds"
 	}
 	
 	spriteType = {

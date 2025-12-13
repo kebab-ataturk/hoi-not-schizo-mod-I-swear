@@ -18,7 +18,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_chiang_kai_shek"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_chiang_kai_shek.dds"
+		texturefile = "gfx/leaders/CHI/Meiling_Kai_Shek.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_dai_li"
@@ -393,19 +393,19 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_bo_gu"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_bo_gu.dds"
+		texturefile = "gfx/leaders/PRC/Yachie_gu.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_deng_zihui"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_deng_zihui.dds"
+		texturefile = "gfx/leaders/PRC/Yachie_Zihui.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_gao_gang"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_gao_gang.dds"
+		texturefile = "gfx/leaders/PRC/Yachie_Gang.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_guotao_and_mao"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_guotao_and_mao.dds"
+		texturefile = "gfx/leaders/PRC/Guotao_And_Mao.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_he_long"
@@ -417,7 +417,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_li_zhen"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_li_zhen.dds"
+		texturefile = "gfx/leaders/PRC/Enoko_Zhen.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_mo_xiong"
@@ -429,15 +429,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_wang_ming"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_wang_ming.dds"
+		texturefile = "gfx/leaders/PRC/Enoko_Ming.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_zhang_guotao"
-		texturefile = "gfx/leaders/PRC/Yachie_Guotao.dds"
+		texturefile = "gfx/leaders/PRC/Enoko_Guotao.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PRC_zhang_wentian"
-		texturefile = "gfx/leaders/PRC/portrait_PRC_zhang_wentian.dds"
+		texturefile = "gfx/leaders/PRC/Yachie_Wentian.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_chan_chak"
@@ -469,7 +469,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_MAN_zhao_shangzhi"
-		texturefile = "gfx/leaders/PRC/portrait_MAN_zhao_shangzhi.dds"
+		texturefile = "gfx/leaders/PRC/Futo_Shangzhi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_MEN_serengdongrub"

@@ -3646,3 +3646,53 @@ MEN = {
 		}
 	}
 }
+
+MAN = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Manchukuo_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Manchukuo_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Manchukuo_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Manchukuo_N" 
+			}
+		}
+	}
+}
+
+PRC = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_PRC_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_PRC_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_PRC_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_PRC_N" 
+			}
+		}
+	}
+}
