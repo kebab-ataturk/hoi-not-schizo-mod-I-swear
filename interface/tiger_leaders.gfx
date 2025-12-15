@@ -68,7 +68,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_chi_wang_jingwei"
-		texturefile = "gfx/leaders/CHI/portrait_chi_wang_jingwei.dds"
+		texturefile = "gfx/leaders/CHI/Seiga_Jingwei.dds"
 	}
 
 	spriteType = {
@@ -100,7 +100,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_prc_zhang_lan"
-		texturefile = "gfx/leaders/PRC/portrait_prc_zhang_lan.dds"
+		texturefile = "gfx/leaders/PRC/Meiling_Lan.dds"
 	}
 	
 	spriteType = {

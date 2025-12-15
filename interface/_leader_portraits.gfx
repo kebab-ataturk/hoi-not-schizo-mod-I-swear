@@ -1535,7 +1535,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_chi_wang_jingwei"
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_fascism.dds"
+		texturefile = "gfx/leaders/CHI/Seiga_Jingwei.dds"
 	}
 
 	spriteType = {
@@ -1545,7 +1545,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_chi_weng_wenhao"
-		texturefile = "gfx/leaders/CHI/Portrait_China_weng_wenhao.dds"
+		texturefile = "gfx/leaders/CHI/Meiling_Wenhao.dds"
 	}
 
 	spriteType = {
@@ -2290,7 +2290,7 @@ spriteTypes = {
 	##### WTT #####
 	spriteType = {
 		name = "GFX_portrait_alexander_von_falkenhausen"
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_2.dds"
+		texturefile = "gfx/leaders/CHI/Sukusuku_Falkenhausen.dds"
 	}
 
 	spriteType = {
@@ -4045,6 +4045,23 @@ spriteTypes = {
 	spriteType = {
 		name = GFX_portrait_CHI_chiang_kaishek
 		texturefile = "gfx/leaders/CHI/Meiling_Kai_Shek.dds"
+	}
+	
+	spriteType = {
+		name = GFX_Portrait_China_C
+		texturefile = "gfx/leaders/CHI/Seiga_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_China_D
+		texturefile = "gfx/leaders/CHI/Meiling_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_China_F
+		texturefile = "gfx/leaders/CHI/Seiga_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_China_N
+		texturefile = "gfx/leaders/CHI/Meiling_GenericN.dds"
 	}
 
 	spriteType = {
@@ -7048,22 +7065,38 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Manuel_Luis_Quezon
-		texturefile = "gfx/leaders/PHI/Portrait_Philippines_Manuel_Luis_Quezon.dds"
+		texturefile = "gfx/leaders/PHI/Miyoi_Quezon.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Pedro_P_Baguisa
-		texturefile = "gfx/leaders/South America/Portrait_South_America_Generic_land_2.dds"
+		texturefile = "gfx/leaders/PHI/Sumireko_Baguisa.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Deodato_Jacinto
-		texturefile = "gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
+		texturefile = "gfx/leaders/PHI/Miyoi_Deodato_Jacinto.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_Hermano_Jacinto
-		texturefile = "gfx/leaders/Asia/portrait_asia_generic_4.dds"
+		texturefile = "gfx/leaders/PHI/Sumireko_Hermano_Jacinto.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Philippines_C
+		texturefile = "gfx/leaders/PHI/Sumireko_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Philippines_D
+		texturefile = "gfx/leaders/PHI/Miyoi_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Philippines_F
+		texturefile = "gfx/leaders/PHI/Mioyoi_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Philippines_N
+		texturefile = "gfx/leaders/PHI/Sumireko_GenericN.dds"
 	}
 
 	spriteType = {
@@ -8205,7 +8238,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_USA_dwight_d_eisenhower
-		texturefile = "gfx/leaders/USA/Portrait_USA_Dwight_D_Eisenhower.dds"
+		texturefile = "gfx/leaders/USA/Mamizou_Eisenhower.dds"
 	}
 
 	spriteType = {

@@ -14,7 +14,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_CHI_carsun_chang"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_carsun_chang.dds"
+		texturefile = "gfx/leaders/CHI/Meiling_Chang.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_chiang_kai_shek"
@@ -22,11 +22,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_dai_li"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_dai_li.dds"
+		texturefile = "gfx/leaders/CHI/Seiga_Li.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_soong_ching_ling"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_soong_ching_ling.dds"
+		texturefile = "gfx/leaders/CHI/Meiling_Ching_Ling.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_GXC_bai_chongxi"
@@ -78,7 +78,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_wang_jingwei"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_wang_jingwei.dds"
+		texturefile = "gfx/leaders/CHI/Seiga_Jingwei.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_YUN_hu_ruoyu"
@@ -122,7 +122,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_soong_mei_ling"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_soong_mei_ling.dds"
+		texturefile = "gfx/leaders/CHI/Hong_Meiling.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SIC_liu_wenhui"
@@ -134,11 +134,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_chen_mingxu"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_chen_mingxu.dds"
+		texturefile = "gfx/leaders/CHI/Meiling_Mingxu.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_zheng_qi"
-		texturefile = "gfx/leaders/CHI/portrait_CHI_zheng_qi.dds"
+		texturefile = "gfx/leaders/CHI/Meiling_Qi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_CHI_cai_tingkai"
@@ -276,23 +276,23 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_PHI_back_soon"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_back_soon.dds"
+		texturefile = "gfx/leaders/PHI/Geidontei_back_soon.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_cristanto_evangelista"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_cristanto_evangelista.dds"
+		texturefile = "gfx/leaders/PHI/Sumireko_Evangelista.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_emilio_aguinaldo"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_emilio_aguinaldo.dds"
+		texturefile = "gfx/leaders/PHI/Miyoi_Aguinaldo.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_pedro_abad_santos"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_pedro_abad_santos.dds"
+		texturefile = "gfx/leaders/PHI/Sumireko_Santos.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_artemio_ricarte"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_artemio_ricarte.dds"
+		texturefile = "gfx/leaders/PHI/Miyoi_Ricarte.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_enrique_jurado"
@@ -324,7 +324,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_douglas_macarthur"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_douglas_macarthur.dds"
+		texturefile = "gfx/leaders/USA/Mamizou_MacArthur.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_edward_king"
@@ -336,15 +336,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_jose_laurel"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_jose_laurel.psd.dds"
+		texturefile = "gfx/leaders/PHI/Miyoi_Laurel.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_manuel_quezon"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_manuel_quezon.dds"
+		texturefile = "gfx/leaders/PHI/Miyoi_Quezon.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_manuel_roxas"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_manuel_roxas.dds"
+		texturefile = "gfx/leaders/PHI/Miyoi_Roxas.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_thomas_hart"
@@ -356,11 +356,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_police_chief_eisenhower"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_police_chief_eisenhower.dds"
+		texturefile = "gfx/leaders/USA/Mamizou_Eisenhower.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_king_juan_III"
-		texturefile = "gfx/leaders/PHI/portrait_PHI_king_juan_III.dds"
+		texturefile = "gfx/leaders/PHI/Sumireko_Juan_III.dds"
 	}
 	
 

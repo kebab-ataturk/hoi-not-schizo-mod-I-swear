@@ -3696,3 +3696,53 @@ PRC = {
 		}
 	}
 }
+
+CHI = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_China_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_China_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_China_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_China_N" 
+			}
+		}
+	}
+}
+
+PHI = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Philippines_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Philippines_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Philippines_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Philippines_N" 
+			}
+		}
+	}
+}
