@@ -3746,3 +3746,28 @@ PHI = {
 		}
 	}
 }
+
+SWI = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Switzerland_C"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Switzerland_D"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Switzerland_F"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Switzerland_N" 
+			}
+		}
+	}
+}

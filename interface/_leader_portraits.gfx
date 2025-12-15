@@ -3331,7 +3331,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_portrait_SWI_robert_tobler"
-		texturefile = "gfx/leaders/SWI/portrait_SWI_robert_tobler.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Tobler.dds"
 	}
 
 	spriteType = {
@@ -7955,22 +7955,38 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_SWI_federal_assembly
-		texturefile = "gfx/leaders/SWI/portrait_SWI_federal_building.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Assembly.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SWI_ernest_beuin
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Beuin.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SWI_max_leo_keller
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Keller.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_SWI_fritz_platten
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Platten.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Switzerland_C
+		texturefile = "gfx/leaders/SWI/Aya_GenericC.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Switzerland_D
+		texturefile = "gfx/leaders/SWI/Aya_GenericD.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Switzerland_F
+		texturefile = "gfx/leaders/SWI/Aya_GenericF.dds"
+	}
+	spriteType = {
+		name = GFX_Portrait_Switzerland_N
+		texturefile = "gfx/leaders/SWI/Aya_GenericN.dds"
 	}
 
 	spriteType = {

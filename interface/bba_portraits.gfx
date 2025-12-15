@@ -120,7 +120,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = GFX_portrait_SWI_federal_council
-		texturefile = "gfx/leaders/SWI/portrait_SWI_federal_council.dds"
+		texturefile = "gfx/leaders/SWI/Bunbunmaru.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SWI_ernst_nobs"
@@ -168,7 +168,7 @@ spriteTypes = {
 	}
 		spriteType = {
 		name = "GFX_portrait_SWI_rolf_henne"
-		texturefile = "gfx/leaders/SWI/portrait_SWI_rolf_henne.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Henne.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SWI_enrico_celio"
@@ -256,11 +256,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_SWI_federal_council"
-		texturefile = "gfx/leaders/SWI/portrait_SWI_federal_council.dds"
+		texturefile = "gfx/leaders/SWI/Bunbunmaru.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SWI_max_leo_keller"
-		texturefile = "gfx/leaders/SWI/portrait_SWI_max_leo_keller.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Keller.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SWI_lucien_tronchet"
@@ -280,7 +280,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_SWI_fritz_platten"
-		texturefile = "gfx/leaders/SWI/portrait_SWI_fritz_platten.dds"
+		texturefile = "gfx/leaders/SWI/Aya_Platten.dds"
 	}
 
 
