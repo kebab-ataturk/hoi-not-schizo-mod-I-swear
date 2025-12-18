@@ -19,15 +19,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_wilhelm_miklas"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_wilhelm_miklas.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Wilhelm_Miklas.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_edmund_glaise_horstenau"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_edmund_glaise_horstenau.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Edmund_Glaise_Horstenau.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_arthur_seyss_inquart"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_arthur_seyss_inquart.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Arthur_Seyss_Inquart.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_ernst_hammer"
@@ -43,11 +43,11 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_johann_koplenig"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_johann_koplenig.dds"
+		texturefile = "gfx/leaders/AUS/Yuugi_Johann_Koplenig.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_ernst_rudiger_starhemberg"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_ernst_rudiger_starhemberg.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Ernst_Rudiger_Starhemberg.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_franz_bohme"
@@ -59,7 +59,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_vinzenz_schumy"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_vinzenz_schumy.dds"
+		texturefile = "gfx/leaders/AUS/Yuugi_Vinzenz_Schumy.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_karl_eglseer"
@@ -71,7 +71,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_karl_renner"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_karl_renner.dds"
+		texturefile = "gfx/leaders/AUS/Yuugi_Karl_Renner.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_wilhelm_gebauer"
@@ -95,7 +95,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_kurt_schuschnigg"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_kurt_schuschnigg.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Kurt_Schuschnigg.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_lothar_rendulic"
@@ -127,7 +127,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_alois_of_liechtenstein"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_alois_of_liechtenstein.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Alois_Of_Liechtenstein.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_AUS_konrad_von_hotzendorf"
@@ -453,7 +453,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_arpad_szakasits"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_arpad_szakasits.dds"
+		texturefile = "gfx/leaders/HUN/Kurumi_Arpad_Szakasits.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_bela_miklos"
@@ -461,7 +461,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_carl_wilhelm"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_carl_wilhelm.dds"
+		texturefile = "gfx/leaders/HUN/Kurumi_Carl_Wilhelm.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_dome_sztojay"
@@ -473,7 +473,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_ferenc_szalasi"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_ferenc_szalasi.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Ferenc_Szalasi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_ferenc_szombathelyi"
@@ -481,7 +481,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_franz_friedrich"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_franz_friedrich.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Franz_Friedrich.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_gusztav_jany"
@@ -489,7 +489,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_gyula_gombos_de_jakfa"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_gyula_gombos_de_jakfa.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Gyula_Gombos_De_Jakfa.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_henrik_werth"
@@ -505,7 +505,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_istvan_horthy"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_istvan_horthy.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Istvan_Horthy.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_janos_voros"
@@ -513,7 +513,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_janos_zichy"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_janos_zichy.dds"
+		texturefile = "gfx/leaders/HUN/Kurumi_Janos_Zichy.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_jeno_oszkar_ruszkay"
@@ -525,7 +525,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_joseph_august_von_habsburg"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_joseph_august_von_habsburg.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Joseph_August_Von_Habsburg.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_lajos_csatay"
@@ -533,19 +533,19 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_matyas_rakosi"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_matyas_rakosi.dds"
+		texturefile = "gfx/leaders/HUN/Elis_Matyas_Rakosi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_mihaly_karolyi"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_mihaly_karolyi.dds"
+		texturefile = "gfx/leaders/HUN/Kurumi_Mihaly_Karolyi.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_miklos_horthy"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_miklos_horthy.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Horthy.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_miklos_horthy_monarch"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_miklos_horthy_monarch.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Horthy_Monarch.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_pal_pronay"
@@ -605,7 +605,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_otto_von_habsburg_military"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_otto_von_habsburg_military.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Otto_Von_Habsburg.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_HUN_vilmos_nagy"
@@ -641,7 +641,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_portrait_CRO_nikola_mandic"
-		texturefile = "gfx/leaders/HUN/portrait_CRO_nikola_mandic.dds"
+		texturefile = "gfx/leaders/CRO/Ringo_Mandic.dds"
 	}
 	
 	spriteType = {

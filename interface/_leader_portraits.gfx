@@ -1198,7 +1198,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_hungary_friedrich_franz"
-		texturefile = "gfx/leaders/Europe/portrait_europe_generic_6.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Franz_Friedrich.dds"
 	}
 
 	spriteType = {
@@ -1208,7 +1208,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_hungary_bela_kun"
-		texturefile = "gfx/leaders/Europe/portrait_europe_generic_5.dds"
+		texturefile = "gfx/leaders/HUN/Elis_Bela_Kun.dds"
 	}
 
 	spriteType = {
@@ -1238,7 +1238,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_hungary_miklos_horthy_admiral"
-		texturefile = "gfx/leaders/HUN/Portrait_Hungary_Miklos_Horthy.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Horthy.dds"
 	}
 
 	spriteType = {
@@ -1280,35 +1280,35 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_Portrait_hungary_miklos_horthy"
-		texturefile = "gfx/leaders/HUN/Portrait_Hungary_Miklos_Horthy.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Horthy.dds"
 	}
 
 	spriteType = {
 		name = "GFX_Portrait_hungary_matyas_rakosi"
-		texturefile = "gfx/leaders/HUN/Portrait_Hungary_Matyas_Rakoski.dds"
+		texturefile = "gfx/leaders/HUN/Elis_Matyas_Rakosi.dds"
 	}
 
 
 	spriteType = {
 		name = "GFX_Portrait_hungary_istvan_szechenyi"
-		texturefile = "gfx/leaders/Europe/Portrait_europe_generic_7.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Istvan_Szechenyi.dds"
 	}
 
 	### GEORGIA ###
 
 	spriteType = {
 		name = "GFX_portrait_GEO_kandid_charkviani"
-		texturefile = "gfx/leaders/GEO/portrait_GEO_kandid_charkviani.dds"
+		texturefile = "gfx/leaders/GEO/fella.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_GEO_george_bagration_mukhrani"
-		texturefile = "gfx/leaders/GEO/portrait_GEO_george_bagration_mukhrani.dds"
+		texturefile = "gfx/leaders/GEO/fella.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_GEO_noe_zhordania"
-		texturefile = "gfx/leaders/GEO/portrait_GEO_noe_zhordania.dds"
+		texturefile = "gfx/leaders/GEO/fella.dds"
 	}
 
 	spriteType = {
@@ -3595,22 +3595,22 @@ spriteTypes = {
 
 	spriteType = { #EASTER EGG
 		name = "GFX_portrait_AUS_johann_hiedler"
-		texturefile = "gfx/leaders/AUS/portrait_AUS_johann_hiedler.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Johann_Hiedler.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_AUS_kurt_schuschnigg
-		texturefile = "gfx/leaders/AUS/Portrait_Austria_Kurt_Schuschnigg.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Kurt_Schuschnigg.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_AUS_karl_renner
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_2.dds"
+		texturefile = "gfx/leaders/AUS/Yuugi_Karl_Renner.dds"
 	}
 
 	spriteType = {
 		name = GFX_portrait_AUS_arthur_seyss-inquart
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_1.dds"
+		texturefile = "gfx/leaders/AUS/Momiji_Arthur_Seyss_Inquart.dds"
 	}
 
 	spriteType = {
@@ -3620,7 +3620,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_AUS_alfred_klahr
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds"
+		texturefile = "gfx/leaders/AUS/Yuugi_Alfred_Klahr.dds"
 	}
 
 	spriteType = {
@@ -4200,7 +4200,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Ilyas_Tarkhan
-		texturefile = "gfx/leaders/Europe/Portrait_Europe_Generic_1.dds"
+		texturefile = "gfx/leaders/Generics/Communist/Communist_Generic2C.dds"
 	}
 
 	spriteType = {
@@ -5005,19 +5005,19 @@ spriteTypes = {
 	######## SAMI ########
 	spriteType = {
 		name = "GFX_portrait_generic_sami_army_general_1"
-		texturefile = "gfx/leaders/SMI/portrait_generic_sami_army_general_1.dds"
+		texturefile = "gfx/leaders/SMI/nature.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_generic_sami_army_general_2"
-		texturefile = "gfx/leaders/SMI/portrait_generic_sami_army_general_2.dds"
+		texturefile = "gfx/leaders/SMI/nature.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_generic_sami_navy_admiral_1"
-		texturefile = "gfx/leaders/SMI/portrait_generic_sami_navy_admiral_1.dds"
+		texturefile = "gfx/leaders/SMI/nature.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_SMI_sami_council"
-		texturefile = "gfx/leaders/SMI/portrait_SMI_sami_council.dds"
+		texturefile = "gfx/leaders/SMI/nature.dds"
 	}
 
 	###### KARELIA ######
@@ -8766,7 +8766,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Arthur_Seyss_Inquart
-		texturefile = gfx/leaders/Europe/portrait_europe_generic_5.dds
+		texturefile = gfx/leaders/AUS/Momiji_Arthur_Seyss_Inquart.dds
 	}
 
 	spriteType = {
@@ -8988,22 +8988,22 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Vasil_Zacharka
-		texturefile = gfx/leaders/Europe/Portrait_Europe_Generic_3.dds
+		texturefile = gfx/leaders/BLR/portrait_BLR_radaslau_astrouski.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Radasłau_Astrouski
-		texturefile = gfx/leaders/Europe/Portrait_Europe_Generic_land_3.dds
+		texturefile = gfx/leaders/BLR/portrait_BLR_radaslau_astrouski.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Panteleimon_Ponomarenko
-		texturefile = gfx/leaders/Europe/Portrait_Europe_Generic_1.dds
+		texturefile = gfx/leaders/BLR/portrait_BLR_radaslau_astrouski.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Adam_Stankievic
-		texturefile = gfx/leaders/Europe/Portrait_Europe_Generic_2.dds
+		texturefile = gfx/leaders/BLR/portrait_BLR_radaslau_astrouski.dds
 	}
 
 	spriteType = {
@@ -9325,12 +9325,12 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Bashir_es_Sadawi
-		texturefile = gfx/leaders/LBA/Portrait_Arabia_Generic_democratic1.dds
+		texturefile = gfx/leaders/LBA/kazuma.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Ettore_Bastico
-		texturefile = gfx/leaders/LBA/Portrait_Italy_Giuseppe_Fioravanzo.dds
+		texturefile = gfx/leaders/LBA/kazuma.dds
 	}
 
 	spriteType = {
@@ -9340,7 +9340,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Hassan_as_Senussi
-		texturefile = gfx/leaders/LBA/Portrait_Arabia_Generic_communism1.dds
+		texturefile = gfx/leaders/LBA/kazuma.dds
 	}
 
 	spriteType = {
@@ -9503,17 +9503,17 @@ spriteTypes = {
 
 	spriteType = {
 		name = GFX_portrait_Kost_Levytsky
-		texturefile = gfx/leaders/Europe/Portrait_Europe_Generic_2.dds
+		texturefile = gfx/leaders/Generics/Democratic/Democratic_Generic4A.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Nikita_Sergeyevich_Khrushchyov
-		texturefile = gfx/leaders/Europe/Portrait_Europe_Generic_land_4.dds
+		texturefile = gfx/leaders/Generics/Communist/Communist_Generic5B.dds
 	}
 
 	spriteType = {
 		name = GFX_portrait_Stepan_Bandera
-		texturefile = gfx/leaders/SOV/Portrait_Soviet_Generic_3.dds
+		texturefile = gfx/leaders/Generics/Fascist/Fascist_Generic2C.dds
 	}
 
 	spriteType = {
@@ -9947,8 +9947,50 @@ spriteTypes = {
 	## HUN ##
 	SpriteType = {
 		name = "GFX_portrait_HUN_franz_anton_bach"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_franz_anton_bach.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Franz_Anton_Bach.dds"
 	}
+	
+	SpriteType = {
+		name = GFX_Portrait_Hungary_C
+		texturefile = "gfx/leaders/HUN/Elis_GenericC3.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_C2
+		texturefile = "gfx/leaders/HUN/Elis_GenericC3.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_C3
+		texturefile = "gfx/leaders/HUN/Elis_GenericC3.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_D
+		texturefile = "gfx/leaders/HUN/Kurumi_GenericD.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_D2
+		texturefile = "gfx/leaders/HUN/Kurumi_GenericD2.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_F
+		texturefile = "gfx/leaders/HUN/Remilia_GenericF.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_F2
+		texturefile = "gfx/leaders/HUN/Remilia_GenericF2.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_F3
+		texturefile = "gfx/leaders/HUN/Remilia_GenericF3.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_N
+		texturefile = "gfx/leaders/HUN/Remilia_GenericN.dds"
+	}
+	SpriteType = {
+		name = GFX_Portrait_Hungary_N2
+		texturefile = "gfx/leaders/HUN/Remilia_GenericN2.dds"
+	}
+
 
 	## LUX ##
 	SpriteType = {

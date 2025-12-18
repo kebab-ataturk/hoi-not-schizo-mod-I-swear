@@ -3771,3 +3771,34 @@ SWI = {
 		}
 	}
 }
+
+HUN = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Hungary_C"
+				"GFX_Portrait_Hungary_C2"
+				"GFX_Portrait_Hungary_C3"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Hungary_D"
+				"GFX_Portrait_Hungary_D2"
+			}
+		}
+		fascism = {
+			male = { 
+				"GFX_Portrait_Hungary_F"
+				"GFX_Portrait_Hungary_F2"
+				"GFX_Portrait_Hungary_F3"
+			}
+		}
+		neutrality = {
+			male = { 
+				"GFX_Portrait_Hungary_N"
+				"GFX_Portrait_Hungary_N2" 
+			}
+		}
+	}
+}

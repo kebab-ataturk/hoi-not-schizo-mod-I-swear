@@ -65,7 +65,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_Portrait_hungary_bela_kun"
-		texturefile = "gfx/leaders/HUN/Portrait_bela_kun.dds"
+		texturefile = "gfx/leaders/HUN/Elis_Bela_Kun.dds"
 	}
 	
 	spriteType = {
@@ -75,7 +75,7 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_Portrait_hungary_friedrich_franz"
-		texturefile = "gfx/leaders/HUN/Portrait_friedrich_franz.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Franz_Friedrich.dds"
 	}
 	
 	spriteType = {
@@ -100,22 +100,22 @@ spriteTypes = {
 	
 	spriteType = {
 		name = "GFX_Portrait_hungary_miklos_horthy_admiral"
-		texturefile = "gfx/leaders/HUN/portrait_miklos_horthy_admiral.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Horthy.dds"
 	}
 	
 	spriteType = {
 		name = "GFX_Portrait_hungary_otto_von_hapsburg"
-		texturefile = "gfx/leaders/HUN/Portrait_otto_von_hapsburg.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Otto_Von_Habsburg.dds"
 	}
 
 	spriteType = {
 		name = "GFX_Portrait_hungary_miklos_horthy"
-		texturefile = "gfx/leaders/HUN/Portrait_Hungary_Miklos_Horthy.dds"
+		texturefile = "gfx/leaders/HUN/Remilia_Horthy.dds"
 	}
 
 	spriteType = {
 		name = "GFX_portrait_HUN_arpad_szakasits"
-		texturefile = "gfx/leaders/HUN/portrait_HUN_arpad_szakasits.dds"
+		texturefile = "gfx/leaders/HUN/Kurumi_Arpad_Szakasits.dds"
 	}
 
 	spriteType = {
