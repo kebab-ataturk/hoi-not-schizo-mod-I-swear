@@ -3802,3 +3802,28 @@ HUN = {
 		}
 	}
 }
+
+CYP = {
+	political = {
+		communism = {
+			male = { 
+				"GFX_Portrait_Communist_1A"
+			}
+		}
+		democratic = {
+			male = { 
+				"GFX_Portrait_Democratic_1A" 
+			}
+		}
+		fascism = {
+			male = {
+				"GFX_Portrait_Fascist_1A" 
+			}
+		}
+		neutrality = {
+			male = { 
+ 				"GFX_Portrait_Neutrality_1A" 
+			}
+		}
+	}
+}
