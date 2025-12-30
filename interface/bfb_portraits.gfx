@@ -172,7 +172,7 @@ spriteTypes = {
 
 	SpriteType = {
 		name = "GFX_portrait_gre_themistoklis_sofoulis"
-		texturefile = "gfx/leaders/GRE/portrait_gre_themistoklis_sofoulis.dds"
+		texturefile = "gfx/leaders/GRE/Nitori_GenericD.dds"
 	}
 
 	SpriteType = {

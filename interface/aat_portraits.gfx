@@ -471,7 +471,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_christian_x"
-		texturefile = "gfx/leaders/DEN/portrait_DEN_christian_x.dds"
+		texturefile = "gfx/leaders/DEN/lyrica.dds"
 	}
 	spriteType = {
 		name = "GFX_portrait_DEN_christian_frederik_von_schalburg"
